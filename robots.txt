@@ -1,0 +1,2 @@
+Sitemap: https://tgviewer.github.io/sitemap.xml
+Sitemap: https://tgviewer.github.io/sitemap/sitemap-superdeals.xml
