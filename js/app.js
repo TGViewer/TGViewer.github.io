@@ -106,15 +106,11 @@ function renderViewType() {
 		}
 	} else {
 		if (App.viewType == 'table') {
-			$("#changeViewType").html(`
-<button id="btnViewType" type="button" class="dropdown-item"><i class="material-icons my-icon-dropdown">view_list</i> List view</button>
-<div id="btnViewTypeDivider" class="dropdown-divider"> </div>
-`);
+			$("#changeViewType").html('<button id="btnViewType" type="button" class="dropdown-item"><i class="material-icons my-icon-dropdown">view_list</i> List view</button>'
+									  + '<div id="btnViewTypeDivider" class="dropdown-divider"> </div>');
 		} else {
-			$("#changeViewType").html(`
-<button id="btnViewType" type="button" class="dropdown-item"><i class="material-icons my-icon-dropdown">view_module</i> Table view</button>
-<div id="btnViewTypeDivider" class="dropdown-divider"> </div>
-`);
+			$("#changeViewType").html('<button id="btnViewType" type="button" class="dropdown-item"><i class="material-icons my-icon-dropdown">view_module</i> Table view</button>'
+									  + '<div id="btnViewTypeDivider" class="dropdown-divider"> </div>');
 		}
 	}
 	$("#btnViewType").click(function (event) {
@@ -268,41 +264,37 @@ function getNextPage() {
 }
 
 function getTextSearchChannel() {
-	return `
-<span>
-<input name="searchChannel" id="searchChannel" class="form-control" type="text" id="search" placeholder="Enter telegram public channel name...">
-<small class="text-muted">Example: 
-<a href="" class="btnAddChannel badge badge-pill badge-light">Durov</a>, 
-<a href="" class="btnAddChannel badge badge-pill badge-light">SuperDeals</a>, 
-<a href="" class="btnAddChannel badge badge-pill badge-light">ThisIsInterestin</a>, 
-<a href="" class="btnAddChannel badge badge-pill badge-light">ReceptiVkusno</a>, 
-<a href="" class="btnAddChannel badge badge-pill badge-light">AndroidResId</a> etc.</small>
-</span>
-`;
+	return '<span>'
+		+ '<input name="searchChannel" id="searchChannel" class="form-control" type="text" id="search" placeholder="Enter telegram public channel name...">'
+		+ '<small class="text-muted">Example: '
+		+ '<a href="" class="btnAddChannel badge badge-pill badge-light">Durov</a>, '
+		+ '<a href="" class="btnAddChannel badge badge-pill badge-light">SuperDeals</a>, '
+		+ '<a href="" class="btnAddChannel badge badge-pill badge-light">ThisIsInterestin</a>, '
+		+ '<a href="" class="btnAddChannel badge badge-pill badge-light">ReceptiVkusno</a>, '
+		+ '<a href="" class="btnAddChannel badge badge-pill badge-light">AndroidResId</a> etc.</small>'
+		+ '</span>';
 }
 
 function renderDialogAddChannel() {
-	var textDialog = `
-<div class="modal fade" id="modalDialogAddChannel" tabindex="-1" role="dialog" aria-labelledby="modalDialogAddChannelLabel" aria-hidden="true">
-<div class="modal-dialog modal-dialog-centered" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="modalDialogAddChannelLabel">Add channel</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<div class="modal-body">
-` + getTextSearchChannel() + `
-</div>
-<div class="modal-footer">
-<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-<button id="btnDialogAddChannelSave" type="button" class="btn btn-primary" data-dismiss="modal">Add channel</button>
-</div>
-</div>
-</div>
-</div>
-`;
+	var textDialog = '<div class="modal fade" id="modalDialogAddChannel" tabindex="-1" role="dialog" aria-labelledby="modalDialogAddChannelLabel" aria-hidden="true">'
+	+ '<div class="modal-dialog modal-dialog-centered" role="document">'
+	+ '<div class="modal-content">'
+	+ '<div class="modal-header">'
+	+ '<h5 class="modal-title" id="modalDialogAddChannelLabel">Add channel</h5>'
+	+ '<button type="button" class="close" data-dismiss="modal" aria-label="Close">'
+	+ '<span aria-hidden="true">&times;</span>'
+	+ '</button>'
+	+ '</div>'
+	+ '<div class="modal-body">'
+	+ getTextSearchChannel()
+	+ '</div>'
+	+ '<div class="modal-footer">'
+	+ '<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>'
+	+ '<button id="btnDialogAddChannelSave" type="button" class="btn btn-primary" data-dismiss="modal">Add channel</button>'
+	+ '</div>'
+	+ '</div>'
+	+ '</div>'
+	+ '</div>';
 	$('#modalDialog').html(textDialog);
 	var searchChannel = $('#searchChannel');
 	var btnAddChannel = $('.btnAddChannel');
@@ -328,59 +320,53 @@ function renderDialogAddChannel() {
 }
 
 function renderDialogSettings() {
-	var textDialog = `
-<div class="modal fade" id="modalDialogSettings" tabindex="-1" role="dialog" aria-labelledby="modalDialogSettingsLabel" aria-hidden="true">
-<div class="modal-dialog modal-dialog-centered" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="modalDialogSettingsLabel">Settings</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<div class="modal-body">
-<div id="logoAppDialog"></div>
-<br/>
-<div>
-<div class="form-group">
-<label for="appStep" class="bmd-label-floating">Step messages</label>
-<input type="number" class="form-control" id="appStep" name="appStep" min="1" max="30" step="1" value="` + App.step + `">
-<span class="bmd-help">App step messages</span>
-</div>
-</div>
-`;
+	var textDialog = '<div class="modal fade" id="modalDialogSettings" tabindex="-1" role="dialog" aria-labelledby="modalDialogSettingsLabel" aria-hidden="true">'
+	+ '<div class="modal-dialog modal-dialog-centered" role="document">'
+	+ '<div class="modal-content">'
+	+ '<div class="modal-header">'
+	+ '<h5 class="modal-title" id="modalDialogSettingsLabel">Settings</h5>'
+	+ '<button type="button" class="close" data-dismiss="modal" aria-label="Close">'
+	+ '<span aria-hidden="true">&times;</span>'
+	+ '</button>'
+	+ '</div>'
+	+ '<div class="modal-body">'
+	+ '<div id="logoAppDialog"></div>'
+	+ '<br/>'
+	+ '<div>'
+	+ '<div class="form-group">'
+	+ '<label for="appStep" class="bmd-label-floating">Step messages</label>'
+	+ '<input type="number" class="form-control" id="appStep" name="appStep" min="1" max="30" step="1" value="' + App.step + '">'
+	+ '<span class="bmd-help">App step messages</span>'
+	+ '</div>'
+	+ '</div>';
 	if (!$.isEmptyObject(App.currentChannel)) {
 		var currentChannelName = App.currentChannel.name;
-		textDialog +=`
-<div>
-<div class="form-group">
-<label for="currentChannelMin" class="bmd-label-floating">Min message</label>
-<input type="number" class="form-control" id="currentChannelMin" name="currentChannelMin" min="1" value="` + App.currentChannel.min + `">
-<span class="bmd-help">` + currentChannelName + ` channel min message</span>
-</div>
-<div class="form-group">
-<label for="currentChannelMax" class="bmd-label-floating">Max message</label>
-<input type="number" class="form-control" id="currentChannelMax" name="currentChannelMax" min="1" value="` + App.currentChannel.max + `">
-<span class="bmd-help">` + currentChannelName + ` channel max message</span>
-</div>
-<div class="form-group">
-<label for="currentChannelValue" class="bmd-label-floating">Current message</label>
-<input type="number" class="form-control" id="currentChannelValue" name="currentChannelValue" min="1" value="` + App.currentChannel.value + `">
-<span class="bmd-help">` + currentChannelName + ` channel current message</span>
-</div>
-</div>
-`;
+		textDialog += '<div>'
+			+ '<div class="form-group">'
+			+ '<label for="currentChannelMin" class="bmd-label-floating">Min message</label>'
+			+ '<input type="number" class="form-control" id="currentChannelMin" name="currentChannelMin" min="1" value="' + App.currentChannel.min + '">'
+			+ '<span class="bmd-help">' + currentChannelName + ' channel min message</span>'
+			+ '</div>'
+			+ '<div class="form-group">'
+			+ '<label for="currentChannelMax" class="bmd-label-floating">Max message</label>'
+			+ '<input type="number" class="form-control" id="currentChannelMax" name="currentChannelMax" min="1" value="' + App.currentChannel.max + '">'
+			+ '<span class="bmd-help">' + currentChannelName + ' channel max message</span>'
+			+ '</div>'
+			+ '<div class="form-group">'
+			+ '<label for="currentChannelValue" class="bmd-label-floating">Current message</label>'
+			+ '<input type="number" class="form-control" id="currentChannelValue" name="currentChannelValue" min="1" value="' + App.currentChannel.value + '">'
+			+ '<span class="bmd-help">' + currentChannelName + ' channel current message</span>'
+			+ '</div>'
+			+ '</div>';
 	}
-	textDialog +=`
-</div>
-<div class="modal-footer">
-<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-<button id="btnDialogSettingsSave" type="button" class="btn btn-primary" data-dismiss="modal">Save settings</button>
-</div>
-</div>
-</div>
-</div>
-`;
+	textDialog += '</div>'
+		+ '<div class="modal-footer">'
+		+ '<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>'
+		+ '<button id="btnDialogSettingsSave" type="button" class="btn btn-primary" data-dismiss="modal">Save settings</button>'
+		+ '</div>'
+		+ '</div>'
+		+ '</div>'
+		+ '</div>';
 	$('#modalDialog').html(textDialog);
 	renderLogoApp('#logoAppDialog');
 	$('#modalDialog').bootstrapMaterialDesign();
@@ -416,32 +402,30 @@ function renderDialogSettings() {
 }
 
 function renderDialogAbout() {
-	var textDialog = `
-<div class="modal fade" id="modalDialogAbout" tabindex="-1" role="dialog" aria-labelledby="modalDialogAboutLabel" aria-hidden="true">
-<div class="modal-dialog modal-dialog-centered" role="document">
-<div class="modal-content">
-<div class="modal-header">
-<h5 class="modal-title" id="modalDialogAboutLabel">About</h5>
-<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-<span aria-hidden="true">&times;</span>
-</button>
-</div>
-<div class="modal-body">
-<center>
-<h4>` + App.name + `</h4>
-<br/>
-<img src="ico/telegram.svg" width="120" height="120" class="img-fluid rounded" alt="` + App.name + `">
-<br/><br/>
-<p>Telegram public channel viewer</p>
-</center>
-</div>
-<div class="modal-footer">
-<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-</div>
-</div>
-</div>
-</div>
-`;
+	var textDialog = '<div class="modal fade" id="modalDialogAbout" tabindex="-1" role="dialog" aria-labelledby="modalDialogAboutLabel" aria-hidden="true">'
+	+ '<div class="modal-dialog modal-dialog-centered" role="document">'
+	+ '<div class="modal-content">'
+	+ '<div class="modal-header">'
+	+ '<h5 class="modal-title" id="modalDialogAboutLabel">About</h5>'
+	+ '<button type="button" class="close" data-dismiss="modal" aria-label="Close">'
+	+ '<span aria-hidden="true">&times;</span>'
+	+ '</button>'
+	+ '</div>'
+	+ '<div class="modal-body">'
+	+ '<center>'
+	+ '<h4>' + App.name + '</h4>'
+	+ '<br/>'
+	+ '<img src="ico/telegram.svg" width="120" height="120" class="img-fluid rounded" alt="' + App.name + '">'
+	+ '<br/><br/>'
+	+ '<p>Telegram public channel viewer</p>'
+	+ '</center>'
+	+ '</div>'
+	+ '<div class="modal-footer">'
+	+ '<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>'
+	+ '</div>'
+	+ '</div>'
+	+ '</div>'
+	+ '</div>';
 	$('#modalDialog').html(textDialog);
 	$('#modalDialogAbout').on('hidden.bs.modal', function (e) {
 		$('#modalDialog').html('');
@@ -451,37 +435,33 @@ function renderDialogAbout() {
 function renderRightMenuApp() {
 	var currentWidth = $(window).width();
 	if (currentWidth > 420) {
-		$("#rightMenuApp").html(`
-<div id="changeViewType"></div>
-<button id="btnDialogAddChannel" type="button" class="btn bmd-btn-icon" data-toggle="modal" data-target="#modalDialogAddChannel" title="Add new channel"><i class="material-icons">add</i></button>
-<div id="deleteChannel"></div>
-<div class="dropdown pull-xs-right">
-<button class="btn bmd-btn-icon dropdown-toggle" type="button" id="lr1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-<i class="material-icons">more_vert</i>
-</button>
-<div id="rightDropdownMenuApp" class="dropdown-menu dropdown-menu-right" aria-labelledby="lr1">
-<button id="btnDialogSettings" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogSettings"><i class="material-icons my-icon-dropdown">settings</i> Settings</button>
-<div class="dropdown-divider"> </div>
-<button id="btnDialogAbout" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogAbout"><i class="material-icons my-icon-dropdown">info</i> About</button>
-</div>
-</div>
-`);
+		$("#rightMenuApp").html('<div id="changeViewType"></div>'
+								+ '<button id="btnDialogAddChannel" type="button" class="btn bmd-btn-icon" data-toggle="modal" data-target="#modalDialogAddChannel" title="Add new channel"><i class="material-icons">add</i></button>'
+								+ '<div id="deleteChannel"></div>'
+								+ '<div class="dropdown pull-xs-right">'
+								+ '<button class="btn bmd-btn-icon dropdown-toggle" type="button" id="lr1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">'
+								+ '<i class="material-icons">more_vert</i>'
+								+ '</button>'
+								+ '<div id="rightDropdownMenuApp" class="dropdown-menu dropdown-menu-right" aria-labelledby="lr1">'
+								+ '<button id="btnDialogSettings" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogSettings"><i class="material-icons my-icon-dropdown">settings</i> Settings</button>'
+								+ '<div class="dropdown-divider"> </div>'
+								+ '<button id="btnDialogAbout" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogAbout"><i class="material-icons my-icon-dropdown">info</i> About</button>'
+								+ '</div>'
+								+ '</div>');
 	} else {
-		$("#rightMenuApp").html(`
-<div class="dropdown pull-xs-right">
-<button class="btn bmd-btn-icon dropdown-toggle" type="button" id="lr1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-<i class="material-icons">more_vert</i>
-</button>
-<div id="rightDropdownMenuApp" class="dropdown-menu dropdown-menu-right" aria-labelledby="lr1">
-<div id="changeViewType"></div>
-<button id="btnDialogAddChannel" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogAddChannel"><i class="material-icons my-icon-dropdown">add</i> Add channel</button>
-<div id="deleteChannel"></div>
-<button id="btnDialogSettings" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogSettings"><i class="material-icons my-icon-dropdown">settings</i> Settings</button>
-<div class="dropdown-divider"> </div>
-<button id="btnDialogAbout" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogAbout"><i class="material-icons my-icon-dropdown">info</i> About</button>
-</div>
-</div>
-`);
+		$("#rightMenuApp").html('<div class="dropdown pull-xs-right">'
+								+ '<button class="btn bmd-btn-icon dropdown-toggle" type="button" id="lr1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">'
+								+ '<i class="material-icons">more_vert</i>'
+								+ '</button>'
+								+ '<div id="rightDropdownMenuApp" class="dropdown-menu dropdown-menu-right" aria-labelledby="lr1">'
+								+ '<div id="changeViewType"></div>'
+								+ '<button id="btnDialogAddChannel" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogAddChannel"><i class="material-icons my-icon-dropdown">add</i> Add channel</button>'
+								+ '<div id="deleteChannel"></div>'
+								+ '<button id="btnDialogSettings" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogSettings"><i class="material-icons my-icon-dropdown">settings</i> Settings</button>'
+								+ '<div class="dropdown-divider"> </div>'
+								+ '<button id="btnDialogAbout" type="button" class="dropdown-item" data-toggle="modal" data-target="#modalDialogAbout"><i class="material-icons my-icon-dropdown">info</i> About</button>'
+								+ '</div>'
+								+ '</div>');
 	}
 	renderViewType();
 	toggleDeleteChannel();
@@ -505,38 +485,30 @@ function processScreenResizing() {
 }
 
 function preRenderPage() {
-	var textContent = `
-<header>
-<nav class="my-navbar navbar fixed-top navbar-light bg-light">
-<a class="navbar-brand" href="">
-<div class="my-dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-<div id="menuApp"><i class="material-icons">menu</i></div><div id="logoApp"></div>
-</div>
-<div id="dropdownMenuChannel" class="dropdown-menu"><div id="listChannel"></div></div>
-</a>
-<div id="rightMenuApp" class="form-inline"></div>
-</nav>
-</header>
-<div id="modalDialog"></div>
-<div id="mainPage">
-<center>
-<div class="range-message">
-`;
+	var textContent = '<header>'
+	+ '<nav class="my-navbar navbar fixed-top navbar-light bg-light">'
+	+ '<a class="navbar-brand" href="">'
+	+ '<div class="my-dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">'
+	+ '<div id="menuApp"><i class="material-icons">menu</i></div><div id="logoApp"></div>'
+	+ '</div>'
+	+ '<div id="dropdownMenuChannel" class="dropdown-menu"><div id="listChannel"></div></div>'
+	+ '</a>'
+	+ '<div id="rightMenuApp" class="form-inline"></div>'
+	+ '</nav>'
+	+ '</header>'
+	+ '<div id="modalDialog"></div>'
+	+ '<div id="mainPage">'
+	+ '<center>'
+	+ '<div class="range-message">';
 	if (!$.isEmptyObject(App.currentChannel)) {
-		textContent += `
-<input type="range" name="rangeMessage" id="rangeMessage" oninput="getStartMessage();" onchange="getPage();" min="` + App.currentChannel.min + `" max="` + App.currentChannel.max + `" step="` + App.step + `" value="` + App.currentChannel.value + `">
-`;
+		textContent += '<input type="range" name="rangeMessage" id="rangeMessage" oninput="getStartMessage();" onchange="getPage();" min="' + App.currentChannel.min + '" max="' + App.currentChannel.max + '" step="' + App.step + '" value="' + App.currentChannel.value + '">';
 	} else {
-		textContent += `
-<input type="range" name="rangeMessage" id="rangeMessage" oninput="getStartMessage();" onchange="getPage();" min="1" max="1" step="1" value="1">
-`;
+		textContent += '<input type="range" name="rangeMessage" id="rangeMessage" oninput="getStartMessage();" onchange="getPage();" min="1" max="1" step="1" value="1">';
 	}
-	textContent += `
-</div>
-<main id="main" role="main" class="container-fluid"></main>
-</center>
-</div>
-`;
+	textContent += '</div>'
+		+ '<main id="main" role="main" class="container-fluid"></main>'
+		+ '</center>'
+		+ '</div>';
 	$("#app").html(textContent);
 	renderLogoApp('#logoApp');
 	renderListChannel();
@@ -562,14 +534,12 @@ function getPage() {
 		}
 		textContent += '<div class="posts-footer"></div>';
 		textContent += '</div>';
-		textContent += `
-<nav class="my-pagination">
-<ul class="pagination justify-content-center">
-<li class="page-item"><span id="elementPrevPageFooter" class="page-link">Previous</span></li>
-<li class="page-item"><span id="elementNextPageFooter" class="page-link">Next</span></li>
-</ul>
-</nav>
-`;
+		textContent += '<nav class="my-pagination">'
+			+ '<ul class="pagination justify-content-center">'
+			+ '<li class="page-item"><span id="elementPrevPageFooter" class="page-link">Previous</span></li>'
+			+ '<li class="page-item"><span id="elementNextPageFooter" class="page-link">Next</span></li>'
+			+ '</ul>'
+			+ '</nav>';
 		$("#main").html(textContent);
 		$("#rangeMessage").val(App.currentChannel.value);
 		$(".range-message").show();
@@ -587,13 +557,11 @@ function getPage() {
 		});
 	} else {
 		var textInformationMessage = (App.channels.length > 0) ? 'Select channel to view' : 'No channels to view';
-		var textContent = `
-<div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;">
-<img src="ico/telegram.svg" width="120" height="120" class="img-fluid rounded" alt="` + App.name + `">
-<br/><br/>
-<p>` + textInformationMessage + `</p>
-<div>
-`;
+		var textContent = '<div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);text-align:center;">'
+		+ '<img src="ico/telegram.svg" width="120" height="120" class="img-fluid rounded" alt="' + App.name + '">'
+		+ '<br/><br/>'
+		+ '<p>' + textInformationMessage + '</p>'
+		+ '<div>';
 		$("#main").html(textContent);
 		$(".range-message").hide();
 		$('body').bootstrapMaterialDesign();
