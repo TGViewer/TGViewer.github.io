@@ -1,0 +1,272 @@
+﻿[
+{
+"name": "Telegram",
+"title": "Telegram News",
+"image": "data/logo/telegram.jpeg",
+"currentMessage": 88
+},
+{
+"name": "Wylsared",
+"title": "WylsacomRed",
+"image": "data/logo/wylsared.jpeg",
+"currentMessage": 715
+},
+{
+"name": "proglibrary",
+"title": "Библиотека программиста",
+"image": "data/logo/proglibrary.jpeg",
+"currentMessage": 2228
+},
+{
+"name": "tproger_official",
+"title": "Tproger для программистов",
+"image": "data/logo/tproger_official.jpeg",
+"currentMessage": 2695
+},
+{
+"name": "theyseeku",
+"title": "Охотник за головами: вакансии на удаленную работу",
+"image": "data/logo/theyseeku.jpeg",
+"currentMessage": 740
+},
+{
+"name": "addmeto",
+"title": "addmeto",
+"image": "data/logo/addmeto.jpeg",
+"currentMessage": 2144
+},
+{
+"name": "temno",
+"title": "Тёмная сторона",
+"image": "data/logo/temno.jpeg",
+"currentMessage": 921
+},
+{
+"name": "tginfo",
+"title": "Telegram Info",
+"image": "data/logo/tginfo.jpeg",
+"currentMessage": 1475
+},
+{
+"name": "nuancesprog",
+"title": "Nuances of programming",
+"image": "data/logo/nuancesprog.jpeg",
+"currentMessage": 615
+},
+{
+"name": "NovinKinOnline",
+"title": "Новые фильмы онлайн",
+"image": "data/logo/novinkinonline.jpeg",
+"currentMessage": 115
+},
+{
+"name": "digitalbroccoli",
+"title": "Remote &amp; Freelance",
+"image": "data/logo/digitalbroccoli.jpeg",
+"currentMessage": 590
+},
+{
+"name": "tprogerlive",
+"title": "IT Новости",
+"image": "data/logo/tprogerlive.jpeg",
+"currentMessage": 2321
+},
+{
+"name": "Remoteit",
+"title": "Remote IT (Inflow)",
+"image": "data/logo/remoteit.jpeg",
+"currentMessage": 485
+},
+{
+"name": "front_end_dev",
+"title": "FrontEndDev",
+"image": "data/logo/front_end_dev.jpeg",
+"currentMessage": 3041
+},
+{
+"name": "buhru",
+"title": "Бухучет, налоги, 1С",
+"image": "data/logo/buhru.jpeg",
+"currentMessage": 1816
+},
+{
+"name": "habr_com",
+"title": "habr.com",
+"image": "data/logo/habr_com.jpeg",
+"currentMessage": 22221
+},
+{
+"name": "ultra_it",
+"title": "ULTRA",
+"image": "data/logo/ultra_it.jpeg",
+"currentMessage": 4884
+},
+{
+"name": "ithutru",
+"title": "ITHUT: новости IT",
+"image": "data/logo/ithutru.jpeg",
+"currentMessage": 506
+},
+{
+"name": "ShareWood",
+"title": "SHARE WOOD | Работа, вакансии",
+"image": "data/logo/sharewood.jpeg",
+"currentMessage": 135
+},
+{
+"name": "forgeeks",
+"title": "ForGeeks",
+"image": "data/logo/forgeeks.jpeg",
+"currentMessage": 463
+},
+{
+"name": "google_sheets",
+"title": "Google Таблицы",
+"image": "data/logo/google_sheets.jpeg",
+"currentMessage": 269
+},
+{
+"name": "webb_dev",
+"title": "WebDEV",
+"image": "data/logo/webb_dev.jpeg",
+"currentMessage": 56
+},
+{
+"name": "ruspm",
+"title": "Product Management",
+"image": "data/logo/ruspm.jpeg",
+"currentMessage": 175
+},
+{
+"name": "iosgr",
+"title": "iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT",
+"image": "data/logo/iosgr.jpeg",
+"currentMessage": 942
+},
+{
+"name": "sterkin_ru",
+"title": "Windows 10, etc - Вадим Стеркин",
+"image": "data/logo/sterkin_ru.jpeg",
+"currentMessage": 645
+},
+{
+"name": "android_live",
+"title": "Android Live 🤖",
+"image": "data/logo/android_live.jpeg",
+"currentMessage": 146
+},
+{
+"name": "tmfeed",
+"title": "TM FEED",
+"image": "data/logo/tmfeed.jpeg",
+"currentMessage": 45361
+},
+{
+"name": "webformyself",
+"title": "Канал WebForMySelf - IT и веб-разработка",
+"image": "data/logo/webformyself.jpeg",
+"currentMessage": 1928
+},
+{
+"name": "onecv8",
+"title": "1С:Предприятие 8",
+"image": "data/logo/onecv8.jpeg",
+"currentMessage": 883
+},
+{
+"name": "bitrix_news",
+"title": "«1C-Битрикс». Новости",
+"image": "data/logo/bitrix_news.jpeg",
+"currentMessage": 360
+},
+{
+"name": "analysis_paradisis",
+"title": "Analysis Paradisis",
+"image": "data/logo/analysis_paradisis.jpeg",
+"currentMessage": 82
+},
+{
+"name": "qetzal_1up",
+"title": "Qetzal-1UP channel",
+"image": "data/logo/qetzal_1up.jpeg",
+"currentMessage": 395
+},
+{
+"name": "productlogic",
+"title": "Продуктологика",
+"image": "data/logo/productlogic.jpeg",
+"currentMessage": 61
+},
+{
+"name": "yellow1c",
+"title": "Люди в жёлтых халатах",
+"image": "data/logo/yellow1c.jpeg",
+"currentMessage": 620
+},
+{
+"name": "anotherpoint",
+"title": "POV",
+"image": "data/logo/anotherpoint.jpeg",
+"currentMessage": 92
+},
+{
+"name": "OneAssProduction",
+"title": "1С: Неофициально (18+)",
+"image": "data/logo/oneassproduction.jpeg",
+"currentMessage": 127
+},
+{
+"name": "backlog",
+"title": "Product Backlog",
+"image": "data/logo/backlog.jpeg",
+"currentMessage": 15
+},
+{
+"name": "kuntashov_devnotes",
+"title": "Александр Кунташов - про разработку на 1С и не только",
+"image": "data/logo/kuntashov_devnotes.jpeg",
+"currentMessage": 132
+},
+{
+"name": "Unofficial1C",
+"title": "ЧЯТ 1С: Неофициально (18+)",
+"image": "data/logo/unofficial1c.jpeg",
+"currentMessage": 4466
+},
+{
+"name": "joboneC",
+"title": "1С Работа",
+"image": "data/logo/jobonec.jpeg",
+"currentMessage": 25
+},
+{
+"name": "Zadachi1c",
+"title": "Задачи 1с",
+"image": "data/logo/zadachi1c.jpeg",
+"currentMessage": 1562
+},
+{
+"name": "web_stack",
+"title": "Web Stack",
+"image": "data/logo/web_stack.jpeg",
+"currentMessage": 98
+},
+{
+"name": "SuperDeals",
+"title": "SuperDeals",
+"image": "data/logo/superdeals.jpeg",
+"currentMessage": 570779
+},
+{
+"name": "ReceptiVkusno",
+"title": "Вкусная Радость",
+"image": "data/logo/receptivkusno.jpeg",
+"currentMessage": 13
+},
+{
+"name": "ThisIsInterestin",
+"title": "ThisIsInterestin",
+"image": "data/logo/thisisinterestin.jpeg",
+"currentMessage": 238594
+}
+]
