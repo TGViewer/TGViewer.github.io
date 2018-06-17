@@ -102,6 +102,12 @@
 "currentMessage": 4884
 },
 {
+"name": "javascript_jobs",
+"title": "JavaScript Jobs — чат",
+"image": "data/logo/javascript_jobs.jpeg",
+"currentMessage": 222218
+},
+{
 "name": "ithutru",
 "title": "ITHUT: новости IT",
 "image": "data/logo/ithutru.jpeg",
@@ -120,16 +126,46 @@
 "currentMessage": 463
 },
 {
+"name": "react_js",
+"title": "React — русскоговорящее сообщество",
+"image": "data/logo/react_js.jpeg",
+"currentMessage": 420305
+},
+{
+"name": "mobile_jobs",
+"title": "Mobile Dev Jobs — вакансии и аналитика",
+"image": "data/logo/mobile_jobs.jpeg",
+"currentMessage": 25936
+},
+{
 "name": "google_sheets",
 "title": "Google Таблицы",
 "image": "data/logo/google_sheets.jpeg",
 "currentMessage": 269
 },
 {
+"name": "devops_ru",
+"title": "DevOps — русскоговорящее сообщество",
+"image": "data/logo/devops_ru.jpeg",
+"currentMessage": 396815
+},
+{
 "name": "webb_dev",
 "title": "WebDEV",
 "image": "data/logo/webb_dev.jpeg",
 "currentMessage": 56
+},
+{
+"name": "qa_jobs",
+"title": "QA — вакансии и аналитика рынка вакансий",
+"image": "data/logo/qa_jobs.jpeg",
+"currentMessage": 47162
+},
+{
+"name": "android_ru",
+"title": "Android Developers",
+"image": "data/logo/android_ru.jpeg",
+"currentMessage": 328900
 },
 {
 "name": "ruspm",
@@ -150,6 +186,30 @@
 "currentMessage": 645
 },
 {
+"name": "nodejs_ru",
+"title": "Node.js — русскоговорящее сообщество",
+"image": "data/logo/nodejs_ru.jpeg",
+"currentMessage": 216358
+},
+{
+"name": "vuejs_ru",
+"title": "Vue.js — русскоговорящее сообщество",
+"image": "data/logo/vuejs_ru.jpeg",
+"currentMessage": 308944
+},
+{
+"name": "angular_ru",
+"title": "Angular — русскоговорящее сообщество",
+"image": "data/logo/angular_ru.jpeg",
+"currentMessage": 148612
+},
+{
+"name": "qa_ru",
+"title": "QA — русскоговорящее сообщество",
+"image": "data/logo/qa_ru.jpeg",
+"currentMessage": 98313
+},
+{
 "name": "android_live",
 "title": "Android Live 🤖",
 "image": "data/logo/android_live.jpeg",
@@ -162,10 +222,22 @@
 "currentMessage": 45361
 },
 {
+"name": "js_ru",
+"title": "JavaScript — русскоговорящее сообщество",
+"image": "data/logo/js_ru.jpeg",
+"currentMessage": 82625
+},
+{
 "name": "webformyself",
 "title": "Канал WebForMySelf - IT и веб-разработка",
 "image": "data/logo/webformyself.jpeg",
 "currentMessage": 1928
+},
+{
+"name": "devops_jobs",
+"title": "DevOps Jobs - работа и аналитика",
+"image": "data/logo/devops_jobs.jpeg",
+"currentMessage": 129602
 },
 {
 "name": "onecv8",
@@ -174,10 +246,34 @@
 "currentMessage": 883
 },
 {
+"name": "agile_ru",
+"title": "Agile, Scrum, Lean, Kanban, XP",
+"image": "data/logo/agile_ru.jpeg",
+"currentMessage": 43160
+},
+{
 "name": "bitrix_news",
 "title": "«1C-Битрикс». Новости",
 "image": "data/logo/bitrix_news.jpeg",
 "currentMessage": 360
+},
+{
+"name": "ios_ru",
+"title": "iOS Developers — русскоговорящее сообщество",
+"image": "data/logo/ios_ru.jpeg",
+"currentMessage": 210512
+},
+{
+"name": "reactnative_ru",
+"title": "React Native — русскоговорящее",
+"image": "data/logo/reactnative_ru.jpeg",
+"currentMessage": 69825
+},
+{
+"name": "products_jobs",
+"title": "Products Jobs — вакансии",
+"image": "data/logo/products_jobs.jpeg",
+"currentMessage": 10960
 },
 {
 "name": "analysis_paradisis",
@@ -186,10 +282,46 @@
 "currentMessage": 82
 },
 {
+"name": "nodejs_jobs",
+"title": "Node.js Jobs — вакансии и аналитика",
+"image": "data/logo/nodejs_jobs.jpeg",
+"currentMessage": 10992
+},
+{
 "name": "qetzal_1up",
 "title": "Qetzal-1UP channel",
 "image": "data/logo/qetzal_1up.jpeg",
 "currentMessage": 395
+},
+{
+"name": "typescript_ru",
+"title": "TypeScript",
+"image": "data/logo/typescript_ru.jpeg",
+"currentMessage": 66482
+},
+{
+"name": "uiux_jobs",
+"title": "UI/UX Jobs — вакансии и аналитика",
+"image": "data/logo/uiux_jobs.jpeg",
+"currentMessage": 8748
+},
+{
+"name": "uiux_ru",
+"title": "UI/UX — русскоговорящее сообщество",
+"image": "data/logo/uiux_ru.jpeg",
+"currentMessage": 22196
+},
+{
+"name": "angular2",
+"title": "Angular",
+"image": "data/logo/angular2.jpeg",
+"currentMessage": 44
+},
+{
+"name": "agile_jobs",
+"title": "Agile Jobs — вакансии",
+"image": "data/logo/agile_jobs.jpeg",
+"currentMessage": 2934
 },
 {
 "name": "productlogic",
@@ -198,10 +330,46 @@
 "currentMessage": 61
 },
 {
+"name": "projects_jobs",
+"title": "Projects Jobs — вакансии и аналитика",
+"image": "data/logo/projects_jobs.jpeg",
+"currentMessage": 2627
+},
+{
 "name": "yellow1c",
 "title": "Люди в жёлтых халатах",
 "image": "data/logo/yellow1c.jpeg",
 "currentMessage": 620
+},
+{
+"name": "macos_ru",
+"title": "macOS — русскоговорящее сообщество",
+"image": "data/logo/macos_ru.jpeg",
+"currentMessage": 96651
+},
+{
+"name": "agilegames",
+"title": "Agile Games",
+"image": "data/logo/agilegames.jpeg",
+"currentMessage": 4914
+},
+{
+"name": "androidtoday_ru",
+"title": "Android Today",
+"image": "data/logo/androidtoday_ru.jpeg",
+"currentMessage": 48
+},
+{
+"name": "ndk_ru",
+"title": "Android NDK (C++) — русскоговорящее сообщество",
+"image": "data/logo/ndk_ru.jpeg",
+"currentMessage": 13988
+},
+{
+"name": "flowtype_ru",
+"title": "Flowtype",
+"image": "data/logo/flowtype_ru.jpeg",
+"currentMessage": 21689
 },
 {
 "name": "anotherpoint",
@@ -222,6 +390,12 @@
 "currentMessage": 15
 },
 {
+"name": "graphql_ru",
+"title": "GraphQL — русскоговорящее сообщество",
+"image": "data/logo/graphql_ru.jpeg",
+"currentMessage": 3944
+},
+{
 "name": "kuntashov_devnotes",
 "title": "Александр Кунташов - про разработку на 1С и не только",
 "image": "data/logo/kuntashov_devnotes.jpeg",
@@ -240,6 +414,12 @@
 "currentMessage": 25
 },
 {
+"name": "apollo_ru",
+"title": "Apollo — русскоговорящее сообщество",
+"image": "data/logo/apollo_ru.jpeg",
+"currentMessage": 442
+},
+{
 "name": "Zadachi1c",
 "title": "Задачи 1с",
 "image": "data/logo/zadachi1c.jpeg",
@@ -252,21 +432,39 @@
 "currentMessage": 98
 },
 {
+"name": "redux_ru",
+"title": "Redux — русскоговорящее сообщество",
+"image": "data/logo/redux_ru.jpeg",
+"currentMessage": 9441
+},
+{
+"name": "macdev_ru",
+"title": "macOS Developers — русскоговорящее сообщество",
+"image": "data/logo/macdev_ru.jpeg",
+"currentMessage": 518
+},
+{
+"name": "protonnative_ru",
+"title": "Proton Native — русскоговорящее сообщество",
+"image": "data/logo/protonnative_ru.jpeg",
+"currentMessage": 34
+},
+{
 "name": "SuperDeals",
 "title": "SuperDeals",
 "image": "data/logo/superdeals.jpeg",
 "currentMessage": 570779
 },
 {
+"name": "ThisIsInterestin",
+"title": "ThisIsInterestin",
+"image": "data/logo/thisisinterestin.jpeg",
+"currentMessage": 238588
+},
+{
 "name": "ReceptiVkusno",
 "title": "Вкусная Радость",
 "image": "data/logo/receptivkusno.jpeg",
 "currentMessage": 13
-},
-{
-"name": "ThisIsInterestin",
-"title": "ThisIsInterestin",
-"image": "data/logo/thisisinterestin.jpeg",
-"currentMessage": 238594
 }
 ]
