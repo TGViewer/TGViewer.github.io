@@ -78,6 +78,12 @@
 "currentMessage": 485
 },
 {
+"name": "designhunters",
+"title": "Design Hunters",
+"image": "data/logo/designhunters.jpeg",
+"currentMessage": 526
+},
+{
 "name": "front_end_dev",
 "title": "FrontEndDev",
 "image": "data/logo/front_end_dev.jpeg",
@@ -90,10 +96,22 @@
 "currentMessage": 1816
 },
 {
+"name": "thedesigner",
+"title": "СПNЗЖУ DESIGN",
+"image": "data/logo/thedesigner.jpeg",
+"currentMessage": 862
+},
+{
 "name": "habr_com",
 "title": "habr.com",
 "image": "data/logo/habr_com.jpeg",
 "currentMessage": 22221
+},
+{
+"name": "pstips",
+"title": "Post.Scriptum.Tips",
+"image": "data/logo/pstips.jpeg",
+"currentMessage": 715
 },
 {
 "name": "ultra_it",
@@ -276,6 +294,30 @@
 "currentMessage": 10960
 },
 {
+"name": "intelligentarchitecture",
+"title": "Intelligent Architecture",
+"image": "data/logo/intelligentarchitecture.jpeg",
+"currentMessage": 53
+},
+{
+"name": "forproducts",
+"title": "Job for Products and Projects",
+"image": "data/logo/forproducts.jpeg",
+"currentMessage": 263
+},
+{
+"name": "newhr",
+"title": "Job in IT&amp;Digital New.HR",
+"image": "data/logo/newhr.jpeg",
+"currentMessage": 684
+},
+{
+"name": "freelancewayup",
+"title": "WAYUP Freelance",
+"image": "data/logo/freelancewayup.jpeg",
+"currentMessage": 524
+},
+{
 "name": "analysis_paradisis",
 "title": "Analysis Paradisis",
 "image": "data/logo/analysis_paradisis.jpeg",
@@ -288,6 +330,12 @@
 "currentMessage": 10992
 },
 {
+"name": "prowebit",
+"title": "Майоров про WEB и карьеру в IT",
+"image": "data/logo/prowebit.jpeg",
+"currentMessage": 99
+},
+{
 "name": "qetzal_1up",
 "title": "Qetzal-1UP channel",
 "image": "data/logo/qetzal_1up.jpeg",
@@ -298,6 +346,12 @@
 "title": "TypeScript",
 "image": "data/logo/typescript_ru.jpeg",
 "currentMessage": 66482
+},
+{
+"name": "it_hunters",
+"title": "IT Hunters",
+"image": "data/logo/it_hunters.jpeg",
+"currentMessage": 32
 },
 {
 "name": "uiux_jobs",
@@ -348,6 +402,18 @@
 "currentMessage": 96651
 },
 {
+"name": "maisdesigner",
+"title": "Mais Designer",
+"image": "data/logo/maisdesigner.jpeg",
+"currentMessage": 514
+},
+{
+"name": "forfrontend",
+"title": "Job for Frontenders + Node.js",
+"image": "data/logo/forfrontend.jpeg",
+"currentMessage": 123
+},
+{
 "name": "agilegames",
 "title": "Agile Games",
 "image": "data/logo/agilegames.jpeg",
@@ -360,10 +426,34 @@
 "currentMessage": 48
 },
 {
+"name": "forallmedia",
+"title": "Job for Media &amp; Content",
+"image": "data/logo/forallmedia.jpeg",
+"currentMessage": 101
+},
+{
+"name": "forchiefs",
+"title": "For Chiefs (TOP vacancies)",
+"image": "data/logo/forchiefs.jpeg",
+"currentMessage": 134
+},
+{
+"name": "foranalysts",
+"title": "Job for Analysts",
+"image": "data/logo/foranalysts.jpeg",
+"currentMessage": 161
+},
+{
 "name": "ndk_ru",
 "title": "Android NDK (C++) — русскоговорящее сообщество",
 "image": "data/logo/ndk_ru.jpeg",
 "currentMessage": 13988
+},
+{
+"name": "forallmarketing",
+"title": "Job for Marketing",
+"image": "data/logo/forallmarketing.jpeg",
+"currentMessage": 185
 },
 {
 "name": "flowtype_ru",
@@ -390,6 +480,12 @@
 "currentMessage": 15
 },
 {
+"name": "forhr",
+"title": "Job for HR",
+"image": "data/logo/forhr.jpeg",
+"currentMessage": 95
+},
+{
 "name": "graphql_ru",
 "title": "GraphQL — русскоговорящее сообщество",
 "image": "data/logo/graphql_ru.jpeg",
@@ -414,6 +510,12 @@
 "currentMessage": 25
 },
 {
+"name": "fordesigner",
+"title": "Job for Designers",
+"image": "data/logo/fordesigner.jpeg",
+"currentMessage": 159
+},
+{
 "name": "apollo_ru",
 "title": "Apollo — русскоговорящее сообщество",
 "image": "data/logo/apollo_ru.jpeg",
@@ -424,6 +526,18 @@
 "title": "Задачи 1с",
 "image": "data/logo/zadachi1c.jpeg",
 "currentMessage": 1562
+},
+{
+"name": "forallsales",
+"title": "Job for Sales &amp; BizDev",
+"image": "data/logo/forallsales.jpeg",
+"currentMessage": 118
+},
+{
+"name": "jobfortm",
+"title": "Job for Technical Managers",
+"image": "data/logo/jobfortm.jpeg",
+"currentMessage": 191
 },
 {
 "name": "web_stack",
@@ -438,10 +552,40 @@
 "currentMessage": 9441
 },
 {
+"name": "forgamedev",
+"title": "Job for Gamedev",
+"image": "data/logo/forgamedev.jpeg",
+"currentMessage": 102
+},
+{
 "name": "macdev_ru",
 "title": "macOS Developers — русскоговорящее сообщество",
 "image": "data/logo/macdev_ru.jpeg",
 "currentMessage": 518
+},
+{
+"name": "forallmobile",
+"title": "Job for Mobile Developers",
+"image": "data/logo/forallmobile.jpeg",
+"currentMessage": 86
+},
+{
+"name": "jobforpr",
+"title": "Job for PR",
+"image": "data/logo/jobforpr.jpeg",
+"currentMessage": 68
+},
+{
+"name": "forallqa",
+"title": "Job for QA",
+"image": "data/logo/forallqa.jpeg",
+"currentMessage": 87
+},
+{
+"name": "fordevops",
+"title": "Job for DevOps",
+"image": "data/logo/fordevops.jpeg",
+"currentMessage": 91
 },
 {
 "name": "protonnative_ru",
@@ -456,15 +600,15 @@
 "currentMessage": 570779
 },
 {
-"name": "ThisIsInterestin",
-"title": "ThisIsInterestin",
-"image": "data/logo/thisisinterestin.jpeg",
-"currentMessage": 238588
-},
-{
 "name": "ReceptiVkusno",
 "title": "Вкусная Радость",
 "image": "data/logo/receptivkusno.jpeg",
 "currentMessage": 13
+},
+{
+"name": "ThisIsInterestin",
+"title": "ThisIsInterestin",
+"image": "data/logo/thisisinterestin.jpeg",
+"currentMessage": 238588
 }
 ]
