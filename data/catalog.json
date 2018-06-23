@@ -54,12 +54,6 @@
 "currentMessage": 615
 },
 {
-"name": "NovinKinOnline",
-"title": "Новые фильмы онлайн",
-"image": "data/logo/novinkinonline.jpeg",
-"currentMessage": 115
-},
-{
 "name": "digitalbroccoli",
 "title": "Remote &amp; Freelance",
 "image": "data/logo/digitalbroccoli.jpeg",
@@ -600,15 +594,15 @@
 "currentMessage": 570779
 },
 {
-"name": "ReceptiVkusno",
-"title": "Вкусная Радость",
-"image": "data/logo/receptivkusno.jpeg",
-"currentMessage": 13
-},
-{
 "name": "ThisIsInterestin",
 "title": "ThisIsInterestin",
 "image": "data/logo/thisisinterestin.jpeg",
 "currentMessage": 238588
+},
+{
+"name": "ReceptiVkusno",
+"title": "Вкусная Радость",
+"image": "data/logo/receptivkusno.jpeg",
+"currentMessage": 13
 }
 ]
