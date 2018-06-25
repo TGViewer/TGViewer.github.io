@@ -1,6 +1,11 @@
 {
     "name": "TGViewer",
     "short_name": "TGViewer",
+    "description": "Telegram public channel viewer",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "icons": [
         {
             "src": "ico/android-chrome-192x192.png",
@@ -12,8 +17,5 @@
             "sizes": "512x512",
             "type": "image/png"
         }
-    ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "display": "standalone"
+    ]
 }
