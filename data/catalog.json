@@ -6,10 +6,28 @@
 "currentMessage": 94
 },
 {
+"name": "gizmiztel",
+"title": "کانال گیزمیز 💯",
+"image": "data/logo/gizmiztel.jpeg",
+"currentMessage": 40815
+},
+{
+"name": "aparat_tv",
+"title": "آپـ ــاراتـــ 🎥",
+"image": "data/logo/aparat_tv.jpeg",
+"currentMessage": 55100
+},
+{
 "name": "proxyme",
 "title": "Free Telegram proxy",
 "image": "data/logo/proxyme.jpeg",
 "currentMessage": 30
+},
+{
+"name": "khooroosjangi",
+"title": "🐓 خروس جنگی🎃",
+"image": "data/logo/khooroosjangi.jpeg",
+"currentMessage": 47612
 },
 {
 "name": "chagram",
@@ -18,10 +36,28 @@
 "currentMessage": 437
 },
 {
+"name": "chollos",
+"title": "[CANAL] Chollos 💥",
+"image": "data/logo/chollos.jpeg",
+"currentMessage": 6802
+},
+{
+"name": "descuentos",
+"title": "[CANAL] Descuentos ✨",
+"image": "data/logo/descuentos.jpeg",
+"currentMessage": 9261
+},
+{
 "name": "tgproxies",
 "title": "Telegaram Socks5 Proxies",
 "image": "data/logo/tgproxies.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "bedandid",
+"title": "بِـدَنديد=بدانيد+بخنديد و ...",
+"image": "data/logo/bedandid.jpeg",
+"currentMessage": 64262
 },
 {
 "name": "teleblog",
@@ -102,6 +138,12 @@
 "currentMessage": 1000
 },
 {
+"name": "RetoGaya",
+"title": "Canal FREE Gayá",
+"image": "data/logo/retogaya.jpeg",
+"currentMessage": 12307
+},
+{
 "name": "proglibrary",
 "title": "Библиотека программиста",
 "image": "data/logo/proglibrary.jpeg",
@@ -136,6 +178,12 @@
 "title": "Охотник за головами: вакансии на удаленную работу",
 "image": "data/logo/theyseeku.jpeg",
 "currentMessage": 753
+},
+{
+"name": "AyazShabutdinov",
+"title": "Аяз Шабутдинов",
+"image": "data/logo/ayazshabutdinov.jpeg",
+"currentMessage": 1884
 },
 {
 "name": "za_bugrom",
@@ -216,16 +264,16 @@
 "currentMessage": 1000
 },
 {
+"name": "tinkoffjournal",
+"title": "Тинькофф-журнал",
+"image": "data/logo/tinkoffjournal.jpeg",
+"currentMessage": 2349
+},
+{
 "name": "beautiful_land",
 "title": "Beautiful land",
 "image": "data/logo/beautiful_land.jpeg",
 "currentMessage": 1000
-},
-{
-"name": "tchannels",
-"title": "Telegram Channels",
-"image": "data/logo/tchannels.jpeg",
-"currentMessage": 217
 },
 {
 "name": "techsparks",
@@ -459,7 +507,7 @@
 "name": "theprogrammingart",
 "title": "The Art of Programming",
 "image": "data/logo/theprogrammingart.jpeg",
-"currentMessage": 200
+"currentMessage": 898
 },
 {
 "name": "KingCoins",
@@ -477,7 +525,7 @@
 "name": "desprod",
 "title": "Design & Productivity",
 "image": "data/logo/desprod.jpeg",
-"currentMessage": 200
+"currentMessage": 338
 },
 {
 "name": "trapX",
@@ -495,13 +543,13 @@
 "name": "menslooks",
 "title": "Men's Look",
 "image": "data/logo/menslooks.jpeg",
-"currentMessage": 1000
+"currentMessage": 4323
 },
 {
 "name": "EnglishTipsandTools",
 "title": "English Tips&Tools",
 "image": "data/logo/englishtipsandtools.jpeg",
-"currentMessage": 1000
+"currentMessage": 2765
 },
 {
 "name": "BotNews",
@@ -525,7 +573,7 @@
 "name": "lisssten",
 "title": "Listen Music..",
 "image": "data/logo/lisssten.jpeg",
-"currentMessage": 1000
+"currentMessage": 4547
 },
 {
 "name": "indian",
@@ -603,7 +651,7 @@
 "name": "thedevs",
 "title": "The Devs",
 "image": "data/logo/thedevs.jpeg",
-"currentMessage": 1000
+"currentMessage": 1171
 },
 {
 "name": "g33ks",
@@ -652,6 +700,12 @@
 "title": "Remote IT (Inflow)",
 "image": "data/logo/remoteit.jpeg",
 "currentMessage": 542
+},
+{
+"name": "BotsChannel",
+"title": "Bots Channel",
+"image": "data/logo/botschannel.jpeg",
+"currentMessage": 357
 },
 {
 "name": "bzd_channel",
@@ -765,7 +819,7 @@
 "name": "r_pics",
 "title": "/r/Pics",
 "image": "data/logo/r_pics.jpeg",
-"currentMessage": 1000
+"currentMessage": 21730
 },
 {
 "name": "bitstay",
@@ -918,10 +972,16 @@
 "currentMessage": 1000
 },
 {
+"name": "themeChannel",
+"title": "Telegram Themes",
+"image": "data/logo/themechannel.jpeg",
+"currentMessage": 55
+},
+{
 "name": "cryptocurrency",
 "title": "Cryptocurrencies Channel",
 "image": "data/logo/cryptocurrency.jpeg",
-"currentMessage": 1000
+"currentMessage": 27594
 },
 {
 "name": "popcorn_night",
@@ -966,6 +1026,12 @@
 "currentMessage": 200
 },
 {
+"name": "ViralChannel",
+"title": "Viral Channel",
+"image": "data/logo/viralchannel.jpeg",
+"currentMessage": 843
+},
+{
 "name": "robotics_channel",
 "title": "Robotics Channel",
 "image": "data/logo/robotics_channel.jpeg",
@@ -994,6 +1060,12 @@
 "title": "Telegram Stickers",
 "image": "data/logo/sticker_telegram.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "footreview",
+"title": "FOOTREVIEW | Все про ЧМ 2018!",
+"image": "data/logo/footreview.jpeg",
+"currentMessage": 1075
 },
 {
 "name": "ShareWood",
@@ -1134,6 +1206,18 @@
 "currentMessage": 200
 },
 {
+"name": "tlgrmChannels",
+"title": "Telegram Channels",
+"image": "data/logo/tlgrmchannels.jpeg",
+"currentMessage": 970
+},
+{
+"name": "groupsTelegram",
+"title": "Telegram Groups",
+"image": "data/logo/groupstelegram.jpeg",
+"currentMessage": 338
+},
+{
 "name": "pstips",
 "title": "Post.Scriptum.Tips",
 "image": "data/logo/pstips.jpeg",
@@ -1245,7 +1329,7 @@
 "name": "ru_python",
 "title": "Python",
 "image": "data/logo/ru_python.jpeg",
-"currentMessage": 1000
+"currentMessage": 592808
 },
 {
 "name": "ilyabirman_channel",
@@ -1314,16 +1398,16 @@
 "currentMessage": 724
 },
 {
-"name": "djinni_relocate",
-"title": "Трактор на Джинне",
-"image": "data/logo/djinni_relocate.jpeg",
-"currentMessage": 200
-},
-{
 "name": "apparatmag",
 "title": "Apparat",
 "image": "data/logo/apparatmag.jpeg",
 "currentMessage": 870
+},
+{
+"name": "djinni_relocate",
+"title": "Трактор на Джинне",
+"image": "data/logo/djinni_relocate.jpeg",
+"currentMessage": 200
 },
 {
 "name": "darkspace",
@@ -1440,6 +1524,12 @@
 "currentMessage": 31632
 },
 {
+"name": "FCBParsi",
+"title": "باشگاه هواداران بایرن",
+"image": "data/logo/fcbparsi.jpeg",
+"currentMessage": 9929
+},
+{
 "name": "bdlight",
 "title": "Be The Light",
 "image": "data/logo/bdlight.jpeg",
@@ -1480,6 +1570,12 @@
 "title": "Real Profit™",
 "image": "data/logo/real_profit.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "androiddevelop",
+"title": "AndroidiChannel",
+"image": "data/logo/androiddevelop.jpeg",
+"currentMessage": 1800
 },
 {
 "name": "itsecalert",
@@ -1560,6 +1656,12 @@
 "currentMessage": 1746
 },
 {
+"name": "utubeChannel",
+"title": "Youtube Channel",
+"image": "data/logo/utubechannel.jpeg",
+"currentMessage": 479
+},
+{
 "name": "kotyapesya",
 "title": "КотяКот",
 "image": "data/logo/kotyapesya.jpeg",
@@ -1606,6 +1708,18 @@
 "title": "pro.js",
 "image": "data/logo/jslang.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "plusmsgrES",
+"title": "Plus Messenger oficial",
+"image": "data/logo/plusmsgres.jpeg",
+"currentMessage": 208
+},
+{
+"name": "tlgramGames",
+"title": "Telegram Games",
+"image": "data/logo/tlgramgames.jpeg",
+"currentMessage": 31
 },
 {
 "name": "qa_jobs",
@@ -1858,6 +1972,12 @@
 "title": "Techfoe updates",
 "image": "data/logo/techfoe.jpeg",
 "currentMessage": 200
+},
+{
+"name": "catsChannel",
+"title": "Cats Channel",
+"image": "data/logo/catschannel.jpeg",
+"currentMessage": 735
 },
 {
 "name": "programminginc",
@@ -2658,16 +2778,16 @@
 "currentMessage": 1000
 },
 {
-"name": "intelligentarchitecture",
-"title": "Intelligent Architecture",
-"image": "data/logo/intelligentarchitecture.jpeg",
-"currentMessage": 56
-},
-{
 "name": "proJVM",
 "title": "pro.JVM",
 "image": "data/logo/projvm.jpeg",
 "currentMessage": 200
+},
+{
+"name": "intelligentarchitecture",
+"title": "Intelligent Architecture",
+"image": "data/logo/intelligentarchitecture.jpeg",
+"currentMessage": 56
 },
 {
 "name": "designcode",
@@ -2868,16 +2988,16 @@
 "currentMessage": 200
 },
 {
-"name": "alexlitreev_chat",
-"title": "Чат «Сайберсекьюрити и Ко.»",
-"image": "data/logo/alexlitreev_chat.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "mobidevices",
 "title": "MobiDevices | гаджеты, технологии, интернет",
 "image": "data/logo/mobidevices.jpeg",
 "currentMessage": 200
+},
+{
+"name": "alexlitreev_chat",
+"title": "Чат «Сайберсекьюрити и Ко.»",
+"image": "data/logo/alexlitreev_chat.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "AltSignalsTalk",
@@ -2892,16 +3012,16 @@
 "currentMessage": 1000
 },
 {
-"name": "AppleUsersGroup",
-"title": "Apple",
-"image": "data/logo/appleusersgroup.jpeg",
-"currentMessage": 29655
-},
-{
 "name": "corporate_finance",
 "title": "Mercury Finance",
 "image": "data/logo/corporate_finance.jpeg",
 "currentMessage": 196
+},
+{
+"name": "AppleUsersGroup",
+"title": "Apple",
+"image": "data/logo/appleusersgroup.jpeg",
+"currentMessage": 29655
 },
 {
 "name": "polkast",
@@ -2958,16 +3078,16 @@
 "currentMessage": 1000
 },
 {
-"name": "itbelarus",
-"title": "IT-Страна",
-"image": "data/logo/itbelarus.jpeg",
-"currentMessage": 200
-},
-{
 "name": "technologique",
 "title": "Technologic",
 "image": "data/logo/technologique.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "itbelarus",
+"title": "IT-Страна",
+"image": "data/logo/itbelarus.jpeg",
+"currentMessage": 200
 },
 {
 "name": "AxPro",
@@ -3066,16 +3186,16 @@
 "currentMessage": 200
 },
 {
-"name": "nodejs_jobs",
-"title": "Node.js Jobs — вакансии и аналитика",
-"image": "data/logo/nodejs_jobs.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "illustrationru",
 "title": "проиллюстрацию",
 "image": "data/logo/illustrationru.jpeg",
 "currentMessage": 589
+},
+{
+"name": "nodejs_jobs",
+"title": "Node.js Jobs — вакансии и аналитика",
+"image": "data/logo/nodejs_jobs.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "SignalsFromCryptoJournal",
@@ -3135,7 +3255,7 @@
 "name": "bundesliga",
 "title": "Bundesliga Channel 🇩🇪",
 "image": "data/logo/bundesliga.jpeg",
-"currentMessage": 1000
+"currentMessage": 16924
 },
 {
 "name": "it_hunters",
@@ -3168,16 +3288,16 @@
 "currentMessage": 1000
 },
 {
-"name": "borodutcher",
-"title": "Бородачат",
-"image": "data/logo/borodutcher.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "bitrix_work",
 "title": "Битрикс работа",
 "image": "data/logo/bitrix_work.jpeg",
 "currentMessage": 7518
+},
+{
+"name": "borodutcher",
+"title": "Бородачат",
+"image": "data/logo/borodutcher.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "ccoder",
@@ -3288,16 +3408,16 @@
 "currentMessage": 200
 },
 {
-"name": "sea_plus_plus",
-"title": "Sea++",
-"image": "data/logo/sea_plus_plus.jpeg",
-"currentMessage": 72
-},
-{
 "name": "tsrpay",
 "title": "TransCrypt",
 "image": "data/logo/tsrpay.jpeg",
 "currentMessage": 200
+},
+{
+"name": "sea_plus_plus",
+"title": "Sea++",
+"image": "data/logo/sea_plus_plus.jpeg",
+"currentMessage": 72
 },
 {
 "name": "RuScadaSec",
@@ -3322,6 +3442,12 @@
 "title": "TF - analytics and trading",
 "image": "data/logo/ftanalytics.jpeg",
 "currentMessage": 52
+},
+{
+"name": "tlgramNET",
+"title": "tlgram.net Noticias",
+"image": "data/logo/tlgramnet.jpeg",
+"currentMessage": 384
 },
 {
 "name": "dmarket_io",
@@ -3438,21 +3564,15 @@
 "currentMessage": 1000
 },
 {
-"name": "uiux_ru",
-"title": "UI/UX — русскоговорящее сообщество",
-"image": "data/logo/uiux_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "metrics_ru",
 "title": "Церковь метрик",
 "image": "data/logo/metrics_ru.jpeg",
 "currentMessage": 1000
 },
 {
-"name": "crypto_telegraph",
-"title": "Crypto_Telegraph",
-"image": "data/logo/crypto_telegraph.jpeg",
+"name": "uiux_ru",
+"title": "UI/UX — русскоговорящее сообщество",
+"image": "data/logo/uiux_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -3460,6 +3580,12 @@
 "title": "ICO Calendar",
 "image": "data/logo/tdicocalendar.jpeg",
 "currentMessage": 32
+},
+{
+"name": "crypto_telegraph",
+"title": "Crypto_Telegraph",
+"image": "data/logo/crypto_telegraph.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "podlodka",
@@ -3597,7 +3723,7 @@
 "name": "coding_ru",
 "title": "💻 Coding Ru",
 "image": "data/logo/coding_ru.jpeg",
-"currentMessage": 1000
+"currentMessage": 170941
 },
 {
 "name": "php_jobs",
@@ -3678,15 +3804,15 @@
 "currentMessage": 72
 },
 {
-"name": "webpack_ru",
-"title": "Webpack — русскоговорящее сообщество",
-"image": "data/logo/webpack_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "opennews",
 "title": "opennet news",
 "image": "data/logo/opennews.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "webpack_ru",
+"title": "Webpack — русскоговорящее сообщество",
+"image": "data/logo/webpack_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -3768,9 +3894,9 @@
 "currentMessage": 782
 },
 {
-"name": "xamarin_russia",
-"title": "Xamarin Developers",
-"image": "data/logo/xamarin_russia.jpeg",
+"name": "ceph_ru",
+"title": "Ceph — русскоговорящее сообщество",
+"image": "data/logo/ceph_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -3780,9 +3906,9 @@
 "currentMessage": 6
 },
 {
-"name": "ceph_ru",
-"title": "Ceph — русскоговорящее сообщество",
-"image": "data/logo/ceph_ru.jpeg",
+"name": "xamarin_russia",
+"title": "Xamarin Developers",
+"image": "data/logo/xamarin_russia.jpeg",
 "currentMessage": 1000
 },
 {
@@ -3792,16 +3918,16 @@
 "currentMessage": 1000
 },
 {
-"name": "digital_technology_news",
-"title": "Digital Technology News",
-"image": "data/logo/digital_technology_news.jpeg",
-"currentMessage": 200
-},
-{
 "name": "planktonchallenge",
 "title": "Планктон челлендж",
 "image": "data/logo/planktonchallenge.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "digital_technology_news",
+"title": "Digital Technology News",
+"image": "data/logo/digital_technology_news.jpeg",
+"currentMessage": 200
 },
 {
 "name": "dmitriisorin",
@@ -4014,15 +4140,15 @@
 "currentMessage": 1000
 },
 {
-"name": "django_jobs",
-"title": "django_jobs",
-"image": "data/logo/django_jobs.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "sqlcom",
 "title": "SqlCom.ru - Стиль жизни SQL",
 "image": "data/logo/sqlcom.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "django_jobs",
+"title": "django_jobs",
+"image": "data/logo/django_jobs.jpeg",
 "currentMessage": 1000
 },
 {
@@ -4065,7 +4191,7 @@
 "name": "numbfeelings",
 "title": "Dismal side",
 "image": "data/logo/numbfeelings.jpeg",
-"currentMessage": 600
+"currentMessage": 6698
 },
 {
 "name": "angular_js",
@@ -4200,16 +4326,16 @@
 "currentMessage": 1000
 },
 {
-"name": "PostgreSQL_1C_Linux",
-"title": "PostgreSQL + 1C + Linux",
-"image": "data/logo/postgresql_1c_linux.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "jsoid",
 "title": "[ JavaScript Learners ]",
 "image": "data/logo/jsoid.jpeg",
 "currentMessage": 186
+},
+{
+"name": "PostgreSQL_1C_Linux",
+"title": "PostgreSQL + 1C + Linux",
+"image": "data/logo/postgresql_1c_linux.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "SomewhithersAwesomeStuff",
@@ -4242,16 +4368,16 @@
 "currentMessage": 1000
 },
 {
-"name": "BugsBro",
-"title": "Bugs Bro Bugs",
-"image": "data/logo/bugsbro.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "forallmedia",
 "title": "Job for Media & Content",
 "image": "data/logo/forallmedia.jpeg",
 "currentMessage": 108
+},
+{
+"name": "BugsBro",
+"title": "Bugs Bro Bugs",
+"image": "data/logo/bugsbro.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "arduino_io",
@@ -4272,15 +4398,21 @@
 "currentMessage": 1000
 },
 {
+"name": "one_frame",
+"title": "OneFrame",
+"image": "data/logo/one_frame.jpeg",
+"currentMessage": 200
+},
+{
 "name": "datascienceboom",
 "title": "Data Science Boom",
 "image": "data/logo/datascienceboom.jpeg",
 "currentMessage": 200
 },
 {
-"name": "one_frame",
-"title": "OneFrame",
-"image": "data/logo/one_frame.jpeg",
+"name": "emaildev",
+"title": "Записки Коха",
+"image": "data/logo/emaildev.jpeg",
 "currentMessage": 200
 },
 {
@@ -4288,12 +4420,6 @@
 "title": "Vosive FX, Cryptocurrency, Bitcoin, XRP 📈",
 "image": "data/logo/vosivefx.jpeg",
 "currentMessage": 1000
-},
-{
-"name": "emaildev",
-"title": "Записки Коха",
-"image": "data/logo/emaildev.jpeg",
-"currentMessage": 200
 },
 {
 "name": "itforge",
@@ -4308,15 +4434,15 @@
 "currentMessage": 200
 },
 {
-"name": "qt_chat",
-"title": "Qt",
-"image": "data/logo/qt_chat.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "agilegames",
 "title": "Agile Games",
 "image": "data/logo/agilegames.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "qt_chat",
+"title": "Qt",
+"image": "data/logo/qt_chat.jpeg",
 "currentMessage": 1000
 },
 {
@@ -4362,16 +4488,16 @@
 "currentMessage": 200
 },
 {
-"name": "forchiefs",
-"title": "For Chiefs (TOP vacancies)",
-"image": "data/logo/forchiefs.jpeg",
-"currentMessage": 141
-},
-{
 "name": "manjarolinux",
 "title": "Manjaro [ru]",
 "image": "data/logo/manjarolinux.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "forchiefs",
+"title": "For Chiefs (TOP vacancies)",
+"image": "data/logo/forchiefs.jpeg",
+"currentMessage": 141
 },
 {
 "name": "spbcoa",
@@ -4404,16 +4530,16 @@
 "currentMessage": 1000
 },
 {
-"name": "androidtoday_ru",
-"title": "Android Today",
-"image": "data/logo/androidtoday_ru.jpeg",
-"currentMessage": 48
-},
-{
 "name": "codenamecrud",
 "title": "Random Ruby Chat",
 "image": "data/logo/codenamecrud.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "androidtoday_ru",
+"title": "Android Today",
+"image": "data/logo/androidtoday_ru.jpeg",
+"currentMessage": 48
 },
 {
 "name": "freebsd_ru",
@@ -4428,16 +4554,16 @@
 "currentMessage": 88
 },
 {
-"name": "savedcolour",
-"title": "Random colours",
-"image": "data/logo/savedcolour.jpeg",
-"currentMessage": 1182
-},
-{
 "name": "sitesecurity",
 "title": "WEBSITE SECURITY",
 "image": "data/logo/sitesecurity.jpeg",
 "currentMessage": 174
+},
+{
+"name": "savedcolour",
+"title": "Random colours",
+"image": "data/logo/savedcolour.jpeg",
+"currentMessage": 1182
 },
 {
 "name": "yourgirlss",
@@ -4638,27 +4764,27 @@
 "currentMessage": 1000
 },
 {
-"name": "we_rock",
-"title": "We Rock",
-"image": "data/logo/we_rock.jpeg",
-"currentMessage": 200
-},
-{
 "name": "manandthemachine",
 "title": "Человек и машина",
 "image": "data/logo/manandthemachine.jpeg",
 "currentMessage": 200
 },
 {
-"name": "devSchacht",
-"title": "devSchacht",
-"image": "data/logo/devschacht.jpeg",
-"currentMessage": 1000
+"name": "we_rock",
+"title": "We Rock",
+"image": "data/logo/we_rock.jpeg",
+"currentMessage": 200
 },
 {
 "name": "fsharp_chat",
 "title": "F# Chat",
 "image": "data/logo/fsharp_chat.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "devSchacht",
+"title": "devSchacht",
+"image": "data/logo/devschacht.jpeg",
 "currentMessage": 1000
 },
 {
@@ -4686,16 +4812,22 @@
 "currentMessage": 200
 },
 {
-"name": "devops_jobs_feed",
-"title": "Devops Jobs — вакансии и резюме",
-"image": "data/logo/devops_jobs_feed.jpeg",
-"currentMessage": 80
+"name": "irclashers",
+"title": "Clash Of Clans",
+"image": "data/logo/irclashers.jpeg",
+"currentMessage": 69
 },
 {
 "name": "forhr",
 "title": "Job for HR",
 "image": "data/logo/forhr.jpeg",
 "currentMessage": 102
+},
+{
+"name": "devops_jobs_feed",
+"title": "Devops Jobs — вакансии и резюме",
+"image": "data/logo/devops_jobs_feed.jpeg",
+"currentMessage": 80
 },
 {
 "name": "nocproject",
@@ -4758,16 +4890,16 @@
 "currentMessage": 1000
 },
 {
-"name": "sailfishosnews",
-"title": "Sailfish OS News Network",
-"image": "data/logo/sailfishosnews.jpeg",
-"currentMessage": 182
-},
-{
 "name": "Iot_chat",
 "title": "IOT COMMUNITY CHAT",
 "image": "data/logo/iot_chat.jpeg",
 "currentMessage": 200
+},
+{
+"name": "sailfishosnews",
+"title": "Sailfish OS News Network",
+"image": "data/logo/sailfishosnews.jpeg",
+"currentMessage": 182
 },
 {
 "name": "habrapub",
@@ -4782,15 +4914,15 @@
 "currentMessage": 1000
 },
 {
-"name": "aws_ru",
-"title": "AWS_ru",
-"image": "data/logo/aws_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "ArchiveMusicStop",
 "title": "🎶⛔️Music Stop⛔️🎶",
 "image": "data/logo/archivemusicstop.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "aws_ru",
+"title": "AWS_ru",
+"image": "data/logo/aws_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -4830,28 +4962,28 @@
 "currentMessage": 118
 },
 {
-"name": "spblug",
-"title": "SPbLUG News",
-"image": "data/logo/spblug.jpeg",
-"currentMessage": 181
-},
-{
 "name": "ru_freeswitch",
 "title": "ru_freeswitch",
 "image": "data/logo/ru_freeswitch.jpeg",
 "currentMessage": 1000
 },
 {
-"name": "jug_ru",
-"title": "JUG.ru",
-"image": "data/logo/jug_ru.jpeg",
-"currentMessage": 1000
+"name": "spblug",
+"title": "SPbLUG News",
+"image": "data/logo/spblug.jpeg",
+"currentMessage": 181
 },
 {
 "name": "backlog",
 "title": "Product Backlog",
 "image": "data/logo/backlog.jpeg",
 "currentMessage": 29
+},
+{
+"name": "jug_ru",
+"title": "JUG.ru",
+"image": "data/logo/jug_ru.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "sailfishos",
@@ -4878,6 +5010,12 @@
 "currentMessage": 1000
 },
 {
+"name": "OneAssProduction",
+"title": "1С: Неофициально (18+)",
+"image": "data/logo/oneassproduction.jpeg",
+"currentMessage": 134
+},
+{
 "name": "gunshotairhornrewind",
 "title": "gunshot, airhorn & rewind",
 "image": "data/logo/gunshotairhornrewind.jpeg",
@@ -4888,12 +5026,6 @@
 "title": "Podlodka Podcast – анонсы и новости подкаста про мобильную разработку",
 "image": "data/logo/podlodkanews.jpeg",
 "currentMessage": 128
-},
-{
-"name": "OneAssProduction",
-"title": "1С: Неофициально (18+)",
-"image": "data/logo/oneassproduction.jpeg",
-"currentMessage": 134
 },
 {
 "name": "bohdan_v",
@@ -4926,15 +5058,15 @@
 "currentMessage": 200
 },
 {
-"name": "forgeekschat",
-"title": "ForGeeks Chat",
-"image": "data/logo/forgeekschat.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "LMRus",
 "title": "Linux Mint Russia 🐧🖥 🇷🇺",
 "image": "data/logo/lmrus.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "forgeekschat",
+"title": "ForGeeks Chat",
+"image": "data/logo/forgeekschat.jpeg",
 "currentMessage": 1000
 },
 {
@@ -4956,15 +5088,15 @@
 "currentMessage": 10686
 },
 {
-"name": "frp_ru",
-"title": "(F|R|FR)P - русскоговорящее сообщество",
-"image": "data/logo/frp_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "rlang_ru",
 "title": "R language and Statistical data analysis",
 "image": "data/logo/rlang_ru.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "frp_ru",
+"title": "(F|R|FR)P - русскоговорящее сообщество",
+"image": "data/logo/frp_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -4998,15 +5130,15 @@
 "currentMessage": 1000
 },
 {
-"name": "archlinux_ru",
-"title": "archlinux_ru",
-"image": "data/logo/archlinux_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "flowtype_ru",
 "title": "Flowtype — русскоговорящее сообщество",
 "image": "data/logo/flowtype_ru.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "archlinux_ru",
+"title": "archlinux_ru",
+"image": "data/logo/archlinux_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5034,16 +5166,16 @@
 "currentMessage": 145
 },
 {
-"name": "clojure_ru",
-"title": "Clojure — русскоговорящее сообщество",
-"image": "data/logo/clojure_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "mensgear",
 "title": "Men's Gear",
 "image": "data/logo/mensgear.jpeg",
 "currentMessage": 200
+},
+{
+"name": "clojure_ru",
+"title": "Clojure — русскоговорящее сообщество",
+"image": "data/logo/clojure_ru.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "erlangrus",
@@ -5070,16 +5202,16 @@
 "currentMessage": 1000
 },
 {
-"name": "vscode_ru",
-"title": "Visual Studio Code — русскоговорящее сообщество",
-"image": "data/logo/vscode_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "Voiceoftheweek",
 "title": "Voice of the week",
 "image": "data/logo/voiceoftheweek.jpeg",
 "currentMessage": 200
+},
+{
+"name": "vscode_ru",
+"title": "Visual Studio Code — русскоговорящее сообщество",
+"image": "data/logo/vscode_ru.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "prozabbix",
@@ -5094,6 +5226,12 @@
 "currentMessage": 200
 },
 {
+"name": "feelxe",
+"title": "🌀FeeL eXtreme🎵",
+"image": "data/logo/feelxe.jpeg",
+"currentMessage": 1000
+},
+{
 "name": "fortypk",
 "title": "40РК Channel",
 "image": "data/logo/fortypk.jpeg",
@@ -5103,12 +5241,6 @@
 "name": "edm_music_edm",
 "title": "🔥EDM | Confession label Music",
 "image": "data/logo/edm_music_edm.jpeg",
-"currentMessage": 1000
-},
-{
-"name": "feelxe",
-"title": "🌀FeeL eXtreme🎵",
-"image": "data/logo/feelxe.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5148,16 +5280,16 @@
 "currentMessage": 1000
 },
 {
-"name": "phrasal_verbs",
-"title": "PhrasalCards",
-"image": "data/logo/phrasal_verbs.jpeg",
-"currentMessage": 42
-},
-{
 "name": "letach",
 "title": "Летач",
 "image": "data/logo/letach.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "phrasal_verbs",
+"title": "PhrasalCards",
+"image": "data/logo/phrasal_verbs.jpeg",
+"currentMessage": 42
 },
 {
 "name": "enhead",
@@ -5166,16 +5298,16 @@
 "currentMessage": 183
 },
 {
-"name": "itbelarustalk",
-"title": "Чат IT-Страны",
-"image": "data/logo/itbelarustalk.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "vms_blog",
 "title": "Всепрощающий Медведь Свободы - БЛОГ",
 "image": "data/logo/vms_blog.jpeg",
 "currentMessage": 281
+},
+{
+"name": "itbelarustalk",
+"title": "Чат IT-Страны",
+"image": "data/logo/itbelarustalk.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "Unofficial1C",
@@ -5196,15 +5328,15 @@
 "currentMessage": 1000
 },
 {
-"name": "raecdigest",
-"title": "RAEC//Digest",
-"image": "data/logo/raecdigest.jpeg",
-"currentMessage": 200
-},
-{
 "name": "buhtig",
 "title": "GitHub'ненько",
 "image": "data/logo/buhtig.jpeg",
+"currentMessage": 200
+},
+{
+"name": "raecdigest",
+"title": "RAEC//Digest",
+"image": "data/logo/raecdigest.jpeg",
 "currentMessage": 200
 },
 {
@@ -5244,16 +5376,16 @@
 "currentMessage": 1000
 },
 {
-"name": "fordesigner",
-"title": "Job for Designers",
-"image": "data/logo/fordesigner.jpeg",
-"currentMessage": 166
-},
-{
 "name": "selfdev_ru",
 "title": "Саморазвитие – русскоговорящее сообщество",
 "image": "data/logo/selfdev_ru.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "fordesigner",
+"title": "Job for Designers",
+"image": "data/logo/fordesigner.jpeg",
+"currentMessage": 166
 },
 {
 "name": "cloud_ru",
@@ -5262,16 +5394,16 @@
 "currentMessage": 1000
 },
 {
-"name": "gambala_live",
-"title": "Gambala.live",
-"image": "data/logo/gambala_live.jpeg",
-"currentMessage": 200
-},
-{
 "name": "DotNetChat",
 "title": ".NET Chat Убежище",
 "image": "data/logo/dotnetchat.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "gambala_live",
+"title": "Gambala.live",
+"image": "data/logo/gambala_live.jpeg",
+"currentMessage": 200
 },
 {
 "name": "rabotaembedded",
@@ -5304,16 +5436,16 @@
 "currentMessage": 200
 },
 {
-"name": "code_news",
-"title": "Code News",
-"image": "data/logo/code_news.jpeg",
-"currentMessage": 36
-},
-{
 "name": "comput_math",
 "title": "comput.math",
 "image": "data/logo/comput_math.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "code_news",
+"title": "Code News",
+"image": "data/logo/code_news.jpeg",
+"currentMessage": 36
 },
 {
 "name": "emacs_ru",
@@ -5328,15 +5460,15 @@
 "currentMessage": 97
 },
 {
-"name": "ruby_talks",
-"title": "Ruby Talks",
-"image": "data/logo/ruby_talks.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "saintprug",
 "title": "Saint P Ruby User Group: proudly made in Russia",
 "image": "data/logo/saintprug.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "ruby_talks",
+"title": "Ruby Talks",
+"image": "data/logo/ruby_talks.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5400,6 +5532,12 @@
 "currentMessage": 1000
 },
 {
+"name": "sql_ninja",
+"title": "SQL_Ninja",
+"image": "data/logo/sql_ninja.jpeg",
+"currentMessage": 1000
+},
+{
 "name": "annode",
 "title": "annode webdev",
 "image": "data/logo/annode.jpeg",
@@ -5409,12 +5547,6 @@
 "name": "ParrotSecRU",
 "title": "ParrotSecRU",
 "image": "data/logo/parrotsecru.jpeg",
-"currentMessage": 1000
-},
-{
-"name": "sql_ninja",
-"title": "SQL_Ninja",
-"image": "data/logo/sql_ninja.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5490,10 +5622,10 @@
 "currentMessage": 1000
 },
 {
-"name": "fprog_spb",
-"title": "fprog_spb",
-"image": "data/logo/fprog_spb.jpeg",
-"currentMessage": 1000
+"name": "BestSignalsBTC",
+"title": "BEST Signals",
+"image": "data/logo/bestsignalsbtc.jpeg",
+"currentMessage": 22
 },
 {
 "name": "devbyall",
@@ -5502,10 +5634,10 @@
 "currentMessage": 1000
 },
 {
-"name": "BestSignalsBTC",
-"title": "BEST Signals",
-"image": "data/logo/bestsignalsbtc.jpeg",
-"currentMessage": 22
+"name": "fprog_spb",
+"title": "fprog_spb",
+"image": "data/logo/fprog_spb.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "ru_philosophy",
@@ -5532,15 +5664,15 @@
 "currentMessage": 500
 },
 {
-"name": "proelixir_news",
-"title": "elixir_news",
-"image": "data/logo/proelixir_news.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "brutal_docker",
 "title": "Брутальный Docker ( #`⌂´)/┌┛",
 "image": "data/logo/brutal_docker.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "proelixir_news",
+"title": "elixir_news",
+"image": "data/logo/proelixir_news.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5548,6 +5680,12 @@
 "title": "➰Gogo deep house➰",
 "image": "data/logo/gogomusic.jpeg",
 "currentMessage": 200
+},
+{
+"name": "moscowProgers",
+"title": "Moscow progers",
+"image": "data/logo/moscowprogers.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "proasterisk",
@@ -5560,12 +5698,6 @@
 "title": "Каталог Каналов | Telegram Mega center | Catalog",
 "image": "data/logo/catalogtelegrammega.jpeg",
 "currentMessage": 37
-},
-{
-"name": "moscowProgers",
-"title": "Moscow progers",
-"image": "data/logo/moscowprogers.jpeg",
-"currentMessage": 1000
 },
 {
 "name": "cryptofishnews",
@@ -5610,27 +5742,27 @@
 "currentMessage": 1000
 },
 {
-"name": "chatanonhownow",
-"title": "Well, check it out",
-"image": "data/logo/chatanonhownow.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "jobfortm",
 "title": "Job for IT-TOP (Technical Managers)",
 "image": "data/logo/jobfortm.jpeg",
 "currentMessage": 198
 },
 {
-"name": "cent_os_ru",
-"title": "CentOS [Ru]",
-"image": "data/logo/cent_os_ru.jpeg",
+"name": "chatanonhownow",
+"title": "Well, check it out",
+"image": "data/logo/chatanonhownow.jpeg",
 "currentMessage": 1000
 },
 {
 "name": "random_ru",
 "title": "Random — дикий запад",
 "image": "data/logo/random_ru.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "cent_os_ru",
+"title": "CentOS [Ru]",
+"image": "data/logo/cent_os_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5658,22 +5790,16 @@
 "currentMessage": 1000
 },
 {
-"name": "yiijobs",
-"title": "Yii - вакансии, работа, фриланс",
-"image": "data/logo/yiijobs.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "mikrotik_ru",
 "title": "MikroTik",
 "image": "data/logo/mikrotik_ru.jpeg",
 "currentMessage": 1000
 },
 {
-"name": "bukhenity",
-"title": "Bukhenity Insanity",
-"image": "data/logo/bukhenity.jpeg",
-"currentMessage": 221
+"name": "yiijobs",
+"title": "Yii - вакансии, работа, фриланс",
+"image": "data/logo/yiijobs.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "postgreschat",
@@ -5688,6 +5814,12 @@
 "currentMessage": 1000
 },
 {
+"name": "bukhenity",
+"title": "Bukhenity Insanity",
+"image": "data/logo/bukhenity.jpeg",
+"currentMessage": 221
+},
+{
 "name": "joomlafeed",
 "title": "Joomla Feed",
 "image": "data/logo/joomlafeed.jpeg",
@@ -5700,15 +5832,15 @@
 "currentMessage": 1000
 },
 {
-"name": "funscience_chat",
-"title": "Funscience",
-"image": "data/logo/funscience_chat.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "fp_ru",
 "title": "ФП",
 "image": "data/logo/fp_ru.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "funscience_chat",
+"title": "Funscience",
+"image": "data/logo/funscience_chat.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5754,9 +5886,9 @@
 "currentMessage": 1000
 },
 {
-"name": "reasonml_ru",
-"title": "ReasonML и OCaml",
-"image": "data/logo/reasonml_ru.jpeg",
+"name": "redux_ru",
+"title": "Redux — русскоговорящее сообщество",
+"image": "data/logo/redux_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5766,15 +5898,9 @@
 "currentMessage": 70
 },
 {
-"name": "redux_ru",
-"title": "Redux — русскоговорящее сообщество",
-"image": "data/logo/redux_ru.jpeg",
-"currentMessage": 1000
-},
-{
-"name": "k8spb",
-"title": "K8Spb",
-"image": "data/logo/k8spb.jpeg",
+"name": "reasonml_ru",
+"title": "ReasonML и OCaml",
+"image": "data/logo/reasonml_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -5784,22 +5910,22 @@
 "currentMessage": 209
 },
 {
-"name": "ponaehali",
-"title": "Понаехали. Всё про жизнь в Москве :: Как попасть туда :: Как прожить там :: Как покинуть этот город",
-"image": "data/logo/ponaehali.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "esnextnews",
 "title": "ESnextNews",
 "image": "data/logo/esnextnews.jpeg",
 "currentMessage": 124
 },
 {
-"name": "eulocals",
-"title": "В ЕВРОПУ!",
-"image": "data/logo/eulocals.jpeg",
-"currentMessage": 210
+"name": "k8spb",
+"title": "K8Spb",
+"image": "data/logo/k8spb.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "ponaehali",
+"title": "Понаехали. Всё про жизнь в Москве :: Как попасть туда :: Как прожить там :: Как покинуть этот город",
+"image": "data/logo/ponaehali.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "usePerlOrDie",
@@ -5808,16 +5934,22 @@
 "currentMessage": 1000
 },
 {
-"name": "lovely_it_hell",
-"title": "Уютный адочек",
-"image": "data/logo/lovely_it_hell.jpeg",
-"currentMessage": 85
+"name": "eulocals",
+"title": "В ЕВРОПУ!",
+"image": "data/logo/eulocals.jpeg",
+"currentMessage": 210
 },
 {
 "name": "hunkerspot",
 "title": "HUNKERSPOT",
 "image": "data/logo/hunkerspot.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "lovely_it_hell",
+"title": "Уютный адочек",
+"image": "data/logo/lovely_it_hell.jpeg",
+"currentMessage": 85
 },
 {
 "name": "frontend_u_news",
@@ -5862,6 +5994,12 @@
 "currentMessage": 200
 },
 {
+"name": "boberscience",
+"title": "Boring Berlin Scientist",
+"image": "data/logo/boberscience.jpeg",
+"currentMessage": 200
+},
+{
 "name": "Vacationmusic",
 "title": "Vacation Music🗣",
 "image": "data/logo/vacationmusic.jpeg",
@@ -5880,12 +6018,6 @@
 "currentMessage": 200
 },
 {
-"name": "boberscience",
-"title": "Boring Berlin Scientist",
-"image": "data/logo/boberscience.jpeg",
-"currentMessage": 200
-},
-{
 "name": "apollo_ru",
 "title": "Apollo — русскоговорящее сообщество",
 "image": "data/logo/apollo_ru.jpeg",
@@ -5898,16 +6030,16 @@
 "currentMessage": 1000
 },
 {
-"name": "grouplst",
-"title": "Telegram Group List Chat. IT Only!",
-"image": "data/logo/grouplst.jpeg",
-"currentMessage": 2523
-},
-{
 "name": "gambala_chat",
 "title": "Gambala.chat",
 "image": "data/logo/gambala_chat.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "grouplst",
+"title": "Telegram Group List Chat. IT Only!",
+"image": "data/logo/grouplst.jpeg",
+"currentMessage": 2523
 },
 {
 "name": "javanese_online",
@@ -5958,16 +6090,16 @@
 "currentMessage": 500
 },
 {
-"name": "spbitpeople",
-"title": "IT PPL TALKS",
-"image": "data/logo/spbitpeople.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "pokashevarim",
 "title": "Покашеварим",
 "image": "data/logo/pokashevarim.jpeg",
 "currentMessage": 344
+},
+{
+"name": "spbitpeople",
+"title": "IT PPL TALKS",
+"image": "data/logo/spbitpeople.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "Zadachi1c",
@@ -6042,16 +6174,16 @@
 "currentMessage": 200
 },
 {
-"name": "javanese_questions",
-"title": "Javanese Questions",
-"image": "data/logo/javanese_questions.jpeg",
-"currentMessage": 500
-},
-{
 "name": "ru_mechcult",
 "title": "Секта кнопкопоклонников. Нет, правда секта",
 "image": "data/logo/ru_mechcult.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "javanese_questions",
+"title": "Javanese Questions",
+"image": "data/logo/javanese_questions.jpeg",
+"currentMessage": 500
 },
 {
 "name": "JuliaLanguage",
@@ -6060,15 +6192,15 @@
 "currentMessage": 1000
 },
 {
-"name": "clear_code",
-"title": "Чистый код",
-"image": "data/logo/clear_code.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "ru_openSUSE",
 "title": "openSUSE | RU",
 "image": "data/logo/ru_opensuse.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "clear_code",
+"title": "Чистый код",
+"image": "data/logo/clear_code.jpeg",
 "currentMessage": 1000
 },
 {
@@ -6126,12 +6258,6 @@
 "currentMessage": 111
 },
 {
-"name": "chatops_ru",
-"title": "ChatOps RU",
-"image": "data/logo/chatops_ru.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "angular_piter",
 "title": "AngularPiter - русскоговорящее сообщество",
 "image": "data/logo/angular_piter.jpeg",
@@ -6150,9 +6276,9 @@
 "currentMessage": 109
 },
 {
-"name": "embedded_rs",
-"title": "embedded.rs",
-"image": "data/logo/embedded_rs.jpeg",
+"name": "chatops_ru",
+"title": "ChatOps RU",
+"image": "data/logo/chatops_ru.jpeg",
 "currentMessage": 1000
 },
 {
@@ -6162,9 +6288,9 @@
 "currentMessage": 44
 },
 {
-"name": "linuxmint_com",
-"title": "linuxmint",
-"image": "data/logo/linuxmint_com.jpeg",
+"name": "embedded_rs",
+"title": "embedded.rs",
+"image": "data/logo/embedded_rs.jpeg",
 "currentMessage": 1000
 },
 {
@@ -6180,10 +6306,10 @@
 "currentMessage": 355
 },
 {
-"name": "WEBAwesome",
-"title": "WEBAwesome",
-"image": "data/logo/webawesome.jpeg",
-"currentMessage": 78
+"name": "linuxmint_com",
+"title": "linuxmint",
+"image": "data/logo/linuxmint_com.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "geekscontent",
@@ -6192,16 +6318,22 @@
 "currentMessage": 175
 },
 {
-"name": "mim_mag",
-"title": "Mag م",
-"image": "data/logo/mim_mag.jpeg",
-"currentMessage": 200
+"name": "WEBAwesome",
+"title": "WEBAwesome",
+"image": "data/logo/webawesome.jpeg",
+"currentMessage": 78
 },
 {
 "name": "ffmpeg_ru",
 "title": "FFmpeg - Russian Community",
 "image": "data/logo/ffmpeg_ru.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "mim_mag",
+"title": "Mag م",
+"image": "data/logo/mim_mag.jpeg",
+"currentMessage": 200
 },
 {
 "name": "bookach",
@@ -6228,16 +6360,16 @@
 "currentMessage": 200
 },
 {
-"name": "GNULinuxRU",
-"title": "💡GNU/Linux • Instant View 🚀",
-"image": "data/logo/gnulinuxru.jpeg",
-"currentMessage": 200
-},
-{
 "name": "ru_kamailio",
 "title": "ru_kamailio",
 "image": "data/logo/ru_kamailio.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "GNULinuxRU",
+"title": "💡GNU/Linux • Instant View 🚀",
+"image": "data/logo/gnulinuxru.jpeg",
+"currentMessage": 200
 },
 {
 "name": "ru_email",
@@ -6276,16 +6408,16 @@
 "currentMessage": 200
 },
 {
-"name": "OneCelery",
-"title": "1Сельдерей",
-"image": "data/logo/onecelery.jpeg",
-"currentMessage": 46
-},
-{
 "name": "proradio",
 "title": "radio",
 "image": "data/logo/proradio.jpeg",
 "currentMessage": 500
+},
+{
+"name": "OneCelery",
+"title": "1Сельдерей",
+"image": "data/logo/onecelery.jpeg",
+"currentMessage": 46
 },
 {
 "name": "webo_en",
@@ -6318,22 +6450,16 @@
 "currentMessage": 59
 },
 {
-"name": "jobforpr",
-"title": "Job for PR",
-"image": "data/logo/jobforpr.jpeg",
-"currentMessage": 106
-},
-{
 "name": "forallmobile",
 "title": "Job for Mobile Developers (iOS, Android)",
 "image": "data/logo/forallmobile.jpeg",
 "currentMessage": 121
 },
 {
-"name": "Samara_IT_Community",
-"title": "Samara IT Community",
-"image": "data/logo/samara_it_community.jpeg",
-"currentMessage": 197
+"name": "jobforpr",
+"title": "Job for PR",
+"image": "data/logo/jobforpr.jpeg",
+"currentMessage": 106
 },
 {
 "name": "telegraf_ru",
@@ -6342,10 +6468,22 @@
 "currentMessage": 5584
 },
 {
+"name": "Samara_IT_Community",
+"title": "Samara IT Community",
+"image": "data/logo/samara_it_community.jpeg",
+"currentMessage": 197
+},
+{
 "name": "xmpp_ru",
 "title": "XMPP — русскоговорящее сообщество",
 "image": "data/logo/xmpp_ru.jpeg",
 "currentMessage": 1000
+},
+{
+"name": "platononfrontend",
+"title": "platon on frontend",
+"image": "data/logo/platononfrontend.jpeg",
+"currentMessage": 70
 },
 {
 "name": "meteorjs_ru",
@@ -6366,12 +6504,6 @@
 "currentMessage": 14
 },
 {
-"name": "platononfrontend",
-"title": "platon on frontend",
-"image": "data/logo/platononfrontend.jpeg",
-"currentMessage": 70
-},
-{
 "name": "airbase_ru",
 "title": "Airbase.Ru",
 "image": "data/logo/airbase_ru.jpeg",
@@ -6390,28 +6522,28 @@
 "currentMessage": 1000
 },
 {
-"name": "ru_politics",
-"title": "RU: Politics",
-"image": "data/logo/ru_politics.jpeg",
-"currentMessage": 200
-},
-{
 "name": "spb_auto",
 "title": "spb_auto",
 "image": "data/logo/spb_auto.jpeg",
 "currentMessage": 1000
 },
 {
-"name": "macdev_ru",
-"title": "macOS Developers — русскоговорящее сообщество",
-"image": "data/logo/macdev_ru.jpeg",
-"currentMessage": 525
+"name": "ru_politics",
+"title": "RU: Politics",
+"image": "data/logo/ru_politics.jpeg",
+"currentMessage": 200
 },
 {
 "name": "nodejs_jobs_feed",
 "title": "Node.js Jobs — вакансии и резюме",
 "image": "data/logo/nodejs_jobs_feed.jpeg",
 "currentMessage": 7
+},
+{
+"name": "macdev_ru",
+"title": "macOS Developers — русскоговорящее сообщество",
+"image": "data/logo/macdev_ru.jpeg",
+"currentMessage": 525
 },
 {
 "name": "devChats",
@@ -6426,16 +6558,16 @@
 "currentMessage": 200
 },
 {
-"name": "linux_news_ru",
-"title": "Linux News",
-"image": "data/logo/linux_news_ru.jpeg",
-"currentMessage": 200
-},
-{
 "name": "somesecurity",
 "title": "HttpNotOnly",
 "image": "data/logo/somesecurity.jpeg",
 "currentMessage": 26
+},
+{
+"name": "linux_news_ru",
+"title": "Linux News",
+"image": "data/logo/linux_news_ru.jpeg",
+"currentMessage": 200
 },
 {
 "name": "websec_ru",
@@ -6450,15 +6582,15 @@
 "currentMessage": 200
 },
 {
-"name": "specialistoffnet",
-"title": "SpecialistOff.NET",
-"image": "data/logo/specialistoffnet.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "idm_ru",
 "title": "IDM",
 "image": "data/logo/idm_ru.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "specialistoffnet",
+"title": "SpecialistOff.NET",
+"image": "data/logo/specialistoffnet.jpeg",
 "currentMessage": 1000
 },
 {
@@ -6492,6 +6624,12 @@
 "currentMessage": 200
 },
 {
+"name": "smartos_ru",
+"title": "smartos_ru",
+"image": "data/logo/smartos_ru.jpeg",
+"currentMessage": 884
+},
+{
 "name": "AutoIT_RU",
 "title": "AutoIT RU",
 "image": "data/logo/autoit_ru.jpeg",
@@ -6504,28 +6642,22 @@
 "currentMessage": 127
 },
 {
-"name": "smartos_ru",
-"title": "smartos_ru",
-"image": "data/logo/smartos_ru.jpeg",
-"currentMessage": 884
-},
-{
 "name": "ReduxAnotherDay",
 "title": "Абрамов Позвонит",
 "image": "data/logo/reduxanotherday.jpeg",
 "currentMessage": 127
 },
 {
-"name": "calculate_talk",
-"title": "Обо всём кроме политики | Calculate",
-"image": "data/logo/calculate_talk.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "designmalasha",
 "title": "ДИЗАЙНМАЛАША",
 "image": "data/logo/designmalasha.jpeg",
 "currentMessage": 291
+},
+{
+"name": "calculate_talk",
+"title": "Обо всём кроме политики | Calculate",
+"image": "data/logo/calculate_talk.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "decentralized_social",
@@ -6540,6 +6672,18 @@
 "currentMessage": 126
 },
 {
+"name": "starter_math",
+"title": "Starter Math",
+"image": "data/logo/starter_math.jpeg",
+"currentMessage": 1000
+},
+{
+"name": "vuejs_memes",
+"title": "мемный вуе",
+"image": "data/logo/vuejs_memes.jpeg",
+"currentMessage": 77
+},
+{
 "name": "therealtalkme",
 "title": "The Real Talk",
 "image": "data/logo/therealtalkme.jpeg",
@@ -6550,18 +6694,6 @@
 "title": "Airbase channel",
 "image": "data/logo/airbase.jpeg",
 "currentMessage": 200
-},
-{
-"name": "vuejs_memes",
-"title": "мемный вуе",
-"image": "data/logo/vuejs_memes.jpeg",
-"currentMessage": 77
-},
-{
-"name": "starter_math",
-"title": "Starter Math",
-"image": "data/logo/starter_math.jpeg",
-"currentMessage": 1000
 },
 {
 "name": "weex_ru",
@@ -6594,28 +6726,28 @@
 "currentMessage": 523
 },
 {
-"name": "dodiezcsharp",
-"title": "До диез",
-"image": "data/logo/dodiezcsharp.jpeg",
-"currentMessage": 200
-},
-{
 "name": "kafe1c",
 "title": "1С-Кафе",
 "image": "data/logo/kafe1c.jpeg",
 "currentMessage": 63
 },
 {
-"name": "ru_nim_talks",
-"title": "ru.nim.talks",
-"image": "data/logo/ru_nim_talks.jpeg",
-"currentMessage": 1000
+"name": "dodiezcsharp",
+"title": "До диез",
+"image": "data/logo/dodiezcsharp.jpeg",
+"currentMessage": 200
 },
 {
 "name": "carfanatics",
 "title": "Car Fanatics",
 "image": "data/logo/carfanatics.jpeg",
 "currentMessage": 77
+},
+{
+"name": "ru_nim_talks",
+"title": "ru.nim.talks",
+"image": "data/logo/ru_nim_talks.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "business_lynch",
@@ -6675,13 +6807,7 @@
 "name": "SuperDeals",
 "title": "SuperDeals",
 "image": "data/logo/superdeals.jpeg",
-"currentMessage": 1000
-},
-{
-"name": "protonnative_ru",
-"title": "Proton Native — русскоговорящее сообщество",
-"image": "data/logo/protonnative_ru.jpeg",
-"currentMessage": 34
+"currentMessage": 581846
 },
 {
 "name": "AutoHotkey_RU",
@@ -6694,6 +6820,12 @@
 "title": "Лучшее с Quora",
 "image": "data/logo/quorarus.jpeg",
 "currentMessage": 19
+},
+{
+"name": "protonnative_ru",
+"title": "Proton Native — русскоговорящее сообщество",
+"image": "data/logo/protonnative_ru.jpeg",
+"currentMessage": 34
 },
 {
 "name": "mobile_jobs_feed",
@@ -6714,16 +6846,16 @@
 "currentMessage": 46
 },
 {
-"name": "SourceBasedOS",
-"title": "SourceBasedOS",
-"image": "data/logo/sourcebasedos.jpeg",
-"currentMessage": 1000
-},
-{
 "name": "webinspiration",
 "title": "Вдохновение для дизайнеров",
 "image": "data/logo/webinspiration.jpeg",
 "currentMessage": 179
+},
+{
+"name": "SourceBasedOS",
+"title": "SourceBasedOS",
+"image": "data/logo/sourcebasedos.jpeg",
+"currentMessage": 1000
 },
 {
 "name": "ReceptiVkusno",
@@ -6732,10 +6864,10 @@
 "currentMessage": 18
 },
 {
-"name": "ThisIsInterestin",
-"title": "ThisIsInterestin",
-"image": "data/logo/thisisinterestin.jpeg",
-"currentMessage": 1000
+"name": "g33kschat",
+"title": "GeeksChat",
+"image": "data/logo/g33kschat.jpeg",
+"currentMessage": 54
 },
 {
 "name": "modxby",
@@ -6744,10 +6876,10 @@
 "currentMessage": 317
 },
 {
-"name": "g33kschat",
-"title": "GeeksChat",
-"image": "data/logo/g33kschat.jpeg",
-"currentMessage": 54
+"name": "ThisIsInterestin",
+"title": "ThisIsInterestin",
+"image": "data/logo/thisisinterestin.jpeg",
+"currentMessage": 239724
 },
 {
 "name": "TechHype",
@@ -6756,15 +6888,15 @@
 "currentMessage": 96
 },
 {
-"name": "TG_Viewer",
-"title": "TGViewer",
-"image": "data/logo/tg_viewer.jpeg",
-"currentMessage": 30
-},
-{
 "name": "HotVibes",
 "title": "Hot Vibes",
 "image": "data/logo/hotvibes.jpeg",
 "currentMessage": 275
+},
+{
+"name": "TG_Viewer",
+"title": "TGViewer",
+"image": "data/logo/tg_viewer.jpeg",
+"currentMessage": 30
 }
 ]
