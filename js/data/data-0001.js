@@ -8611,9 +8611,9 @@
 "name": "SuperDeals",
 "title": "SuperDeals",
 "image": "data/logo/superdeals.jpeg",
-"currentMessage": 586840,
-"minMessage": 1,
-"maxMessage": 586840
+"currentMessage": 587061,
+"minMessage": 510000,
+"maxMessage": 587061
 },
 {
 "name": "protonnative_ru",
@@ -8691,9 +8691,9 @@
 "name": "ThisIsInterestin",
 "title": "ThisIsInterestin",
 "image": "data/logo/thisisinterestin.jpeg",
-"currentMessage": 240111,
-"minMessage": 1,
-"maxMessage": 240111
+"currentMessage": 240118,
+"minMessage": 237000,
+"maxMessage": 240118
 },
 {
 "name": "HotVibes",
@@ -8715,8 +8715,8 @@
 "name": "TG_Viewer",
 "title": "TGViewer",
 "image": "data/logo/tg_viewer.jpeg",
-"currentMessage": 80,
+"currentMessage": 83,
 "minMessage": 1,
-"maxMessage": 80
+"maxMessage": 83
 }
 ]);
