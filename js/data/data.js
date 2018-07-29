@@ -1,5 +1,4 @@
-addDataToArrayScript(
-{
+addDataToArrayScript({
 "files": [
 {
 "file": "js/data/data-0001.js",
@@ -7,5 +6,4 @@ addDataToArrayScript(
 }
 ],
 "count": "1090"
-}
-);
+});
