@@ -1,5 +1,4 @@
-﻿addArrayToDataAll(
-[
+﻿addArrayToDataAll([
 {
 "name": "Telegram",
 "title": "Telegram News",
@@ -8720,5 +8719,4 @@
 "minMessage": 1,
 "maxMessage": 83
 }
-]
-);
+]);
