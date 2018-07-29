@@ -1,5 +1,4 @@
-[
-{
+﻿[{
 "name": "Telegram",
 "title": "Telegram News",
 "image": "data/logo/telegram.jpeg",
@@ -8718,5 +8717,4 @@
 "currentMessage": 83,
 "minMessage": 1,
 "maxMessage": 83
-}
-]
+}]
