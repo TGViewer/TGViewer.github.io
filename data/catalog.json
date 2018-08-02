@@ -9515,9 +9515,9 @@
 "name": "SuperDeals",
 "title": "SuperDeals",
 "image": "data/logo/superdeals.jpeg",
-"currentMessage": 587809,
+"currentMessage": 588472,
 "minMessage": 510000,
-"maxMessage": 587809
+"maxMessage": 588472
 },
 {
 "name": "AutoHotkey_RU",
@@ -9571,32 +9571,32 @@
 "name": "ThisIsInterestin",
 "title": "ThisIsInterestin",
 "image": "data/logo/thisisinterestin.jpeg",
-"currentMessage": 240268,
+"currentMessage": 240275,
 "minMessage": 237000,
-"maxMessage": 240268
+"maxMessage": 240275
 },
 {
 "name": "HotVibes",
 "title": "Hot Vibes",
 "image": "data/logo/hotvibes.jpeg",
-"currentMessage": 286,
+"currentMessage": 287,
 "minMessage": 1,
-"maxMessage": 286
+"maxMessage": 287
 },
 {
 "name": "TechHype",
 "title": "TechHype",
 "image": "data/logo/techhype.jpeg",
-"currentMessage": 271,
+"currentMessage": 303,
 "minMessage": 1,
-"maxMessage": 271
+"maxMessage": 303
 },
 {
 "name": "TG_Viewer",
 "title": "TGViewer",
 "image": "data/logo/tg_viewer.jpeg",
-"currentMessage": 90,
+"currentMessage": 96,
 "minMessage": 1,
-"maxMessage": 90
+"maxMessage": 96
 }
 ]
