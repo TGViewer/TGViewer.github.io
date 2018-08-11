@@ -5152,20 +5152,20 @@
 "maxMessage": 265
 },
 {
-"name": "proRuby",
-"title": "pro.ruby",
-"image": "data/logo/proruby.jpeg",
-"currentMessage": 131732,
-"minMessage": 1,
-"maxMessage": 131732
-},
-{
 "name": "scdesignlab",
 "title": "Design.Lab",
 "image": "data/logo/scdesignlab.jpeg",
 "currentMessage": 579,
 "minMessage": 1,
 "maxMessage": 579
+},
+{
+"name": "proRuby",
+"title": "pro.ruby",
+"image": "data/logo/proruby.jpeg",
+"currentMessage": 131732,
+"minMessage": 1,
+"maxMessage": 131732
 },
 {
 "name": "conversionim",
@@ -5440,20 +5440,20 @@
 "maxMessage": 186
 },
 {
-"name": "digital_technology_news",
-"title": "Digital Technology News",
-"image": "data/logo/digital_technology_news.jpeg",
-"currentMessage": 257,
-"minMessage": 1,
-"maxMessage": 257
-},
-{
 "name": "spbpython",
 "title": "SPb Python",
 "image": "data/logo/spbpython.jpeg",
 "currentMessage": 75047,
 "minMessage": 1,
 "maxMessage": 75047
+},
+{
+"name": "digital_technology_news",
+"title": "Digital Technology News",
+"image": "data/logo/digital_technology_news.jpeg",
+"currentMessage": 257,
+"minMessage": 1,
+"maxMessage": 257
 },
 {
 "name": "aboutmobile",
@@ -5472,20 +5472,20 @@
 "maxMessage": 174
 },
 {
-"name": "MOCKBAchat",
-"title": "Москвачат",
-"image": "data/logo/mockbachat.jpeg",
-"currentMessage": 842979,
-"minMessage": 1,
-"maxMessage": 842979
-},
-{
 "name": "opennews",
 "title": "opennet news",
 "image": "data/logo/opennews.jpeg",
 "currentMessage": 3872,
 "minMessage": 1,
 "maxMessage": 3872
+},
+{
+"name": "MOCKBAchat",
+"title": "Москвачат",
+"image": "data/logo/mockbachat.jpeg",
+"currentMessage": 842979,
+"minMessage": 1,
+"maxMessage": 842979
 },
 {
 "name": "DigitalPuzzle",
@@ -5592,14 +5592,6 @@
 "maxMessage": 86029
 },
 {
-"name": "C4NDY",
-"title": "CANDY",
-"image": "data/logo/c4ndy.jpeg",
-"currentMessage": 480,
-"minMessage": 1,
-"maxMessage": 480
-},
-{
 "name": "frontendproglib",
 "title": "Библиотека фронтендера",
 "image": "data/logo/frontendproglib.jpeg",
@@ -5608,12 +5600,28 @@
 "maxMessage": 9
 },
 {
+"name": "C4NDY",
+"title": "CANDY",
+"image": "data/logo/c4ndy.jpeg",
+"currentMessage": 480,
+"minMessage": 1,
+"maxMessage": 480
+},
+{
 "name": "dmitriisorin",
 "title": "Про Сидней / Atlassian / вег..",
 "image": "data/logo/dmitriisorin.jpeg",
 "currentMessage": 366,
 "minMessage": 1,
 "maxMessage": 366
+},
+{
+"name": "jobs4all_ru",
+"title": "Dream jobs",
+"image": "data/logo/jobs4all_ru.jpeg",
+"currentMessage": 1847,
+"minMessage": 1,
+"maxMessage": 1847
 },
 {
 "name": "seoforge",
@@ -5760,20 +5768,20 @@
 "maxMessage": 402
 },
 {
-"name": "sqlcom",
-"title": "SqlCom.ru - Стиль жизни SQL",
-"image": "data/logo/sqlcom.jpeg",
-"currentMessage": 100467,
-"minMessage": 1,
-"maxMessage": 100467
-},
-{
 "name": "projects_jobs",
 "title": "Projects Jobs — вакансии и аналитика",
 "image": "data/logo/projects_jobs.jpeg",
 "currentMessage": 3399,
 "minMessage": 1,
 "maxMessage": 3399
+},
+{
+"name": "sqlcom",
+"title": "SqlCom.ru - Стиль жизни SQL",
+"image": "data/logo/sqlcom.jpeg",
+"currentMessage": 100467,
+"minMessage": 1,
+"maxMessage": 100467
 },
 {
 "name": "typescript_ru",
@@ -5784,20 +5792,20 @@
 "maxMessage": 66847
 },
 {
-"name": "IoT_community",
-"title": "IOT COMMUNITY",
-"image": "data/logo/iot_community.jpeg",
-"currentMessage": 306,
-"minMessage": 1,
-"maxMessage": 306
-},
-{
 "name": "forfrontend",
 "title": "Job for Frontenders + Node.js",
 "image": "data/logo/forfrontend.jpeg",
 "currentMessage": 244,
 "minMessage": 1,
 "maxMessage": 244
+},
+{
+"name": "IoT_community",
+"title": "IOT COMMUNITY",
+"image": "data/logo/iot_community.jpeg",
+"currentMessage": 306,
+"minMessage": 1,
+"maxMessage": 306
 },
 {
 "name": "microsoftschool",
@@ -5867,25 +5875,9 @@
 "name": "odinoki_strannik",
 "title": "Одинокий странник по жизни",
 "image": "data/logo/odinoki_strannik.jpeg",
-"currentMessage": 82,
-"minMessage": 1,
-"maxMessage": 82
-},
-{
-"name": "odinoki_strannik",
-"title": "Одинокий странник по жизни",
-"image": "data/logo/odinoki_strannik.jpeg",
 "currentMessage": 89,
 "minMessage": 1,
 "maxMessage": 89
-},
-{
-"name": "ceskarepublika",
-"title": "Česká Republika :: Czechia :: Чехия",
-"image": "data/logo/ceskarepublika.jpeg",
-"currentMessage": 198237,
-"minMessage": 1,
-"maxMessage": 198237
 },
 {
 "name": "neuroworkshop",
@@ -5894,6 +5886,14 @@
 "currentMessage": 3364,
 "minMessage": 1,
 "maxMessage": 3364
+},
+{
+"name": "ceskarepublika",
+"title": "Česká Republika :: Czechia :: Чехия",
+"image": "data/logo/ceskarepublika.jpeg",
+"currentMessage": 198237,
+"minMessage": 1,
+"maxMessage": 198237
 },
 {
 "name": "proasm",
@@ -5960,6 +5960,14 @@
 "maxMessage": 379
 },
 {
+"name": "dipmusic",
+"title": "[dip] music",
+"image": "data/logo/dipmusic.jpeg",
+"currentMessage": 2823,
+"minMessage": 1,
+"maxMessage": 2823
+},
+{
 "name": "cultofwire",
 "title": "Cult Of Wire",
 "image": "data/logo/cultofwire.jpeg",
@@ -5968,12 +5976,12 @@
 "maxMessage": 680
 },
 {
-"name": "dipmusic",
-"title": "[dip] music",
-"image": "data/logo/dipmusic.jpeg",
-"currentMessage": 2823,
+"name": "golangjob",
+"title": "Golang Jobs and Freelance",
+"image": "data/logo/golangjob.jpeg",
+"currentMessage": 21902,
 "minMessage": 1,
-"maxMessage": 2823
+"maxMessage": 21902
 },
 {
 "name": "maisdesigner",
@@ -5990,14 +5998,6 @@
 "currentMessage": 206,
 "minMessage": 1,
 "maxMessage": 206
-},
-{
-"name": "golangjob",
-"title": "Golang Jobs and Freelance",
-"image": "data/logo/golangjob.jpeg",
-"currentMessage": 21902,
-"minMessage": 1,
-"maxMessage": 21902
 },
 {
 "name": "YouTubek",
@@ -6056,20 +6056,20 @@
 "maxMessage": 5249
 },
 {
-"name": "VEVOcom",
-"title": "VEVO",
-"image": "data/logo/vevocom.jpeg",
-"currentMessage": 1181,
-"minMessage": 1,
-"maxMessage": 1181
-},
-{
 "name": "macosx86",
 "title": "iHack - Hackintosh & Jailbreak",
 "image": "data/logo/macosx86.jpeg",
 "currentMessage": 178619,
 "minMessage": 1,
 "maxMessage": 178619
+},
+{
+"name": "VEVOcom",
+"title": "VEVO",
+"image": "data/logo/vevocom.jpeg",
+"currentMessage": 1181,
+"minMessage": 1,
+"maxMessage": 1181
 },
 {
 "name": "bem_ru",
@@ -6176,20 +6176,20 @@
 "maxMessage": 311
 },
 {
-"name": "ru_ipv6",
-"title": "ru_ipv6",
-"image": "data/logo/ru_ipv6.jpeg",
-"currentMessage": 21496,
-"minMessage": 1,
-"maxMessage": 21496
-},
-{
 "name": "Rapnigga",
 "title": "RapNigga",
 "image": "data/logo/rapnigga.jpeg",
 "currentMessage": 1294,
 "minMessage": 1,
 "maxMessage": 1294
+},
+{
+"name": "ru_ipv6",
+"title": "ru_ipv6",
+"image": "data/logo/ru_ipv6.jpeg",
+"currentMessage": 21496,
+"minMessage": 1,
+"maxMessage": 21496
 },
 {
 "name": "dsproglib",
@@ -6240,20 +6240,20 @@
 "maxMessage": 275
 },
 {
-"name": "justleaveithere",
-"title": "Just leave it here",
-"image": "data/logo/justleaveithere.jpeg",
-"currentMessage": 1117,
-"minMessage": 1,
-"maxMessage": 1117
-},
-{
 "name": "GuerrainCielo",
 "title": "WAR IN HEAVEN",
 "image": "data/logo/guerraincielo.jpeg",
 "currentMessage": 5026,
 "minMessage": 1,
 "maxMessage": 5026
+},
+{
+"name": "justleaveithere",
+"title": "Just leave it here",
+"image": "data/logo/justleaveithere.jpeg",
+"currentMessage": 1117,
+"minMessage": 1,
+"maxMessage": 1117
 },
 {
 "name": "forhr",
@@ -6280,20 +6280,20 @@
 "maxMessage": 19420
 },
 {
-"name": "qt_chat",
-"title": "Qt",
-"image": "data/logo/qt_chat.jpeg",
-"currentMessage": 64995,
-"minMessage": 1,
-"maxMessage": 64995
-},
-{
 "name": "wp4dev",
 "title": "Wordpress for developers",
 "image": "data/logo/wp4dev.jpeg",
 "currentMessage": 22604,
 "minMessage": 1,
 "maxMessage": 22604
+},
+{
+"name": "qt_chat",
+"title": "Qt",
+"image": "data/logo/qt_chat.jpeg",
+"currentMessage": 64995,
+"minMessage": 1,
+"maxMessage": 64995
 },
 {
 "name": "pro_net",
@@ -6384,20 +6384,20 @@
 "maxMessage": 15027
 },
 {
-"name": "curiousbritain",
-"title": "Curious Britain",
-"image": "data/logo/curiousbritain.jpeg",
-"currentMessage": 218,
-"minMessage": 1,
-"maxMessage": 218
-},
-{
 "name": "emaildev",
 "title": "Записки Коха",
 "image": "data/logo/emaildev.jpeg",
 "currentMessage": 298,
 "minMessage": 1,
 "maxMessage": 298
+},
+{
+"name": "curiousbritain",
+"title": "Curious Britain",
+"image": "data/logo/curiousbritain.jpeg",
+"currentMessage": 218,
+"minMessage": 1,
+"maxMessage": 218
 },
 {
 "name": "dronenews",
@@ -6448,20 +6448,20 @@
 "maxMessage": 52821
 },
 {
-"name": "tractor_de",
-"title": "Deutschland",
-"image": "data/logo/tractor_de.jpeg",
-"currentMessage": 275907,
-"minMessage": 1,
-"maxMessage": 275907
-},
-{
 "name": "codenamecrud",
 "title": "Random Ruby Chat",
 "image": "data/logo/codenamecrud.jpeg",
 "currentMessage": 94522,
 "minMessage": 1,
 "maxMessage": 94522
+},
+{
+"name": "tractor_de",
+"title": "Deutschland",
+"image": "data/logo/tractor_de.jpeg",
+"currentMessage": 275907,
+"minMessage": 1,
+"maxMessage": 275907
 },
 {
 "name": "phpproglib",
@@ -6472,20 +6472,20 @@
 "maxMessage": 20
 },
 {
-"name": "videomarketing24",
-"title": "Видеомаркетинг своими руками",
-"image": "data/logo/videomarketing24.jpeg",
-"currentMessage": 102,
-"minMessage": 1,
-"maxMessage": 102
-},
-{
 "name": "we_are_mistake",
 "title": "we are mistake",
 "image": "data/logo/we_are_mistake.jpeg",
 "currentMessage": 4676,
 "minMessage": 1,
 "maxMessage": 4676
+},
+{
+"name": "videomarketing24",
+"title": "Видеомаркетинг своими руками",
+"image": "data/logo/videomarketing24.jpeg",
+"currentMessage": 102,
+"minMessage": 1,
+"maxMessage": 102
 },
 {
 "name": "maddevsio",
@@ -6536,20 +6536,20 @@
 "maxMessage": 59293
 },
 {
-"name": "irresistiblecuriosity",
-"title": "Irresistible Curiosity",
-"image": "data/logo/irresistiblecuriosity.jpeg",
-"currentMessage": 135,
-"minMessage": 1,
-"maxMessage": 135
-},
-{
 "name": "im_for_all",
 "title": "Блог Алексея Трудова",
 "image": "data/logo/im_for_all.jpeg",
 "currentMessage": 144,
 "minMessage": 1,
 "maxMessage": 144
+},
+{
+"name": "irresistiblecuriosity",
+"title": "Irresistible Curiosity",
+"image": "data/logo/irresistiblecuriosity.jpeg",
+"currentMessage": 135,
+"minMessage": 1,
+"maxMessage": 135
 },
 {
 "name": "deadsign",
@@ -6592,20 +6592,20 @@
 "maxMessage": 250329
 },
 {
-"name": "angiezen",
-"title": "Энджи",
-"image": "data/logo/angiezen.jpeg",
-"currentMessage": 155,
-"minMessage": 1,
-"maxMessage": 155
-},
-{
 "name": "qazaqbiz",
 "title": "QAZAQBIZ🇰🇿 - блог о бизнесе в Казахстане",
 "image": "data/logo/qazaqbiz.jpeg",
 "currentMessage": 942,
 "minMessage": 1,
 "maxMessage": 942
+},
+{
+"name": "angiezen",
+"title": "Энджи",
+"image": "data/logo/angiezen.jpeg",
+"currentMessage": 155,
+"minMessage": 1,
+"maxMessage": 155
 },
 {
 "name": "pro_kvm",
