@@ -659,9 +659,9 @@
 "name": "treasurecloud",
 "title": "Облака",
 "image": "data/logo/treasurecloud.jpeg",
-"currentMessage": 512,
+"currentMessage": 513,
 "minMessage": 1,
-"maxMessage": 512
+"maxMessage": 513
 },
 {
 "name": "RLgames",
@@ -1515,9 +1515,9 @@
 "name": "habr_com",
 "title": "habr.com",
 "image": "data/logo/habr_com.jpeg",
-"currentMessage": 25058,
+"currentMessage": 25067,
 "minMessage": 1,
-"maxMessage": 25058
+"maxMessage": 25067
 },
 {
 "name": "webstandards_ru",
@@ -1720,14 +1720,6 @@
 "maxMessage": 786
 },
 {
-"name": "Crypt_Investment",
-"title": "Crypto Investment",
-"image": "data/logo/crypt_investment.jpeg",
-"currentMessage": 115,
-"minMessage": 1,
-"maxMessage": 115
-},
-{
 "name": "ithutru",
 "title": "ITHUT: новости IT",
 "image": "data/logo/ithutru.jpeg",
@@ -1784,20 +1776,20 @@
 "maxMessage": 592808
 },
 {
-"name": "schoolWA",
-"title": "Школа бородатого веб-аналитика",
-"image": "data/logo/schoolwa.jpeg",
-"currentMessage": 415,
-"minMessage": 1,
-"maxMessage": 415
-},
-{
 "name": "codeblog",
 "title": "CODE BLOG / Программирование",
 "image": "data/logo/codeblog.jpeg",
 "currentMessage": 469,
 "minMessage": 1,
 "maxMessage": 469
+},
+{
+"name": "schoolWA",
+"title": "Школа бородатого веб-аналитика",
+"image": "data/logo/schoolwa.jpeg",
+"currentMessage": 415,
+"minMessage": 1,
+"maxMessage": 415
 },
 {
 "name": "uxidesign",
@@ -2056,20 +2048,20 @@
 "maxMessage": 231
 },
 {
-"name": "react_js",
-"title": "React — русскоговорящее сообщество",
-"image": "data/logo/react_js.jpeg",
-"currentMessage": 463606,
-"minMessage": 1,
-"maxMessage": 463606
-},
-{
 "name": "seochat",
 "title": "SEO chat",
 "image": "data/logo/seochat.jpeg",
 "currentMessage": 693984,
 "minMessage": 1,
 "maxMessage": 693984
+},
+{
+"name": "react_js",
+"title": "React — русскоговорящее сообщество",
+"image": "data/logo/react_js.jpeg",
+"currentMessage": 463606,
+"minMessage": 1,
+"maxMessage": 463606
 },
 {
 "name": "metod_seo",
@@ -2424,14 +2416,6 @@
 "maxMessage": 464584
 },
 {
-"name": "vacinartmsk",
-"title": "vacinart",
-"image": "data/logo/vacinartmsk.jpeg",
-"currentMessage": 2955,
-"minMessage": 1,
-"maxMessage": 2955
-},
-{
 "name": "zametkiobamerike",
 "title": "Заметки об Америке",
 "image": "data/logo/zametkiobamerike.jpeg",
@@ -2440,12 +2424,28 @@
 "maxMessage": 437
 },
 {
+"name": "vacinartmsk",
+"title": "vacinart",
+"image": "data/logo/vacinartmsk.jpeg",
+"currentMessage": 2955,
+"minMessage": 1,
+"maxMessage": 2955
+},
+{
 "name": "surrealpics",
 "title": "Surrealism",
 "image": "data/logo/surrealpics.jpeg",
 "currentMessage": 3861,
 "minMessage": 1,
 "maxMessage": 3861
+},
+{
+"name": "howdyho_official",
+"title": "Хауди Хо™",
+"image": "data/logo/howdyho_official.jpeg",
+"currentMessage": 233,
+"minMessage": 1,
+"maxMessage": 233
 },
 {
 "name": "webanalyst",
@@ -2832,20 +2832,20 @@
 "maxMessage": 114240
 },
 {
-"name": "phpgeeks",
-"title": "phpGeeks",
-"image": "data/logo/phpgeeks.jpeg",
-"currentMessage": 782765,
-"minMessage": 1,
-"maxMessage": 782765
-},
-{
 "name": "jvmchat",
 "title": "pro.jvm",
 "image": "data/logo/jvmchat.jpeg",
 "currentMessage": 273684,
 "minMessage": 1,
 "maxMessage": 273684
+},
+{
+"name": "phpgeeks",
+"title": "phpGeeks",
+"image": "data/logo/phpgeeks.jpeg",
+"currentMessage": 782765,
+"minMessage": 1,
+"maxMessage": 782765
 },
 {
 "name": "historicalpictures",
@@ -2987,9 +2987,9 @@
 "name": "thefrontend",
 "title": "TheFrontEnd🔥",
 "image": "data/logo/thefrontend.jpeg",
-"currentMessage": 162,
+"currentMessage": 165,
 "minMessage": 1,
-"maxMessage": 162
+"maxMessage": 165
 },
 {
 "name": "nasa_apod",
@@ -3086,14 +3086,6 @@
 "currentMessage": 795,
 "minMessage": 1,
 "maxMessage": 795
-},
-{
-"name": "CryptSignalToday",
-"title": "Crypt Signals",
-"image": "data/logo/cryptsignaltoday.jpeg",
-"currentMessage": 53,
-"minMessage": 1,
-"maxMessage": 53
 },
 {
 "name": "DarkElectro",
@@ -3272,20 +3264,20 @@
 "maxMessage": 396
 },
 {
-"name": "devops_jobs",
-"title": "DevOps Jobs - работа и аналитика",
-"image": "data/logo/devops_jobs.jpeg",
-"currentMessage": 154320,
-"minMessage": 1,
-"maxMessage": 154320
-},
-{
 "name": "artplace",
 "title": "ArtPlace",
 "image": "data/logo/artplace.jpeg",
 "currentMessage": 295,
 "minMessage": 1,
 "maxMessage": 295
+},
+{
+"name": "devops_jobs",
+"title": "DevOps Jobs - работа и аналитика",
+"image": "data/logo/devops_jobs.jpeg",
+"currentMessage": 154320,
+"minMessage": 1,
+"maxMessage": 154320
 },
 {
 "name": "russiancontentmarketing",
@@ -3624,6 +3616,14 @@
 "maxMessage": 132162
 },
 {
+"name": "programmer_live",
+"title": "Developers Club",
+"image": "data/logo/programmer_live.jpeg",
+"currentMessage": 167,
+"minMessage": 1,
+"maxMessage": 167
+},
+{
 "name": "agile_ru",
 "title": "Agile, Scrum, Lean, Kanban, XP",
 "image": "data/logo/agile_ru.jpeg",
@@ -3648,20 +3648,20 @@
 "maxMessage": 359006
 },
 {
-"name": "iosdevio",
-"title": "iOS dev",
-"image": "data/logo/iosdevio.jpeg",
-"currentMessage": 664,
-"minMessage": 1,
-"maxMessage": 664
-},
-{
 "name": "uxhorn",
 "title": "UX Horn",
 "image": "data/logo/uxhorn.jpeg",
 "currentMessage": 613,
 "minMessage": 1,
 "maxMessage": 613
+},
+{
+"name": "iosdevio",
+"title": "iOS dev",
+"image": "data/logo/iosdevio.jpeg",
+"currentMessage": 664,
+"minMessage": 1,
+"maxMessage": 664
 },
 {
 "name": "fortyD",
@@ -3848,20 +3848,20 @@
 "maxMessage": 86
 },
 {
-"name": "thecodeby",
-"title": "The Cødeby",
-"image": "data/logo/thecodeby.jpeg",
-"currentMessage": 451447,
-"minMessage": 1,
-"maxMessage": 451447
-},
-{
 "name": "Socialhero",
 "title": "Знакомый рекламщик",
 "image": "data/logo/socialhero.jpeg",
 "currentMessage": 189,
 "minMessage": 1,
 "maxMessage": 189
+},
+{
+"name": "thecodeby",
+"title": "The Cødeby",
+"image": "data/logo/thecodeby.jpeg",
+"currentMessage": 451447,
+"minMessage": 1,
+"maxMessage": 451447
 },
 {
 "name": "froufrou",
@@ -3912,14 +3912,6 @@
 "maxMessage": 1139
 },
 {
-"name": "proJVM",
-"title": "pro.JVM",
-"image": "data/logo/projvm.jpeg",
-"currentMessage": 208,
-"minMessage": 1,
-"maxMessage": 208
-},
-{
 "name": "itfreelancers",
 "title": "IT freelance",
 "image": "data/logo/itfreelancers.jpeg",
@@ -3928,12 +3920,20 @@
 "maxMessage": 210
 },
 {
+"name": "proJVM",
+"title": "pro.JVM",
+"image": "data/logo/projvm.jpeg",
+"currentMessage": 208,
+"minMessage": 1,
+"maxMessage": 208
+},
+{
 "name": "uwebdesign",
 "title": "uWebDesign.ru",
 "image": "data/logo/uwebdesign.jpeg",
-"currentMessage": 1138,
+"currentMessage": 1140,
 "minMessage": 1,
-"maxMessage": 1138
+"maxMessage": 1140
 },
 {
 "name": "clickhouse_ru",
@@ -4120,20 +4120,20 @@
 "maxMessage": 147
 },
 {
-"name": "designertyt",
-"title": "UI/UX Надежда Гусева",
-"image": "data/logo/designertyt.jpeg",
-"currentMessage": 292,
-"minMessage": 1,
-"maxMessage": 292
-},
-{
 "name": "javastart",
 "title": "learn.java",
 "image": "data/logo/javastart.jpeg",
 "currentMessage": 117591,
 "minMessage": 1,
 "maxMessage": 117591
+},
+{
+"name": "designertyt",
+"title": "UI/UX Надежда Гусева",
+"image": "data/logo/designertyt.jpeg",
+"currentMessage": 292,
+"minMessage": 1,
+"maxMessage": 292
 },
 {
 "name": "pydjango",
@@ -4488,20 +4488,20 @@
 "maxMessage": 11565
 },
 {
-"name": "chechannel",
-"title": "🇵🇱 ЧеЧенел Польша",
-"image": "data/logo/chechannel.jpeg",
-"currentMessage": 221,
-"minMessage": 1,
-"maxMessage": 221
-},
-{
 "name": "itProger_official",
 "title": "Сообщество itProger",
 "image": "data/logo/itproger_official.jpeg",
 "currentMessage": 210,
 "minMessage": 1,
 "maxMessage": 210
+},
+{
+"name": "chechannel",
+"title": "🇵🇱 ЧеЧенел Польша",
+"image": "data/logo/chechannel.jpeg",
+"currentMessage": 221,
+"minMessage": 1,
+"maxMessage": 221
 },
 {
 "name": "qetzal_1up",
@@ -4592,20 +4592,20 @@
 "maxMessage": 7518
 },
 {
-"name": "ilyadzenski_channel",
-"title": "Канал Ильи Дзенски",
-"image": "data/logo/ilyadzenski_channel.jpeg",
-"currentMessage": 511,
-"minMessage": 1,
-"maxMessage": 511
-},
-{
 "name": "ru_sysadmin",
 "title": "RU.5Y54DM1N — День рождения АлВира !!!",
 "image": "data/logo/ru_sysadmin.jpeg",
 "currentMessage": 809578,
 "minMessage": 1,
 "maxMessage": 809578
+},
+{
+"name": "ilyadzenski_channel",
+"title": "Канал Ильи Дзенски",
+"image": "data/logo/ilyadzenski_channel.jpeg",
+"currentMessage": 511,
+"minMessage": 1,
+"maxMessage": 511
 },
 {
 "name": "bundesliga",
@@ -4648,20 +4648,20 @@
 "maxMessage": 34358
 },
 {
-"name": "searchengines",
-"title": "Searchengines news channel",
-"image": "data/logo/searchengines.jpeg",
-"currentMessage": 5688,
-"minMessage": 1,
-"maxMessage": 5688
-},
-{
 "name": "arsenkin_ru",
 "title": "arsenkin.RU - personal channel",
 "image": "data/logo/arsenkin_ru.jpeg",
 "currentMessage": 81,
 "minMessage": 1,
 "maxMessage": 81
+},
+{
+"name": "searchengines",
+"title": "Searchengines news channel",
+"image": "data/logo/searchengines.jpeg",
+"currentMessage": 5688,
+"minMessage": 1,
+"maxMessage": 5688
 },
 {
 "name": "uiux_jobs",
@@ -4720,20 +4720,20 @@
 "maxMessage": 46
 },
 {
-"name": "ru_arduino",
-"title": "Анархическая электроника",
-"image": "data/logo/ru_arduino.jpeg",
-"currentMessage": 713830,
-"minMessage": 1,
-"maxMessage": 713830
-},
-{
 "name": "dmarket_io",
 "title": "DMarket News",
 "image": "data/logo/dmarket_io.jpeg",
 "currentMessage": 96,
 "minMessage": 1,
 "maxMessage": 96
+},
+{
+"name": "ru_arduino",
+"title": "Анархическая электроника",
+"image": "data/logo/ru_arduino.jpeg",
+"currentMessage": 713830,
+"minMessage": 1,
+"maxMessage": 713830
 },
 {
 "name": "mimimianimal",
@@ -5152,14 +5152,6 @@
 "maxMessage": 75768
 },
 {
-"name": "samuichat",
-"title": "Нормальный Самуи",
-"image": "data/logo/samuichat.jpeg",
-"currentMessage": 70186,
-"minMessage": 1,
-"maxMessage": 70186
-},
-{
 "name": "coding_ru",
 "title": "💻 Coding Ru",
 "image": "data/logo/coding_ru.jpeg",
@@ -5174,6 +5166,14 @@
 "currentMessage": 490,
 "minMessage": 1,
 "maxMessage": 490
+},
+{
+"name": "samuichat",
+"title": "Нормальный Самуи",
+"image": "data/logo/samuichat.jpeg",
+"currentMessage": 70186,
+"minMessage": 1,
+"maxMessage": 70186
 },
 {
 "name": "reactivex",
@@ -5440,20 +5440,20 @@
 "maxMessage": 86029
 },
 {
-"name": "jobs4all_ru",
-"title": "Dream jobs",
-"image": "data/logo/jobs4all_ru.jpeg",
-"currentMessage": 1913,
-"minMessage": 1,
-"maxMessage": 1913
-},
-{
 "name": "C4NDY",
 "title": "CANDY",
 "image": "data/logo/c4ndy.jpeg",
 "currentMessage": 483,
 "minMessage": 1,
 "maxMessage": 483
+},
+{
+"name": "jobs4all_ru",
+"title": "Dream jobs",
+"image": "data/logo/jobs4all_ru.jpeg",
+"currentMessage": 1913,
+"minMessage": 1,
+"maxMessage": 1913
 },
 {
 "name": "dmitriisorin",
@@ -5544,14 +5544,6 @@
 "maxMessage": 90094
 },
 {
-"name": "springframeworkio",
-"title": "Spring Framework and more",
-"image": "data/logo/springframeworkio.jpeg",
-"currentMessage": 11470,
-"minMessage": 1,
-"maxMessage": 11470
-},
-{
 "name": "frontend_ru",
 "title": "Frontend_ru",
 "image": "data/logo/frontend_ru.jpeg",
@@ -5560,12 +5552,12 @@
 "maxMessage": 30148
 },
 {
-"name": "projects_jobs",
-"title": "Projects Jobs — вакансии и аналитика",
-"image": "data/logo/projects_jobs.jpeg",
-"currentMessage": 3399,
+"name": "springframeworkio",
+"title": "Spring Framework and more",
+"image": "data/logo/springframeworkio.jpeg",
+"currentMessage": 11470,
 "minMessage": 1,
-"maxMessage": 3399
+"maxMessage": 11470
 },
 {
 "name": "sky_arch",
@@ -5574,6 +5566,14 @@
 "currentMessage": 2033,
 "minMessage": 1,
 "maxMessage": 2033
+},
+{
+"name": "projects_jobs",
+"title": "Projects Jobs — вакансии и аналитика",
+"image": "data/logo/projects_jobs.jpeg",
+"currentMessage": 3399,
+"minMessage": 1,
+"maxMessage": 3399
 },
 {
 "name": "sqlcom",
@@ -5624,20 +5624,20 @@
 "maxMessage": 88924
 },
 {
-"name": "russkydigital",
-"title": "Русский диджитал",
-"image": "data/logo/russkydigital.jpeg",
-"currentMessage": 713,
-"minMessage": 1,
-"maxMessage": 713
-},
-{
 "name": "web_stack",
 "title": "Web Stack — FrontEnd/BackEnd",
 "image": "data/logo/web_stack.jpeg",
 "currentMessage": 194,
 "minMessage": 1,
 "maxMessage": 194
+},
+{
+"name": "russkydigital",
+"title": "Русский диджитал",
+"image": "data/logo/russkydigital.jpeg",
+"currentMessage": 713,
+"minMessage": 1,
+"maxMessage": 713
 },
 {
 "name": "seoneo",
@@ -5672,20 +5672,20 @@
 "maxMessage": 412
 },
 {
-"name": "MOTIONTIPS",
-"title": "MOTION TIPS",
-"image": "data/logo/motiontips.jpeg",
-"currentMessage": 154,
-"minMessage": 1,
-"maxMessage": 154
-},
-{
 "name": "hadoopusers",
 "title": "Data Engineers",
 "image": "data/logo/hadoopusers.jpeg",
 "currentMessage": 12046,
 "minMessage": 1,
 "maxMessage": 12046
+},
+{
+"name": "MOTIONTIPS",
+"title": "MOTION TIPS",
+"image": "data/logo/motiontips.jpeg",
+"currentMessage": 154,
+"minMessage": 1,
+"maxMessage": 154
 },
 {
 "name": "tolstoylive",
@@ -5824,20 +5824,20 @@
 "maxMessage": 701
 },
 {
-"name": "numbfeelings",
-"title": "Dismal side",
-"image": "data/logo/numbfeelings.jpeg",
-"currentMessage": 6753,
-"minMessage": 1,
-"maxMessage": 6753
-},
-{
 "name": "KinoZvuk",
 "title": "Звук в Кино®",
 "image": "data/logo/kinozvuk.jpeg",
 "currentMessage": 4321,
 "minMessage": 1,
 "maxMessage": 4321
+},
+{
+"name": "numbfeelings",
+"title": "Dismal side",
+"image": "data/logo/numbfeelings.jpeg",
+"currentMessage": 6753,
+"minMessage": 1,
+"maxMessage": 6753
 },
 {
 "name": "YouTubek",
@@ -6136,6 +6136,14 @@
 "maxMessage": 98533
 },
 {
+"name": "PowerBIChannel",
+"title": "Power BI",
+"image": "data/logo/powerbichannel.jpeg",
+"currentMessage": 24,
+"minMessage": 1,
+"maxMessage": 24
+},
+{
 "name": "casesmedia",
 "title": "CASES",
 "image": "data/logo/casesmedia.jpeg",
@@ -6150,14 +6158,6 @@
 "currentMessage": 47041,
 "minMessage": 1,
 "maxMessage": 47041
-},
-{
-"name": "PowerBIChannel",
-"title": "Power BI",
-"image": "data/logo/powerbichannel.jpeg",
-"currentMessage": 24,
-"minMessage": 1,
-"maxMessage": 24
 },
 {
 "name": "justleaveithere",
@@ -6232,20 +6232,20 @@
 "maxMessage": 218
 },
 {
-"name": "aboutSMMchat",
-"title": "AboutSMMchat",
-"image": "data/logo/aboutsmmchat.jpeg",
-"currentMessage": 15027,
-"minMessage": 1,
-"maxMessage": 15027
-},
-{
 "name": "bigdata_en",
 "title": "[EN] Data Science / AI / ML / Big Data",
 "image": "data/logo/bigdata_en.jpeg",
 "currentMessage": 1376,
 "minMessage": 1,
 "maxMessage": 1376
+},
+{
+"name": "aboutSMMchat",
+"title": "AboutSMMchat",
+"image": "data/logo/aboutsmmchat.jpeg",
+"currentMessage": 15027,
+"minMessage": 1,
+"maxMessage": 15027
 },
 {
 "name": "Aussie_Land",
@@ -6320,20 +6320,20 @@
 "maxMessage": 1514
 },
 {
-"name": "tractor_de",
-"title": "Deutschland",
-"image": "data/logo/tractor_de.jpeg",
-"currentMessage": 275907,
-"minMessage": 1,
-"maxMessage": 275907
-},
-{
 "name": "videomarketing24",
 "title": "Видеомаркетинг своими руками",
 "image": "data/logo/videomarketing24.jpeg",
 "currentMessage": 102,
 "minMessage": 1,
 "maxMessage": 102
+},
+{
+"name": "tractor_de",
+"title": "Deutschland",
+"image": "data/logo/tractor_de.jpeg",
+"currentMessage": 275907,
+"minMessage": 1,
+"maxMessage": 275907
 },
 {
 "name": "codenamecrud",
@@ -6352,20 +6352,20 @@
 "maxMessage": 4676
 },
 {
-"name": "azure_digest",
-"title": "devdigest // azure",
-"image": "data/logo/azure_digest.jpeg",
-"currentMessage": 165,
-"minMessage": 1,
-"maxMessage": 165
-},
-{
 "name": "maddevsio",
 "title": "Mad Devs Channel",
 "image": "data/logo/maddevsio.jpeg",
 "currentMessage": 192,
 "minMessage": 1,
 "maxMessage": 192
+},
+{
+"name": "azure_digest",
+"title": "devdigest // azure",
+"image": "data/logo/azure_digest.jpeg",
+"currentMessage": 165,
+"minMessage": 1,
+"maxMessage": 165
 },
 {
 "name": "DebianRu",
@@ -6424,14 +6424,6 @@
 "maxMessage": 92
 },
 {
-"name": "skepdgsn",
-"title": "Скептицизм дизайнера",
-"image": "data/logo/skepdgsn.jpeg",
-"currentMessage": 156,
-"minMessage": 1,
-"maxMessage": 156
-},
-{
 "name": "altsreport",
 "title": "AltsReport.com - Newsstand",
 "image": "data/logo/altsreport.jpeg",
@@ -6440,12 +6432,12 @@
 "maxMessage": 2384
 },
 {
-"name": "agilegames",
-"title": "Agile Games",
-"image": "data/logo/agilegames.jpeg",
-"currentMessage": 5092,
+"name": "skepdgsn",
+"title": "Скептицизм дизайнера",
+"image": "data/logo/skepdgsn.jpeg",
+"currentMessage": 156,
 "minMessage": 1,
-"maxMessage": 5092
+"maxMessage": 156
 },
 {
 "name": "russianfedora",
@@ -6456,6 +6448,14 @@
 "maxMessage": 250329
 },
 {
+"name": "agilegames",
+"title": "Agile Games",
+"image": "data/logo/agilegames.jpeg",
+"currentMessage": 5092,
+"minMessage": 1,
+"maxMessage": 5092
+},
+{
 "name": "pro_kvm",
 "title": "KVM (PVE/oVirt etc)",
 "image": "data/logo/pro_kvm.jpeg",
@@ -6464,20 +6464,20 @@
 "maxMessage": 44505
 },
 {
-"name": "nskchat",
-"title": "Новосибирский чат",
-"image": "data/logo/nskchat.jpeg",
-"currentMessage": 165156,
-"minMessage": 1,
-"maxMessage": 165156
-},
-{
 "name": "appsflyer",
 "title": "Mobile Marketing",
 "image": "data/logo/appsflyer.jpeg",
 "currentMessage": 199,
 "minMessage": 1,
 "maxMessage": 199
+},
+{
+"name": "nskchat",
+"title": "Новосибирский чат",
+"image": "data/logo/nskchat.jpeg",
+"currentMessage": 165156,
+"minMessage": 1,
+"maxMessage": 165156
 },
 {
 "name": "qazaqbiz",
@@ -6560,20 +6560,20 @@
 "maxMessage": 94
 },
 {
-"name": "nskoffice",
-"title": "Job Nsk it (Inflow)",
-"image": "data/logo/nskoffice.jpeg",
-"currentMessage": 211,
-"minMessage": 1,
-"maxMessage": 211
-},
-{
 "name": "git_ru",
 "title": "Git — русскоговорящее сообщество",
 "image": "data/logo/git_ru.jpeg",
 "currentMessage": 6827,
 "minMessage": 1,
 "maxMessage": 6827
+},
+{
+"name": "nskoffice",
+"title": "Job Nsk it (Inflow)",
+"image": "data/logo/nskoffice.jpeg",
+"currentMessage": 211,
+"minMessage": 1,
+"maxMessage": 211
 },
 {
 "name": "highloadcup",
@@ -6592,14 +6592,6 @@
 "maxMessage": 35550
 },
 {
-"name": "InfinitPix",
-"title": "Infinit Pix 📸",
-"image": "data/logo/infinitpix.jpeg",
-"currentMessage": 279,
-"minMessage": 1,
-"maxMessage": 279
-},
-{
 "name": "mommyscience",
 "title": "мамкин Data Scientist",
 "image": "data/logo/mommyscience.jpeg",
@@ -6608,12 +6600,12 @@
 "maxMessage": 10
 },
 {
-"name": "uxcraft",
-"title": "UX-Craft",
-"image": "data/logo/uxcraft.jpeg",
-"currentMessage": 874,
+"name": "InfinitPix",
+"title": "Infinit Pix 📸",
+"image": "data/logo/infinitpix.jpeg",
+"currentMessage": 279,
 "minMessage": 1,
-"maxMessage": 874
+"maxMessage": 279
 },
 {
 "name": "mobileproglib",
@@ -6622,6 +6614,14 @@
 "currentMessage": 14,
 "minMessage": 1,
 "maxMessage": 14
+},
+{
+"name": "uxcraft",
+"title": "UX-Craft",
+"image": "data/logo/uxcraft.jpeg",
+"currentMessage": 874,
+"minMessage": 1,
+"maxMessage": 874
 },
 {
 "name": "designkin",
@@ -6680,20 +6680,20 @@
 "maxMessage": 65121
 },
 {
-"name": "habrapub",
-"title": "ХабраХабр Pub.",
-"image": "data/logo/habrapub.jpeg",
-"currentMessage": 10825,
-"minMessage": 1,
-"maxMessage": 10825
-},
-{
 "name": "beerjs",
 "title": "BeerJS Moscow",
 "image": "data/logo/beerjs.jpeg",
 "currentMessage": 80222,
 "minMessage": 1,
 "maxMessage": 80222
+},
+{
+"name": "habrapub",
+"title": "ХабраХабр Pub.",
+"image": "data/logo/habrapub.jpeg",
+"currentMessage": 10825,
+"minMessage": 1,
+"maxMessage": 10825
 },
 {
 "name": "workinestonia_ru",
@@ -6784,14 +6784,6 @@
 "maxMessage": 80919
 },
 {
-"name": "nocproject",
-"title": "NOC Project",
-"image": "data/logo/nocproject.jpeg",
-"currentMessage": 215851,
-"minMessage": 1,
-"maxMessage": 215851
-},
-{
 "name": "ndk_ru",
 "title": "Android NDK (C++) — русскоговорящее сообщество",
 "image": "data/logo/ndk_ru.jpeg",
@@ -6800,12 +6792,12 @@
 "maxMessage": 14482
 },
 {
-"name": "dotnettalks",
-"title": ".NET Talks: Func<_,_,_,_>",
-"image": "data/logo/dotnettalks.jpeg",
-"currentMessage": 232975,
+"name": "nocproject",
+"title": "NOC Project",
+"image": "data/logo/nocproject.jpeg",
+"currentMessage": 215851,
 "minMessage": 1,
-"maxMessage": 232975
+"maxMessage": 215851
 },
 {
 "name": "bookcrossing_spb",
@@ -6814,6 +6806,14 @@
 "currentMessage": 4806,
 "minMessage": 1,
 "maxMessage": 4806
+},
+{
+"name": "dotnettalks",
+"title": ".NET Talks: Func<_,_,_,_>",
+"image": "data/logo/dotnettalks.jpeg",
+"currentMessage": 232975,
+"minMessage": 1,
+"maxMessage": 232975
 },
 {
 "name": "bzntm_events",
@@ -6832,20 +6832,20 @@
 "maxMessage": 159
 },
 {
-"name": "rlang_ru",
-"title": "R language and Statistical data analysis",
-"image": "data/logo/rlang_ru.jpeg",
-"currentMessage": 11345,
-"minMessage": 1,
-"maxMessage": 11345
-},
-{
 "name": "MFARussia",
 "title": "Russian MFA 🇷🇺",
 "image": "data/logo/mfarussia.jpeg",
 "currentMessage": 4905,
 "minMessage": 1,
 "maxMessage": 4905
+},
+{
+"name": "rlang_ru",
+"title": "R language and Statistical data analysis",
+"image": "data/logo/rlang_ru.jpeg",
+"currentMessage": 11345,
+"minMessage": 1,
+"maxMessage": 11345
 },
 {
 "name": "flowtype_ru",
@@ -6928,20 +6928,20 @@
 "maxMessage": 111
 },
 {
-"name": "anotherpoint",
-"title": "POV",
-"image": "data/logo/anotherpoint.jpeg",
-"currentMessage": 139,
-"minMessage": 1,
-"maxMessage": 139
-},
-{
 "name": "haskell_learn",
 "title": "Haskell Start",
 "image": "data/logo/haskell_learn.jpeg",
 "currentMessage": 11913,
 "minMessage": 1,
 "maxMessage": 11913
+},
+{
+"name": "anotherpoint",
+"title": "POV",
+"image": "data/logo/anotherpoint.jpeg",
+"currentMessage": 139,
+"minMessage": 1,
+"maxMessage": 139
 },
 {
 "name": "prostoydesign",
@@ -7008,20 +7008,20 @@
 "maxMessage": 7371
 },
 {
-"name": "fordesigner",
-"title": "Job for Designers",
-"image": "data/logo/fordesigner.jpeg",
-"currentMessage": 287,
-"minMessage": 1,
-"maxMessage": 287
-},
-{
 "name": "ru_freeswitch",
 "title": "ru_freeswitch",
 "image": "data/logo/ru_freeswitch.jpeg",
 "currentMessage": 35569,
 "minMessage": 1,
 "maxMessage": 35569
+},
+{
+"name": "fordesigner",
+"title": "Job for Designers",
+"image": "data/logo/fordesigner.jpeg",
+"currentMessage": 287,
+"minMessage": 1,
+"maxMessage": 287
 },
 {
 "name": "jug_ru",
@@ -7032,20 +7032,20 @@
 "maxMessage": 1166
 },
 {
-"name": "idacbblockchain",
-"title": "IDACB BLOCKCHAIN",
-"image": "data/logo/idacbblockchain.jpeg",
-"currentMessage": 342,
-"minMessage": 1,
-"maxMessage": 342
-},
-{
 "name": "usebsd",
 "title": "BSD",
 "image": "data/logo/usebsd.jpeg",
 "currentMessage": 10796,
 "minMessage": 1,
 "maxMessage": 10796
+},
+{
+"name": "idacbblockchain",
+"title": "IDACB BLOCKCHAIN",
+"image": "data/logo/idacbblockchain.jpeg",
+"currentMessage": 342,
+"minMessage": 1,
+"maxMessage": 342
 },
 {
 "name": "spblug",
@@ -7112,20 +7112,20 @@
 "maxMessage": 57
 },
 {
-"name": "OneAssProduction",
-"title": "1С: Неофициально (18+)",
-"image": "data/logo/oneassproduction.jpeg",
-"currentMessage": 139,
-"minMessage": 1,
-"maxMessage": 144
-},
-{
 "name": "youtube_chat",
 "title": "YouTube.Чат",
 "image": "data/logo/youtube_chat.jpeg",
 "currentMessage": 13710,
 "minMessage": 1,
 "maxMessage": 13710
+},
+{
+"name": "OneAssProduction",
+"title": "1С: Неофициально (18+)",
+"image": "data/logo/oneassproduction.jpeg",
+"currentMessage": 139,
+"minMessage": 1,
+"maxMessage": 144
 },
 {
 "name": "frp_ru",
@@ -7136,20 +7136,20 @@
 "maxMessage": 55016
 },
 {
-"name": "symfony_ru",
-"title": "symfony",
-"image": "data/logo/symfony_ru.jpeg",
-"currentMessage": 12376,
-"minMessage": 1,
-"maxMessage": 12376
-},
-{
 "name": "penisola",
 "title": "ITALIA",
 "image": "data/logo/penisola.jpeg",
 "currentMessage": 99496,
 "minMessage": 1,
 "maxMessage": 99496
+},
+{
+"name": "symfony_ru",
+"title": "symfony",
+"image": "data/logo/symfony_ru.jpeg",
+"currentMessage": 12376,
+"minMessage": 1,
+"maxMessage": 12376
 },
 {
 "name": "LMRus",
@@ -7184,20 +7184,20 @@
 "maxMessage": 5105
 },
 {
-"name": "RusPhilippines",
-"title": "Филиппины",
-"image": "data/logo/rusphilippines.jpeg",
-"currentMessage": 9995,
-"minMessage": 1,
-"maxMessage": 9995
-},
-{
 "name": "mkdev_me",
 "title": "mkdev",
 "image": "data/logo/mkdev_me.jpeg",
 "currentMessage": 192,
 "minMessage": 1,
 "maxMessage": 192
+},
+{
+"name": "RusPhilippines",
+"title": "Филиппины",
+"image": "data/logo/rusphilippines.jpeg",
+"currentMessage": 9995,
+"minMessage": 1,
+"maxMessage": 9995
 },
 {
 "name": "nuxtjs_ru",
@@ -7256,20 +7256,20 @@
 "maxMessage": 12790
 },
 {
-"name": "powershellrus",
-"title": "PowerShellRus - о Powershell на русском",
-"image": "data/logo/powershellrus.jpeg",
-"currentMessage": 14522,
-"minMessage": 1,
-"maxMessage": 14522
-},
-{
 "name": "discolicious",
 "title": "Discolicious",
 "image": "data/logo/discolicious.jpeg",
 "currentMessage": 502,
 "minMessage": 1,
 "maxMessage": 502
+},
+{
+"name": "powershellrus",
+"title": "PowerShellRus - о Powershell на русском",
+"image": "data/logo/powershellrus.jpeg",
+"currentMessage": 14522,
+"minMessage": 1,
+"maxMessage": 14522
 },
 {
 "name": "erlangrus",
@@ -7344,14 +7344,6 @@
 "maxMessage": 178
 },
 {
-"name": "joboneC",
-"title": "1С Работа",
-"image": "data/logo/jobonec.jpeg",
-"currentMessage": 29,
-"minMessage": 1,
-"maxMessage": 29
-},
-{
 "name": "mtlive",
 "title": "MT live",
 "image": "data/logo/mtlive.jpeg",
@@ -7368,12 +7360,12 @@
 "maxMessage": 322
 },
 {
-"name": "ruscadasecnews",
-"title": "RUSCADASEC news",
-"image": "data/logo/ruscadasecnews.jpeg",
-"currentMessage": 347,
+"name": "joboneC",
+"title": "1С Работа",
+"image": "data/logo/jobonec.jpeg",
+"currentMessage": 29,
 "minMessage": 1,
-"maxMessage": 347
+"maxMessage": 29
 },
 {
 "name": "chaosconstructions",
@@ -7384,6 +7376,14 @@
 "maxMessage": 25846
 },
 {
+"name": "ruscadasecnews",
+"title": "RUSCADASEC news",
+"image": "data/logo/ruscadasecnews.jpeg",
+"currentMessage": 347,
+"minMessage": 1,
+"maxMessage": 347
+},
+{
 "name": "prozabbix",
 "title": "pro.zabbix",
 "image": "data/logo/prozabbix.jpeg",
@@ -7392,20 +7392,20 @@
 "maxMessage": 12130
 },
 {
-"name": "clubartiya",
-"title": "Арт і Я / ArtiYa Calligraphy School",
-"image": "data/logo/clubartiya.jpeg",
-"currentMessage": 205,
-"minMessage": 1,
-"maxMessage": 205
-},
-{
 "name": "Unofficial1C",
 "title": "ЧЯТ 1С: Неофициально (18+)",
 "image": "data/logo/unofficial1c.jpeg",
 "currentMessage": 6268,
 "minMessage": 1,
 "maxMessage": 6268
+},
+{
+"name": "clubartiya",
+"title": "Арт і Я / ArtiYa Calligraphy School",
+"image": "data/logo/clubartiya.jpeg",
+"currentMessage": 205,
+"minMessage": 1,
+"maxMessage": 205
 },
 {
 "name": "OpsMgr",
@@ -7464,20 +7464,20 @@
 "maxMessage": 18407
 },
 {
-"name": "itbelarustalk",
-"title": "Чат IT-Страны",
-"image": "data/logo/itbelarustalk.jpeg",
-"currentMessage": 16553,
-"minMessage": 1,
-"maxMessage": 16553
-},
-{
 "name": "thaisaalaa",
 "title": "Thai Saa-Laa",
 "image": "data/logo/thaisaalaa.jpeg",
 "currentMessage": 26319,
 "minMessage": 1,
 "maxMessage": 26319
+},
+{
+"name": "itbelarustalk",
+"title": "Чат IT-Страны",
+"image": "data/logo/itbelarustalk.jpeg",
+"currentMessage": 16553,
+"minMessage": 1,
+"maxMessage": 16553
 },
 {
 "name": "ru_ASUTP",
@@ -7504,20 +7504,20 @@
 "maxMessage": 204
 },
 {
-"name": "it_events_go",
-"title": "IT Events",
-"image": "data/logo/it_events_go.jpeg",
-"currentMessage": 89,
-"minMessage": 1,
-"maxMessage": 89
-},
-{
 "name": "ru_f1",
 "title": "Formula 1 🏎 🏁",
 "image": "data/logo/ru_f1.jpeg",
 "currentMessage": 78487,
 "minMessage": 1,
 "maxMessage": 78487
+},
+{
+"name": "it_events_go",
+"title": "IT Events",
+"image": "data/logo/it_events_go.jpeg",
+"currentMessage": 89,
+"minMessage": 1,
+"maxMessage": 89
 },
 {
 "name": "motochat",
@@ -7552,20 +7552,20 @@
 "maxMessage": 938819
 },
 {
-"name": "ru_flask",
-"title": "Python Flask",
-"image": "data/logo/ru_flask.jpeg",
-"currentMessage": 10417,
-"minMessage": 1,
-"maxMessage": 10417
-},
-{
 "name": "rabotaembedded",
 "title": "Work Embedded",
 "image": "data/logo/rabotaembedded.jpeg",
 "currentMessage": 82,
 "minMessage": 1,
 "maxMessage": 82
+},
+{
+"name": "ru_flask",
+"title": "Python Flask",
+"image": "data/logo/ru_flask.jpeg",
+"currentMessage": 10417,
+"minMessage": 1,
+"maxMessage": 10417
 },
 {
 "name": "sql_ninja",
@@ -7576,20 +7576,20 @@
 "maxMessage": 107180
 },
 {
-"name": "jsthread",
-"title": "JS",
-"image": "data/logo/jsthread.jpeg",
-"currentMessage": 958067,
-"minMessage": 1,
-"maxMessage": 958067
-},
-{
 "name": "russian_gentoo",
 "title": "Gentoo",
 "image": "data/logo/russian_gentoo.jpeg",
 "currentMessage": 123279,
 "minMessage": 1,
 "maxMessage": 123279
+},
+{
+"name": "jsthread",
+"title": "JS",
+"image": "data/logo/jsthread.jpeg",
+"currentMessage": 958067,
+"minMessage": 1,
+"maxMessage": 958067
 },
 {
 "name": "emacs_ru",
@@ -7808,20 +7808,20 @@
 "maxMessage": 23612
 },
 {
-"name": "designinhlam",
-"title": "Чат Дизайн в хлам",
-"image": "data/logo/designinhlam.jpeg",
-"currentMessage": 92957,
-"minMessage": 1,
-"maxMessage": 92957
-},
-{
 "name": "chatanonhownow",
 "title": "Well, check it out",
 "image": "data/logo/chatanonhownow.jpeg",
 "currentMessage": 24932,
 "minMessage": 1,
 "maxMessage": 24932
+},
+{
+"name": "designinhlam",
+"title": "Чат Дизайн в хлам",
+"image": "data/logo/designinhlam.jpeg",
+"currentMessage": 92957,
+"minMessage": 1,
+"maxMessage": 92957
 },
 {
 "name": "FailCompilation",
@@ -7832,20 +7832,20 @@
 "maxMessage": 664
 },
 {
-"name": "qaIndia",
-"title": "QAIndia",
-"image": "data/logo/qaindia.jpeg",
-"currentMessage": 1161,
-"minMessage": 1,
-"maxMessage": 1161
-},
-{
 "name": "mswck",
 "title": "musewick journal",
 "image": "data/logo/mswck.jpeg",
 "currentMessage": 348,
 "minMessage": 1,
 "maxMessage": 348
+},
+{
+"name": "qaIndia",
+"title": "QAIndia",
+"image": "data/logo/qaindia.jpeg",
+"currentMessage": 1161,
+"minMessage": 1,
+"maxMessage": 1161
 },
 {
 "name": "austriachat",
@@ -7872,22 +7872,6 @@
 "maxMessage": 10037
 },
 {
-"name": "dev_seagulls",
-"title": "Dev Seagulls Chat",
-"image": "data/logo/dev_seagulls.jpeg",
-"currentMessage": 162023,
-"minMessage": 1,
-"maxMessage": 162023
-},
-{
-"name": "leprouk",
-"title": "United Kingdom",
-"image": "data/logo/leprouk.jpeg",
-"currentMessage": 60691,
-"minMessage": 1,
-"maxMessage": 60691
-},
-{
 "name": "dotnetgroup",
 "title": ".NET Group",
 "image": "data/logo/dotnetgroup.jpeg",
@@ -7904,12 +7888,20 @@
 "maxMessage": 119
 },
 {
-"name": "konungariketsverige",
-"title": "Sverige :: @konungariketsverige",
-"image": "data/logo/konungariketsverige.jpeg",
-"currentMessage": 10193,
+"name": "leprouk",
+"title": "United Kingdom",
+"image": "data/logo/leprouk.jpeg",
+"currentMessage": 60691,
 "minMessage": 1,
-"maxMessage": 10193
+"maxMessage": 60691
+},
+{
+"name": "dev_seagulls",
+"title": "Dev Seagulls Chat",
+"image": "data/logo/dev_seagulls.jpeg",
+"currentMessage": 162023,
+"minMessage": 1,
+"maxMessage": 162023
 },
 {
 "name": "elm_ru",
@@ -7918,6 +7910,14 @@
 "currentMessage": 10832,
 "minMessage": 1,
 "maxMessage": 10832
+},
+{
+"name": "konungariketsverige",
+"title": "Sverige :: @konungariketsverige",
+"image": "data/logo/konungariketsverige.jpeg",
+"currentMessage": 10193,
+"minMessage": 1,
+"maxMessage": 10193
 },
 {
 "name": "cotedazurchat",
@@ -7984,14 +7984,6 @@
 "maxMessage": 267
 },
 {
-"name": "pychel",
-"title": "Python Community Chelyabinsk",
-"image": "data/logo/pychel.jpeg",
-"currentMessage": 1238,
-"minMessage": 1,
-"maxMessage": 1238
-},
-{
 "name": "fprog_spb",
 "title": "fprog_spb",
 "image": "data/logo/fprog_spb.jpeg",
@@ -8000,12 +7992,12 @@
 "maxMessage": 6374
 },
 {
-"name": "jetoctopus",
-"title": "JetOctopus",
-"image": "data/logo/jetoctopus.jpeg",
-"currentMessage": 25,
+"name": "pychel",
+"title": "Python Community Chelyabinsk",
+"image": "data/logo/pychel.jpeg",
+"currentMessage": 1238,
 "minMessage": 1,
-"maxMessage": 25
+"maxMessage": 1238
 },
 {
 "name": "pinmix",
@@ -8014,6 +8006,14 @@
 "currentMessage": 132,
 "minMessage": 1,
 "maxMessage": 132
+},
+{
+"name": "jetoctopus",
+"title": "JetOctopus",
+"image": "data/logo/jetoctopus.jpeg",
+"currentMessage": 25,
+"minMessage": 1,
+"maxMessage": 25
 },
 {
 "name": "blockchain_reader",
@@ -8080,6 +8080,14 @@
 "maxMessage": 3936
 },
 {
+"name": "arkithack",
+"title": "ARKit Hack",
+"image": "data/logo/arkithack.jpeg",
+"currentMessage": 2885,
+"minMessage": 1,
+"maxMessage": 2885
+},
+{
 "name": "info_hunter",
 "title": "Охотник за информацией☠️",
 "image": "data/logo/info_hunter.jpeg",
@@ -8096,12 +8104,12 @@
 "maxMessage": 619
 },
 {
-"name": "arkithack",
-"title": "ARKit Hack",
-"image": "data/logo/arkithack.jpeg",
-"currentMessage": 2885,
+"name": "Delphi_Lazarus",
+"title": "Delphi & Lazarus",
+"image": "data/logo/delphi_lazarus.jpeg",
+"currentMessage": 13815,
 "minMessage": 1,
-"maxMessage": 2885
+"maxMessage": 13815
 },
 {
 "name": "postgreschat",
@@ -8110,14 +8118,6 @@
 "currentMessage": 2527,
 "minMessage": 1,
 "maxMessage": 2527
-},
-{
-"name": "Delphi_Lazarus",
-"title": "Delphi & Lazarus",
-"image": "data/logo/delphi_lazarus.jpeg",
-"currentMessage": 13815,
-"minMessage": 1,
-"maxMessage": 13815
 },
 {
 "name": "singapore_chat",
@@ -8176,20 +8176,20 @@
 "maxMessage": 3987
 },
 {
-"name": "kde_ru",
-"title": "KDE Россия",
-"image": "data/logo/kde_ru.jpeg",
-"currentMessage": 30262,
-"minMessage": 1,
-"maxMessage": 30262
-},
-{
 "name": "coreos_ru",
 "title": "CoreOS — русскоговорящее сообщество",
 "image": "data/logo/coreos_ru.jpeg",
 "currentMessage": 3370,
 "minMessage": 1,
 "maxMessage": 3370
+},
+{
+"name": "kde_ru",
+"title": "KDE Россия",
+"image": "data/logo/kde_ru.jpeg",
+"currentMessage": 30262,
+"minMessage": 1,
+"maxMessage": 30262
 },
 {
 "name": "joomlafeed",
@@ -8216,20 +8216,20 @@
 "maxMessage": 70
 },
 {
-"name": "mikrotik_ru",
-"title": "MikroTik",
-"image": "data/logo/mikrotik_ru.jpeg",
-"currentMessage": 14682,
-"minMessage": 1,
-"maxMessage": 14682
-},
-{
 "name": "spblug_chat",
 "title": "SPbLUG chat",
 "image": "data/logo/spblug_chat.jpeg",
 "currentMessage": 46673,
 "minMessage": 1,
 "maxMessage": 46673
+},
+{
+"name": "mikrotik_ru",
+"title": "MikroTik",
+"image": "data/logo/mikrotik_ru.jpeg",
+"currentMessage": 14682,
+"minMessage": 1,
+"maxMessage": 14682
 },
 {
 "name": "progress_100",
@@ -8240,12 +8240,12 @@
 "maxMessage": 78
 },
 {
-"name": "fp_ru",
-"title": "ФП",
-"image": "data/logo/fp_ru.jpeg",
-"currentMessage": 2337,
+"name": "get_job_or_die",
+"title": "get_job() #зп от 200К",
+"image": "data/logo/get_job_or_die.jpeg",
+"currentMessage": 569,
 "minMessage": 1,
-"maxMessage": 2337
+"maxMessage": 569
 },
 {
 "name": "k8spb",
@@ -8256,12 +8256,12 @@
 "maxMessage": 4927
 },
 {
-"name": "get_job_or_die",
-"title": "get_job() #зп от 200К",
-"image": "data/logo/get_job_or_die.jpeg",
-"currentMessage": 569,
+"name": "fp_ru",
+"title": "ФП",
+"image": "data/logo/fp_ru.jpeg",
+"currentMessage": 2337,
 "minMessage": 1,
-"maxMessage": 569
+"maxMessage": 2337
 },
 {
 "name": "IT_EKB",
@@ -8280,12 +8280,12 @@
 "maxMessage": 6586
 },
 {
-"name": "ponaehali",
-"title": "Понаехали. Всё про жизнь в Москве :: Как попасть туда :: Как прожить там :: Как покинуть этот город",
-"image": "data/logo/ponaehali.jpeg",
-"currentMessage": 22642,
+"name": "mywayk",
+"title": "My Way | Продуктивность, дизайн, фронтенд",
+"image": "data/logo/mywayk.jpeg",
+"currentMessage": 276,
 "minMessage": 1,
-"maxMessage": 22642
+"maxMessage": 276
 },
 {
 "name": "DTPublish",
@@ -8296,20 +8296,12 @@
 "maxMessage": 28289
 },
 {
-"name": "mywayk",
-"title": "My Way | Продуктивность, дизайн, фронтенд",
-"image": "data/logo/mywayk.jpeg",
-"currentMessage": 276,
+"name": "ponaehali",
+"title": "Понаехали. Всё про жизнь в Москве :: Как попасть туда :: Как прожить там :: Как покинуть этот город",
+"image": "data/logo/ponaehali.jpeg",
+"currentMessage": 22642,
 "minMessage": 1,
-"maxMessage": 276
-},
-{
-"name": "glpi_ru",
-"title": "GLPI - русскоговорящее сообщество",
-"image": "data/logo/glpi_ru.jpeg",
-"currentMessage": 11835,
-"minMessage": 1,
-"maxMessage": 11835
+"maxMessage": 22642
 },
 {
 "name": "reasonml_ru",
@@ -8318,6 +8310,14 @@
 "currentMessage": 3854,
 "minMessage": 1,
 "maxMessage": 3854
+},
+{
+"name": "glpi_ru",
+"title": "GLPI - русскоговорящее сообщество",
+"image": "data/logo/glpi_ru.jpeg",
+"currentMessage": 11835,
+"minMessage": 1,
+"maxMessage": 11835
 },
 {
 "name": "overlead",
@@ -8360,14 +8360,6 @@
 "maxMessage": 2086
 },
 {
-"name": "ru_philosophy",
-"title": "Philosophy",
-"image": "data/logo/ru_philosophy.jpeg",
-"currentMessage": 17001,
-"minMessage": 1,
-"maxMessage": 17001
-},
-{
 "name": "belgorod_it",
 "title": "Belgorod IT",
 "image": "data/logo/belgorod_it.jpeg",
@@ -8376,12 +8368,12 @@
 "maxMessage": 179527
 },
 {
-"name": "eulocals",
-"title": "В ЕВРОПУ!",
-"image": "data/logo/eulocals.jpeg",
-"currentMessage": 210,
+"name": "ru_philosophy",
+"title": "Philosophy",
+"image": "data/logo/ru_philosophy.jpeg",
+"currentMessage": 17001,
 "minMessage": 1,
-"maxMessage": 210
+"maxMessage": 17001
 },
 {
 "name": "fsharp_news",
@@ -8392,12 +8384,12 @@
 "maxMessage": 414
 },
 {
-"name": "ember_js",
-"title": "Ember_js",
-"image": "data/logo/ember_js.jpeg",
-"currentMessage": 24620,
+"name": "eulocals",
+"title": "В ЕВРОПУ!",
+"image": "data/logo/eulocals.jpeg",
+"currentMessage": 210,
 "minMessage": 1,
-"maxMessage": 24620
+"maxMessage": 210
 },
 {
 "name": "apollo_ru",
@@ -8408,12 +8400,12 @@
 "maxMessage": 558
 },
 {
-"name": "goatalks",
-"title": "India [GOA и не только]",
-"image": "data/logo/goatalks.jpeg",
-"currentMessage": 1589,
+"name": "ember_js",
+"title": "Ember_js",
+"image": "data/logo/ember_js.jpeg",
+"currentMessage": 24620,
 "minMessage": 1,
-"maxMessage": 1589
+"maxMessage": 24620
 },
 {
 "name": "ponyorm",
@@ -8422,6 +8414,14 @@
 "currentMessage": 6627,
 "minMessage": 1,
 "maxMessage": 6627
+},
+{
+"name": "goatalks",
+"title": "India [GOA и не только]",
+"image": "data/logo/goatalks.jpeg",
+"currentMessage": 1589,
+"minMessage": 1,
+"maxMessage": 1589
 },
 {
 "name": "pro_ionic",
@@ -8456,14 +8456,6 @@
 "maxMessage": 7819
 },
 {
-"name": "grouplst",
-"title": "Telegram Group List Chat. IT Only!",
-"image": "data/logo/grouplst.jpeg",
-"currentMessage": 2523,
-"minMessage": 1,
-"maxMessage": 2523
-},
-{
 "name": "jugrugroup",
 "title": "JUG.ru Group: организатор конференций",
 "image": "data/logo/jugrugroup.jpeg",
@@ -8472,12 +8464,12 @@
 "maxMessage": 507
 },
 {
-"name": "hunkerspot",
-"title": "HUNKERSPOT",
-"image": "data/logo/hunkerspot.jpeg",
-"currentMessage": 1211,
+"name": "grouplst",
+"title": "Telegram Group List Chat. IT Only!",
+"image": "data/logo/grouplst.jpeg",
+"currentMessage": 2523,
 "minMessage": 1,
-"maxMessage": 1211
+"maxMessage": 2523
 },
 {
 "name": "gambala_chat",
@@ -8488,20 +8480,20 @@
 "maxMessage": 5141
 },
 {
+"name": "hunkerspot",
+"title": "HUNKERSPOT",
+"image": "data/logo/hunkerspot.jpeg",
+"currentMessage": 1211,
+"minMessage": 1,
+"maxMessage": 1211
+},
+{
 "name": "pro_mikrotik",
 "title": "pro.MikroTik",
 "image": "data/logo/pro_mikrotik.jpeg",
 "currentMessage": 25825,
 "minMessage": 1,
 "maxMessage": 25825
-},
-{
-"name": "hcdev",
-"title": "GitHub одобряет этот чат",
-"image": "data/logo/hcdev.jpeg",
-"currentMessage": 256721,
-"minMessage": 1,
-"maxMessage": 256721
 },
 {
 "name": "googleappsscriptrc",
@@ -8512,12 +8504,28 @@
 "maxMessage": 2587
 },
 {
+"name": "hcdev",
+"title": "GitHub одобряет этот чат",
+"image": "data/logo/hcdev.jpeg",
+"currentMessage": 256721,
+"minMessage": 1,
+"maxMessage": 256721
+},
+{
 "name": "pokashevarim",
 "title": "Покашеварим",
 "image": "data/logo/pokashevarim.jpeg",
 "currentMessage": 386,
 "minMessage": 1,
 "maxMessage": 386
+},
+{
+"name": "dapp_ru",
+"title": "dapp_ru",
+"image": "data/logo/dapp_ru.jpeg",
+"currentMessage": 2427,
+"minMessage": 1,
+"maxMessage": 2427
 },
 {
 "name": "goatalk",
@@ -8536,12 +8544,12 @@
 "maxMessage": 304785
 },
 {
-"name": "dapp_ru",
-"title": "dapp_ru",
-"image": "data/logo/dapp_ru.jpeg",
-"currentMessage": 2427,
+"name": "Zadachi1c",
+"title": "Задачи 1с",
+"image": "data/logo/zadachi1c.jpeg",
+"currentMessage": 1928,
 "minMessage": 1,
-"maxMessage": 2427
+"maxMessage": 1928
 },
 {
 "name": "spbitpeople",
@@ -8550,14 +8558,6 @@
 "currentMessage": 106658,
 "minMessage": 1,
 "maxMessage": 106658
-},
-{
-"name": "Zadachi1c",
-"title": "Задачи 1с",
-"image": "data/logo/zadachi1c.jpeg",
-"currentMessage": 1928,
-"minMessage": 1,
-"maxMessage": 1928
 },
 {
 "name": "nlp_ru",
@@ -8608,6 +8608,14 @@
 "maxMessage": 674
 },
 {
+"name": "gotoserbia",
+"title": "Serbia",
+"image": "data/logo/gotoserbia.jpeg",
+"currentMessage": 2860,
+"minMessage": 1,
+"maxMessage": 2860
+},
+{
 "name": "KotlinMoscow",
 "title": "Kotlin Moscow",
 "image": "data/logo/kotlinmoscow.jpeg",
@@ -8624,12 +8632,20 @@
 "maxMessage": 6423
 },
 {
-"name": "gotoserbia",
-"title": "Serbia",
-"image": "data/logo/gotoserbia.jpeg",
-"currentMessage": 2860,
+"name": "golondon_info",
+"title": "GoLondon.info",
+"image": "data/logo/golondon_info.jpeg",
+"currentMessage": 2428,
 "minMessage": 1,
-"maxMessage": 2860
+"maxMessage": 2428
+},
+{
+"name": "SingularityWitness",
+"title": "Свидетель Сингулярности",
+"image": "data/logo/singularitywitness.jpeg",
+"currentMessage": 69,
+"minMessage": 1,
+"maxMessage": 69
 },
 {
 "name": "clear_code",
@@ -8648,20 +8664,28 @@
 "maxMessage": 17071
 },
 {
-"name": "SingularityWitness",
-"title": "Свидетель Сингулярности",
-"image": "data/logo/singularitywitness.jpeg",
-"currentMessage": 69,
+"name": "ffmpeg_ru",
+"title": "FFmpeg - Russian Community",
+"image": "data/logo/ffmpeg_ru.jpeg",
+"currentMessage": 2794,
 "minMessage": 1,
-"maxMessage": 69
+"maxMessage": 2794
 },
 {
-"name": "golondon_info",
-"title": "GoLondon.info",
-"image": "data/logo/golondon_info.jpeg",
-"currentMessage": 2428,
+"name": "puppet_ru",
+"title": "Puppet — русскоговорящее сообщество",
+"image": "data/logo/puppet_ru.jpeg",
+"currentMessage": 7026,
 "minMessage": 1,
-"maxMessage": 2428
+"maxMessage": 7026
+},
+{
+"name": "buhgalterYdalenka",
+"title": "SM Group Бухгалтерия на удаленке",
+"image": "data/logo/buhgalterydalenka.jpeg",
+"currentMessage": 40,
+"minMessage": 1,
+"maxMessage": 40
 },
 {
 "name": "do_brasil",
@@ -8678,30 +8702,6 @@
 "currentMessage": 18698,
 "minMessage": 1,
 "maxMessage": 18698
-},
-{
-"name": "buhgalterYdalenka",
-"title": "SM Group Бухгалтерия на удаленке",
-"image": "data/logo/buhgalterydalenka.jpeg",
-"currentMessage": 40,
-"minMessage": 1,
-"maxMessage": 40
-},
-{
-"name": "puppet_ru",
-"title": "Puppet — русскоговорящее сообщество",
-"image": "data/logo/puppet_ru.jpeg",
-"currentMessage": 7026,
-"minMessage": 1,
-"maxMessage": 7026
-},
-{
-"name": "ffmpeg_ru",
-"title": "FFmpeg - Russian Community",
-"image": "data/logo/ffmpeg_ru.jpeg",
-"currentMessage": 2794,
-"minMessage": 1,
-"maxMessage": 2794
 },
 {
 "name": "montechat",
@@ -8768,20 +8768,20 @@
 "maxMessage": 44
 },
 {
-"name": "fire_monkey",
-"title": "fire_monkey",
-"image": "data/logo/fire_monkey.jpeg",
-"currentMessage": 534,
-"minMessage": 1,
-"maxMessage": 534
-},
-{
 "name": "andycast",
 "title": "Чат безымянного подкаста",
 "image": "data/logo/andycast.jpeg",
 "currentMessage": 150626,
 "minMessage": 1,
 "maxMessage": 150626
+},
+{
+"name": "fire_monkey",
+"title": "fire_monkey",
+"image": "data/logo/fire_monkey.jpeg",
+"currentMessage": 534,
+"minMessage": 1,
+"maxMessage": 534
 },
 {
 "name": "telegraf_ru",
@@ -8808,14 +8808,6 @@
 "maxMessage": 1231
 },
 {
-"name": "uwp_ru",
-"title": "Сообщество разработчиков на Universal Windows Platform",
-"image": "data/logo/uwp_ru.jpeg",
-"currentMessage": 22962,
-"minMessage": 1,
-"maxMessage": 22962
-},
-{
 "name": "tractorlt",
 "title": "Lietuvos Traktorius ~ @tractor",
 "image": "data/logo/tractorlt.jpeg",
@@ -8824,12 +8816,12 @@
 "maxMessage": 12453
 },
 {
-"name": "saratov_public",
-"title": "Уютный Саратов",
-"image": "data/logo/saratov_public.jpeg",
-"currentMessage": 51822,
+"name": "uwp_ru",
+"title": "Сообщество разработчиков на Universal Windows Platform",
+"image": "data/logo/uwp_ru.jpeg",
+"currentMessage": 22962,
 "minMessage": 1,
-"maxMessage": 51822
+"maxMessage": 22962
 },
 {
 "name": "mysql_ru",
@@ -8840,12 +8832,12 @@
 "maxMessage": 227
 },
 {
-"name": "proradio",
-"title": "radio",
-"image": "data/logo/proradio.jpeg",
-"currentMessage": 853,
+"name": "saratov_public",
+"title": "Уютный Саратов",
+"image": "data/logo/saratov_public.jpeg",
+"currentMessage": 51822,
 "minMessage": 1,
-"maxMessage": 853
+"maxMessage": 51822
 },
 {
 "name": "nativescript_ru",
@@ -8854,6 +8846,14 @@
 "currentMessage": 1340,
 "minMessage": 1,
 "maxMessage": 1340
+},
+{
+"name": "proradio",
+"title": "radio",
+"image": "data/logo/proradio.jpeg",
+"currentMessage": 853,
+"minMessage": 1,
+"maxMessage": 853
 },
 {
 "name": "phuketfamily",
@@ -8870,14 +8870,6 @@
 "currentMessage": 3939,
 "minMessage": 1,
 "maxMessage": 3939
-},
-{
-"name": "embedded_rs",
-"title": "embedded.rs",
-"image": "data/logo/embedded_rs.jpeg",
-"currentMessage": 2858,
-"minMessage": 1,
-"maxMessage": 2858
 },
 {
 "name": "productshmoduct",
@@ -8902,6 +8894,14 @@
 "currentMessage": 1252,
 "minMessage": 1,
 "maxMessage": 1252
+},
+{
+"name": "embedded_rs",
+"title": "embedded.rs",
+"image": "data/logo/embedded_rs.jpeg",
+"currentMessage": 2858,
+"minMessage": 1,
+"maxMessage": 2858
 },
 {
 "name": "geekscontent",
@@ -8976,20 +8976,20 @@
 "maxMessage": 243
 },
 {
-"name": "hwnrf",
-"title": "Hardware & Radio",
-"image": "data/logo/hwnrf.jpeg",
-"currentMessage": 971,
-"minMessage": 1,
-"maxMessage": 971
-},
-{
 "name": "forallmobile",
 "title": "Job for Mobile Developers (iOS, Android)",
 "image": "data/logo/forallmobile.jpeg",
 "currentMessage": 183,
 "minMessage": 1,
 "maxMessage": 183
+},
+{
+"name": "hwnrf",
+"title": "Hardware & Radio",
+"image": "data/logo/hwnrf.jpeg",
+"currentMessage": 971,
+"minMessage": 1,
+"maxMessage": 971
 },
 {
 "name": "israelru",
@@ -9024,20 +9024,20 @@
 "maxMessage": 9656
 },
 {
-"name": "ThinkTanker",
-"title": "ThinkTanker",
-"image": "data/logo/thinktanker.jpeg",
-"currentMessage": 449,
-"minMessage": 1,
-"maxMessage": 449
-},
-{
 "name": "ru_email",
 "title": "Independent mail community",
 "image": "data/logo/ru_email.jpeg",
 "currentMessage": 2902,
 "minMessage": 1,
 "maxMessage": 2902
+},
+{
+"name": "ThinkTanker",
+"title": "ThinkTanker",
+"image": "data/logo/thinktanker.jpeg",
+"currentMessage": 449,
+"minMessage": 1,
+"maxMessage": 449
 },
 {
 "name": "UnitedAE",
@@ -9048,12 +9048,12 @@
 "maxMessage": 5217
 },
 {
-"name": "xmpp_ru",
-"title": "XMPP — русскоговорящее сообщество",
-"image": "data/logo/xmpp_ru.jpeg",
-"currentMessage": 1829,
+"name": "macdev_ru",
+"title": "macOS Developers — русскоговорящее сообщество",
+"image": "data/logo/macdev_ru.jpeg",
+"currentMessage": 624,
 "minMessage": 1,
-"maxMessage": 1829
+"maxMessage": 624
 },
 {
 "name": "SaloDesign",
@@ -9064,12 +9064,12 @@
 "maxMessage": 33329
 },
 {
-"name": "macdev_ru",
-"title": "macOS Developers — русскоговорящее сообщество",
-"image": "data/logo/macdev_ru.jpeg",
-"currentMessage": 624,
+"name": "xmpp_ru",
+"title": "XMPP — русскоговорящее сообщество",
+"image": "data/logo/xmpp_ru.jpeg",
+"currentMessage": 1829,
 "minMessage": 1,
-"maxMessage": 624
+"maxMessage": 1829
 },
 {
 "name": "modcastsvideo",
@@ -9088,20 +9088,20 @@
 "maxMessage": 564
 },
 {
-"name": "Samara_IT_Community",
-"title": "Samara IT Community",
-"image": "data/logo/samara_it_community.jpeg",
-"currentMessage": 218,
-"minMessage": 1,
-"maxMessage": 218
-},
-{
 "name": "pro_bash",
 "title": "pro.bash",
 "image": "data/logo/pro_bash.jpeg",
 "currentMessage": 5150,
 "minMessage": 1,
 "maxMessage": 5150
+},
+{
+"name": "Samara_IT_Community",
+"title": "Samara IT Community",
+"image": "data/logo/samara_it_community.jpeg",
+"currentMessage": 218,
+"minMessage": 1,
+"maxMessage": 218
 },
 {
 "name": "rkt_ru",
@@ -9200,6 +9200,14 @@
 "maxMessage": 627
 },
 {
+"name": "Switzerland_Rus",
+"title": "Швейцария Switzerland",
+"image": "data/logo/switzerland_rus.jpeg",
+"currentMessage": 1541,
+"minMessage": 1,
+"maxMessage": 1541
+},
+{
 "name": "smartos_ru",
 "title": "smartos_ru",
 "image": "data/logo/smartos_ru.jpeg",
@@ -9216,12 +9224,12 @@
 "maxMessage": 72
 },
 {
-"name": "Switzerland_Rus",
-"title": "Швейцария Switzerland",
-"image": "data/logo/switzerland_rus.jpeg",
-"currentMessage": 1541,
+"name": "ReduxAnotherDay",
+"title": "Абрамов Позвонит",
+"image": "data/logo/reduxanotherday.jpeg",
+"currentMessage": 170,
 "minMessage": 1,
-"maxMessage": 1541
+"maxMessage": 170
 },
 {
 "name": "specialistoffnet",
@@ -9230,14 +9238,6 @@
 "currentMessage": 2899,
 "minMessage": 1,
 "maxMessage": 2899
-},
-{
-"name": "ReduxAnotherDay",
-"title": "Абрамов Позвонит",
-"image": "data/logo/reduxanotherday.jpeg",
-"currentMessage": 170,
-"minMessage": 1,
-"maxMessage": 170
 },
 {
 "name": "speccy_hard",
@@ -9264,20 +9264,20 @@
 "maxMessage": 774
 },
 {
-"name": "idm_ru",
-"title": "IDM",
-"image": "data/logo/idm_ru.jpeg",
-"currentMessage": 9562,
-"minMessage": 1,
-"maxMessage": 9562
-},
-{
 "name": "pro_latex",
 "title": "pro.latex",
 "image": "data/logo/pro_latex.jpeg",
 "currentMessage": 569,
 "minMessage": 1,
 "maxMessage": 569
+},
+{
+"name": "idm_ru",
+"title": "IDM",
+"image": "data/logo/idm_ru.jpeg",
+"currentMessage": 9562,
+"minMessage": 1,
+"maxMessage": 9562
 },
 {
 "name": "webflowschool",
@@ -9528,6 +9528,14 @@
 "maxMessage": 73
 },
 {
+"name": "ThisIsInterestin",
+"title": "ThisIsInterestin",
+"image": "data/logo/thisisinterestin.jpeg",
+"currentMessage": 240649,
+"minMessage": 237000,
+"maxMessage": 240649
+},
+{
 "name": "ReceptiVkusno",
 "title": "Вкусная Радость",
 "image": "data/logo/receptivkusno.jpeg",
@@ -9536,12 +9544,12 @@
 "maxMessage": 18
 },
 {
-"name": "ThisIsInterestin",
-"title": "ThisIsInterestin",
-"image": "data/logo/thisisinterestin.jpeg",
-"currentMessage": 240649,
-"minMessage": 237000,
-"maxMessage": 240649
+"name": "jamstack_ru",
+"title": "JAMStack — русскоговорящее сообщество",
+"image": "data/logo/jamstack_ru.jpeg",
+"currentMessage": 6,
+"minMessage": 1,
+"maxMessage": 6
 },
 {
 "name": "googledrivefloodchat",
@@ -9558,14 +9566,6 @@
 "currentMessage": 80,
 "minMessage": 1,
 "maxMessage": 80
-},
-{
-"name": "jamstack_ru",
-"title": "JAMStack — русскоговорящее сообщество",
-"image": "data/logo/jamstack_ru.jpeg",
-"currentMessage": 6,
-"minMessage": 1,
-"maxMessage": 6
 },
 {
 "name": "alexlitreev_floodchat",
