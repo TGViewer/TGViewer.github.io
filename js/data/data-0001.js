@@ -11,33 +11,33 @@
 "name": "breakingmash",
 "title": "Mash",
 "image": "data/logo/breakingmash.jpeg",
-"currentMessage": 7340,
+"currentMessage": 7346,
 "minMessage": 1,
-"maxMessage": 7340
+"maxMessage": 7346
 },
 {
 "name": "tgproxies",
 "title": "Telegaram Socks5 Proxies",
 "image": "data/logo/tgproxies.jpeg",
-"currentMessage": 662290,
+"currentMessage": 664456,
 "minMessage": 1,
-"maxMessage": 662290
+"maxMessage": 664456
 },
 {
 "name": "lentachold",
 "title": "Лентач",
 "image": "data/logo/lentachold.jpeg",
-"currentMessage": 17770,
+"currentMessage": 17779,
 "minMessage": 1,
-"maxMessage": 17770
+"maxMessage": 17779
 },
 {
 "name": "transformatortv",
 "title": "Трансформатор",
 "image": "data/logo/transformatortv.jpeg",
-"currentMessage": 1057,
+"currentMessage": 1058,
 "minMessage": 1,
-"maxMessage": 1057
+"maxMessage": 1058
 },
 {
 "name": "varlamov",
@@ -67,17 +67,17 @@
 "name": "teleblog",
 "title": "Телеблог",
 "image": "data/logo/teleblog.jpeg",
-"currentMessage": 546,
+"currentMessage": 547,
 "minMessage": 1,
-"maxMessage": 546
+"maxMessage": 547
 },
 {
 "name": "znayuvse",
 "title": "ХОЧУ ЗНАТЬ ВСЁ!",
 "image": "data/logo/znayuvse.jpeg",
-"currentMessage": 7731,
+"currentMessage": 7733,
 "minMessage": 1,
-"maxMessage": 7731
+"maxMessage": 7733
 },
 {
 "name": "hellomoskva",
@@ -91,25 +91,25 @@
 "name": "veter_doit",
 "title": "Ветер дует",
 "image": "data/logo/veter_doit.jpeg",
-"currentMessage": 4954,
+"currentMessage": 4955,
 "minMessage": 1,
-"maxMessage": 4954
+"maxMessage": 4955
 },
 {
 "name": "nsmag",
 "title": "Naked Science",
 "image": "data/logo/nsmag.jpeg",
-"currentMessage": 2257,
+"currentMessage": 2258,
 "minMessage": 1,
-"maxMessage": 2257
+"maxMessage": 2258
 },
 {
 "name": "AndroGamers",
 "title": "AndroGaмєr",
 "image": "data/logo/androgamers.jpeg",
-"currentMessage": 8672,
+"currentMessage": 8675,
 "minMessage": 1,
-"maxMessage": 8672
+"maxMessage": 8675
 },
 {
 "name": "EnglishOftheDay",
@@ -131,17 +131,17 @@
 "name": "Curiosity_Tea",
 "title": "Curiosity Tea™",
 "image": "data/logo/curiosity_tea.jpeg",
-"currentMessage": 2607,
+"currentMessage": 2612,
 "minMessage": 1,
-"maxMessage": 2607
+"maxMessage": 2612
 },
 {
 "name": "banksta",
 "title": "Банкста",
 "image": "data/logo/banksta.jpeg",
-"currentMessage": 2469,
+"currentMessage": 2473,
 "minMessage": 1,
-"maxMessage": 2469
+"maxMessage": 2473
 },
 {
 "name": "slangbang",
@@ -155,9 +155,9 @@
 "name": "lowcostua",
 "title": "Lowcost UA ✈️🚌🛳",
 "image": "data/logo/lowcostua.jpeg",
-"currentMessage": 2117,
+"currentMessage": 2119,
 "minMessage": 1,
-"maxMessage": 2117
+"maxMessage": 2119
 },
 {
 "name": "Wylsared",
@@ -171,81 +171,81 @@
 "name": "d_code",
 "title": "Код Дурова",
 "image": "data/logo/d_code.jpeg",
-"currentMessage": 2924,
+"currentMessage": 2927,
 "minMessage": 1,
-"maxMessage": 2924
+"maxMessage": 2927
 },
 {
 "name": "varlamov_news",
 "title": "Varlamov News",
 "image": "data/logo/varlamov_news.jpeg",
-"currentMessage": 6834,
+"currentMessage": 6836,
 "minMessage": 1,
-"maxMessage": 6834
+"maxMessage": 6836
 },
 {
 "name": "photoapparat",
 "title": "Фотоаппарат",
 "image": "data/logo/photoapparat.jpeg",
-"currentMessage": 2043,
+"currentMessage": 2045,
 "minMessage": 1,
-"maxMessage": 2043
+"maxMessage": 2045
 },
 {
 "name": "programmerjokes",
 "title": "Programmer Jokes",
 "image": "data/logo/programmerjokes.jpeg",
-"currentMessage": 1134,
+"currentMessage": 1135,
 "minMessage": 1,
-"maxMessage": 1134
+"maxMessage": 1135
 },
 {
 "name": "AyazShabutdinov",
 "title": "Аяз Шабутдинов",
 "image": "data/logo/ayazshabutdinov.jpeg",
-"currentMessage": 2293,
+"currentMessage": 2294,
 "minMessage": 1,
-"maxMessage": 2293
+"maxMessage": 2294
 },
 {
 "name": "mislinemisli",
 "title": "Мысли-НеМысли",
 "image": "data/logo/mislinemisli.jpeg",
-"currentMessage": 3237,
+"currentMessage": 3240,
 "minMessage": 1,
-"maxMessage": 3237
+"maxMessage": 3240
 },
 {
 "name": "proglibrary",
 "title": "Библиотека программиста",
 "image": "data/logo/proglibrary.jpeg",
-"currentMessage": 2455,
+"currentMessage": 2456,
 "minMessage": 1,
-"maxMessage": 2455
+"maxMessage": 2456
 },
 {
 "name": "bestmemes",
 "title": "Memes",
 "image": "data/logo/bestmemes.jpeg",
-"currentMessage": 9582,
+"currentMessage": 9586,
 "minMessage": 1,
-"maxMessage": 9582
+"maxMessage": 9586
 },
 {
 "name": "business_ru",
 "title": "О Бизнесе",
 "image": "data/logo/business_ru.jpeg",
-"currentMessage": 863,
+"currentMessage": 864,
 "minMessage": 1,
-"maxMessage": 863
+"maxMessage": 864
 },
 {
 "name": "theyseeku",
 "title": "Охотник за головами: вакансии на удаленную работу",
 "image": "data/logo/theyseeku.jpeg",
-"currentMessage": 1231,
+"currentMessage": 1234,
 "minMessage": 1,
-"maxMessage": 1231
+"maxMessage": 1234
 },
 {
 "name": "fuckingenglish",
@@ -259,9 +259,9 @@
 "name": "tproger_official",
 "title": "Tproger для программистов",
 "image": "data/logo/tproger_official.jpeg",
-"currentMessage": 2941,
+"currentMessage": 2942,
 "minMessage": 1,
-"maxMessage": 2941
+"maxMessage": 2942
 },
 {
 "name": "updateee",
@@ -291,17 +291,17 @@
 "name": "showstartup",
 "title": "Витрина стартапов",
 "image": "data/logo/showstartup.jpeg",
-"currentMessage": 152,
+"currentMessage": 153,
 "minMessage": 1,
-"maxMessage": 152
+"maxMessage": 153
 },
 {
 "name": "haccking",
 "title": "Life-Hack [Жизнь-Взлом]/Хакинг",
 "image": "data/logo/haccking.jpeg",
-"currentMessage": 2775,
+"currentMessage": 2777,
 "minMessage": 1,
-"maxMessage": 2775
+"maxMessage": 2777
 },
 {
 "name": "plusmsgr",
@@ -331,9 +331,9 @@
 "name": "smmrus",
 "title": "Русский маркетинг",
 "image": "data/logo/smmrus.jpeg",
-"currentMessage": 2243,
+"currentMessage": 2244,
 "minMessage": 1,
-"maxMessage": 2243
+"maxMessage": 2244
 },
 {
 "name": "GIFsChannel",
@@ -347,9 +347,9 @@
 "name": "booksmania",
 "title": "Books Mania",
 "image": "data/logo/booksmania.jpeg",
-"currentMessage": 5257,
+"currentMessage": 5258,
 "minMessage": 1,
-"maxMessage": 5257
+"maxMessage": 5258
 },
 {
 "name": "Confessionss",
@@ -379,33 +379,33 @@
 "name": "redsmm",
 "title": "RED SMM",
 "image": "data/logo/redsmm.jpeg",
-"currentMessage": 2462,
+"currentMessage": 2467,
 "minMessage": 1,
-"maxMessage": 2462
+"maxMessage": 2467
 },
 {
 "name": "addmeto",
 "title": "addmeto",
 "image": "data/logo/addmeto.jpeg",
-"currentMessage": 2284,
+"currentMessage": 2287,
 "minMessage": 1,
-"maxMessage": 2284
+"maxMessage": 2287
 },
 {
 "name": "beautiful_land",
 "title": "Beautiful land",
 "image": "data/logo/beautiful_land.jpeg",
-"currentMessage": 2203,
+"currentMessage": 2204,
 "minMessage": 1,
-"maxMessage": 2203
+"maxMessage": 2204
 },
 {
 "name": "tinkoffjournal",
 "title": "Тинькофф-журнал",
 "image": "data/logo/tinkoffjournal.jpeg",
-"currentMessage": 2594,
+"currentMessage": 2597,
 "minMessage": 1,
-"maxMessage": 2594
+"maxMessage": 2597
 },
 {
 "name": "themarfa",
@@ -427,17 +427,17 @@
 "name": "temno",
 "title": "Тёмная сторона",
 "image": "data/logo/temno.jpeg",
-"currentMessage": 1109,
+"currentMessage": 1110,
 "minMessage": 1,
-"maxMessage": 1109
+"maxMessage": 1110
 },
 {
 "name": "techsparks",
 "title": "TechSparks",
 "image": "data/logo/techsparks.jpeg",
-"currentMessage": 1394,
+"currentMessage": 1396,
 "minMessage": 1,
-"maxMessage": 1394
+"maxMessage": 1396
 },
 {
 "name": "TechGuide",
@@ -451,25 +451,25 @@
 "name": "Idiomsland",
 "title": "idioms land",
 "image": "data/logo/idiomsland.jpeg",
-"currentMessage": 1360,
+"currentMessage": 1366,
 "minMessage": 1,
-"maxMessage": 1360
+"maxMessage": 1366
 },
 {
 "name": "netflix",
 "title": "Netflix",
 "image": "data/logo/netflix.jpeg",
-"currentMessage": 1636,
+"currentMessage": 1637,
 "minMessage": 1,
-"maxMessage": 1636
+"maxMessage": 1637
 },
 {
 "name": "wordporn",
 "title": "Word Porn",
 "image": "data/logo/wordporn.jpeg",
-"currentMessage": 610,
+"currentMessage": 612,
 "minMessage": 1,
-"maxMessage": 610
+"maxMessage": 612
 },
 {
 "name": "brodetsky",
@@ -483,17 +483,17 @@
 "name": "CSE_CurrentAffairs",
 "title": "eNaukriAlert.com",
 "image": "data/logo/cse_currentaffairs.jpeg",
-"currentMessage": 4712,
+"currentMessage": 4716,
 "minMessage": 1,
-"maxMessage": 4712
+"maxMessage": 4716
 },
 {
 "name": "tricksinfo",
 "title": "Tricksinfo™",
 "image": "data/logo/tricksinfo.jpeg",
-"currentMessage": 6876,
+"currentMessage": 7202,
 "minMessage": 1,
-"maxMessage": 6876
+"maxMessage": 7202
 },
 {
 "name": "BoringClass",
@@ -507,17 +507,17 @@
 "name": "internetanalytics",
 "title": "Интернет-аналитика",
 "image": "data/logo/internetanalytics.jpeg",
-"currentMessage": 2201,
+"currentMessage": 2202,
 "minMessage": 1,
-"maxMessage": 2201
+"maxMessage": 2202
 },
 {
 "name": "ukrjob",
 "title": "Робота в Українi",
 "image": "data/logo/ukrjob.jpeg",
-"currentMessage": 497,
+"currentMessage": 499,
 "minMessage": 1,
-"maxMessage": 497
+"maxMessage": 499
 },
 {
 "name": "marketing_smm",
@@ -531,17 +531,17 @@
 "name": "abbsol",
 "title": "Паша и его прокрастинация",
 "image": "data/logo/abbsol.jpeg",
-"currentMessage": 2031,
+"currentMessage": 2033,
 "minMessage": 1,
-"maxMessage": 2031
+"maxMessage": 2033
 },
 {
 "name": "glvrdru",
 "title": "Главред",
 "image": "data/logo/glvrdru.jpeg",
-"currentMessage": 1491,
+"currentMessage": 1493,
 "minMessage": 1,
-"maxMessage": 1491
+"maxMessage": 1493
 },
 {
 "name": "tripmix",
@@ -563,9 +563,9 @@
 "name": "dddjournalism",
 "title": "Журналистика",
 "image": "data/logo/dddjournalism.jpeg",
-"currentMessage": 2312,
+"currentMessage": 2316,
 "minMessage": 1,
-"maxMessage": 2312
+"maxMessage": 2316
 },
 {
 "name": "wavesnews",
@@ -579,33 +579,33 @@
 "name": "memes",
 "title": "Memes",
 "image": "data/logo/memes.jpeg",
-"currentMessage": 1829,
+"currentMessage": 1831,
 "minMessage": 1,
-"maxMessage": 1829
+"maxMessage": 1831
 },
 {
 "name": "linuxgram",
 "title": "Linuxgram 🐧",
 "image": "data/logo/linuxgram.jpeg",
-"currentMessage": 3048,
+"currentMessage": 3052,
 "minMessage": 1,
-"maxMessage": 3048
+"maxMessage": 3052
 },
 {
 "name": "tginfo",
 "title": "Telegram Info",
 "image": "data/logo/tginfo.jpeg",
-"currentMessage": 1615,
+"currentMessage": 1616,
 "minMessage": 1,
-"maxMessage": 1615
+"maxMessage": 1616
 },
 {
 "name": "uxlive",
 "title": "UX Live 🔥",
 "image": "data/logo/uxlive.jpeg",
-"currentMessage": 6348,
+"currentMessage": 6349,
 "minMessage": 1,
-"maxMessage": 6348
+"maxMessage": 6349
 },
 {
 "name": "startupoftheday",
@@ -619,9 +619,9 @@
 "name": "justmemes",
 "title": "The Worst Memes",
 "image": "data/logo/justmemes.jpeg",
-"currentMessage": 4589,
+"currentMessage": 4591,
 "minMessage": 1,
-"maxMessage": 4589
+"maxMessage": 4591
 },
 {
 "name": "womenslook",
@@ -667,25 +667,25 @@
 "name": "historical_society",
 "title": "Historical Society",
 "image": "data/logo/historical_society.jpeg",
-"currentMessage": 1070,
+"currentMessage": 1071,
 "minMessage": 1,
-"maxMessage": 1070
+"maxMessage": 1071
 },
 {
 "name": "TimeToTravel",
 "title": "Time To Travel Україна",
 "image": "data/logo/timetotravel.jpeg",
-"currentMessage": 17101,
+"currentMessage": 17113,
 "minMessage": 1,
-"maxMessage": 17101
+"maxMessage": 17113
 },
 {
 "name": "treasurecloud",
 "title": "Облака",
 "image": "data/logo/treasurecloud.jpeg",
-"currentMessage": 515,
+"currentMessage": 516,
 "minMessage": 1,
-"maxMessage": 515
+"maxMessage": 516
 },
 {
 "name": "naked_usa",
@@ -755,9 +755,9 @@
 "name": "pornstat",
 "title": "PornStat",
 "image": "data/logo/pornstat.jpeg",
-"currentMessage": 574,
+"currentMessage": 575,
 "minMessage": 1,
-"maxMessage": 574
+"maxMessage": 575
 },
 {
 "name": "androidmaniacpro",
@@ -787,9 +787,9 @@
 "name": "EspressoEnglish",
 "title": "Espresso English",
 "image": "data/logo/espressoenglish.jpeg",
-"currentMessage": 1844,
+"currentMessage": 1847,
 "minMessage": 1,
-"maxMessage": 1844
+"maxMessage": 1847
 },
 {
 "name": "Stickers_of_Telegram",
@@ -827,17 +827,17 @@
 "name": "zatelecom",
 "title": "ЗаТелеком",
 "image": "data/logo/zatelecom.jpeg",
-"currentMessage": 6759,
+"currentMessage": 6764,
 "minMessage": 1,
-"maxMessage": 6759
+"maxMessage": 6764
 },
 {
 "name": "breakingtrends",
 "title": "Breaking Trends",
 "image": "data/logo/breakingtrends.jpeg",
-"currentMessage": 1911,
+"currentMessage": 1912,
 "minMessage": 1,
-"maxMessage": 1911
+"maxMessage": 1912
 },
 {
 "name": "g33ks",
@@ -851,25 +851,25 @@
 "name": "terytoriya14",
 "title": "Територія",
 "image": "data/logo/terytoriya14.jpeg",
-"currentMessage": 1965,
+"currentMessage": 1967,
 "minMessage": 1,
-"maxMessage": 1965
+"maxMessage": 1967
 },
 {
 "name": "Remoteit",
 "title": "Remote IT (Inflow)",
 "image": "data/logo/remoteit.jpeg",
-"currentMessage": 713,
+"currentMessage": 715,
 "minMessage": 1,
-"maxMessage": 713
+"maxMessage": 715
 },
 {
 "name": "paradigm_graphics",
 "title": "ParaGraph — графика, дизайн, реклама.",
 "image": "data/logo/paradigm_graphics.jpeg",
-"currentMessage": 1695,
+"currentMessage": 1701,
 "minMessage": 1,
-"maxMessage": 1695
+"maxMessage": 1701
 },
 {
 "name": "whataflight",
@@ -883,9 +883,9 @@
 "name": "tprogerlive",
 "title": "IT Новости",
 "image": "data/logo/tprogerlive.jpeg",
-"currentMessage": 3033,
+"currentMessage": 3041,
 "minMessage": 1,
-"maxMessage": 3033
+"maxMessage": 3041
 },
 {
 "name": "bzd_channel",
@@ -899,17 +899,17 @@
 "name": "webdev_eng",
 "title": "Web Dev",
 "image": "data/logo/webdev_eng.jpeg",
-"currentMessage": 2477,
+"currentMessage": 2478,
 "minMessage": 1,
-"maxMessage": 2477
+"maxMessage": 2478
 },
 {
 "name": "sickipedia",
 "title": "Sickipedia",
 "image": "data/logo/sickipedia.jpeg",
-"currentMessage": 2378,
+"currentMessage": 2379,
 "minMessage": 1,
-"maxMessage": 2378
+"maxMessage": 2379
 },
 {
 "name": "virginpunch",
@@ -923,9 +923,9 @@
 "name": "vdhl_good",
 "title": "VDHL.RU",
 "image": "data/logo/vdhl_good.jpeg",
-"currentMessage": 1269,
+"currentMessage": 1272,
 "minMessage": 1,
-"maxMessage": 1269
+"maxMessage": 1272
 },
 {
 "name": "digital_masons",
@@ -1019,9 +1019,9 @@
 "name": "alexmakus",
 "title": "Информация опасносте",
 "image": "data/logo/alexmakus.jpeg",
-"currentMessage": 2353,
+"currentMessage": 2356,
 "minMessage": 1,
-"maxMessage": 2353
+"maxMessage": 2356
 },
 {
 "name": "tgmarketing",
@@ -1035,9 +1035,9 @@
 "name": "ppc_analytics",
 "title": "Контекстная реклама |Google Ads |Директ |CPA |PPC |CPC |AdWords |Аналитика",
 "image": "data/logo/ppc_analytics.jpeg",
-"currentMessage": 1880,
+"currentMessage": 1881,
 "minMessage": 1,
-"maxMessage": 1880
+"maxMessage": 1881
 },
 {
 "name": "moskvarabota",
@@ -1051,17 +1051,17 @@
 "name": "intelligentdesign",
 "title": "Intelligent Design",
 "image": "data/logo/intelligentdesign.jpeg",
-"currentMessage": 1063,
+"currentMessage": 1064,
 "minMessage": 1,
-"maxMessage": 1063
+"maxMessage": 1064
 },
 {
 "name": "svalil",
 "title": "Свалил. Америка",
 "image": "data/logo/svalil.jpeg",
-"currentMessage": 409,
+"currentMessage": 410,
 "minMessage": 1,
-"maxMessage": 409
+"maxMessage": 410
 },
 {
 "name": "office_killer",
@@ -1075,9 +1075,9 @@
 "name": "Kniga_Rekordov",
 "title": "Книга рекордов",
 "image": "data/logo/kniga_rekordov.jpeg",
-"currentMessage": 1936,
+"currentMessage": 1937,
 "minMessage": 1,
-"maxMessage": 1936
+"maxMessage": 1937
 },
 {
 "name": "proproduct",
@@ -1099,9 +1099,9 @@
 "name": "python_textbooks",
 "title": "Python Textbooks",
 "image": "data/logo/python_textbooks.jpeg",
-"currentMessage": 715,
+"currentMessage": 718,
 "minMessage": 1,
-"maxMessage": 715
+"maxMessage": 718
 },
 {
 "name": "unilecs",
@@ -1131,9 +1131,9 @@
 "name": "UaList",
 "title": "Канали Телеграм України - Каталог🇺🇦",
 "image": "data/logo/ualist.jpeg",
-"currentMessage": 275,
+"currentMessage": 276,
 "minMessage": 1,
-"maxMessage": 275
+"maxMessage": 276
 },
 {
 "name": "kineticaagency",
@@ -1171,9 +1171,9 @@
 "name": "skyeng",
 "title": "Skyeng: английский онлайн",
 "image": "data/logo/skyeng.jpeg",
-"currentMessage": 533,
+"currentMessage": 535,
 "minMessage": 1,
-"maxMessage": 533
+"maxMessage": 535
 },
 {
 "name": "englishskypeblog",
@@ -1211,9 +1211,9 @@
 "name": "neperevodimoe",
 "title": "Neperevodimoe",
 "image": "data/logo/neperevodimoe.jpeg",
-"currentMessage": 758,
+"currentMessage": 759,
 "minMessage": 1,
-"maxMessage": 758
+"maxMessage": 759
 },
 {
 "name": "instabizzz",
@@ -1227,9 +1227,9 @@
 "name": "themegramchannel",
 "title": "Themegram Channel",
 "image": "data/logo/themegramchannel.jpeg",
-"currentMessage": 1927,
+"currentMessage": 1929,
 "minMessage": 1,
-"maxMessage": 1927
+"maxMessage": 1929
 },
 {
 "name": "marketklad",
@@ -1243,17 +1243,17 @@
 "name": "webb_dev",
 "title": "WebDEV",
 "image": "data/logo/webb_dev.jpeg",
-"currentMessage": 263,
+"currentMessage": 264,
 "minMessage": 1,
-"maxMessage": 263
+"maxMessage": 264
 },
 {
 "name": "captainpaleo",
 "title": "Парнасский пересмешник",
 "image": "data/logo/captainpaleo.jpeg",
-"currentMessage": 1728,
+"currentMessage": 1729,
 "minMessage": 1,
-"maxMessage": 1728
+"maxMessage": 1729
 },
 {
 "name": "marketing_s",
@@ -1275,33 +1275,33 @@
 "name": "robotics_channel",
 "title": "Robotics Channel",
 "image": "data/logo/robotics_channel.jpeg",
-"currentMessage": 1236,
+"currentMessage": 1238,
 "minMessage": 1,
-"maxMessage": 1236
+"maxMessage": 1238
 },
 {
 "name": "thingsprogrammersdo",
 "title": "THINGS PROGRAMMERS DO",
 "image": "data/logo/thingsprogrammersdo.jpeg",
-"currentMessage": 471,
+"currentMessage": 472,
 "minMessage": 1,
-"maxMessage": 471
+"maxMessage": 472
 },
 {
 "name": "devakatalk",
 "title": "Devaka Talk",
 "image": "data/logo/devakatalk.jpeg",
-"currentMessage": 1069,
+"currentMessage": 1071,
 "minMessage": 1,
-"maxMessage": 1069
+"maxMessage": 1071
 },
 {
 "name": "funny_images",
 "title": "Funny images",
 "image": "data/logo/funny_images.jpeg",
-"currentMessage": 1048,
+"currentMessage": 1049,
 "minMessage": 1,
-"maxMessage": 1048
+"maxMessage": 1049
 },
 {
 "name": "funandjokes",
@@ -1347,9 +1347,9 @@
 "name": "buhru",
 "title": "Бухучет, налоги, 1С",
 "image": "data/logo/buhru.jpeg",
-"currentMessage": 2226,
+"currentMessage": 2227,
 "minMessage": 1,
-"maxMessage": 2226
+"maxMessage": 2227
 },
 {
 "name": "digital_bdsm",
@@ -1371,9 +1371,9 @@
 "name": "realmadrid_13",
 "title": "Real Madrid C.F.",
 "image": "data/logo/realmadrid_13.jpeg",
-"currentMessage": 10230,
+"currentMessage": 10232,
 "minMessage": 1,
-"maxMessage": 10230
+"maxMessage": 10232
 },
 {
 "name": "ua_chats",
@@ -1387,9 +1387,9 @@
 "name": "apartforrent",
 "title": "Апартаменты🏡для отдыха",
 "image": "data/logo/apartforrent.jpeg",
-"currentMessage": 369,
+"currentMessage": 371,
 "minMessage": 1,
-"maxMessage": 369
+"maxMessage": 371
 },
 {
 "name": "sticker_telegram",
@@ -1403,25 +1403,25 @@
 "name": "r_pics",
 "title": "/r/Pics",
 "image": "data/logo/r_pics.jpeg",
-"currentMessage": 22752,
+"currentMessage": 22764,
 "minMessage": 1,
-"maxMessage": 22752
+"maxMessage": 22764
 },
 {
 "name": "disgustingmen",
 "title": "Disgusting Men",
 "image": "data/logo/disgustingmen.jpeg",
-"currentMessage": 2772,
+"currentMessage": 2773,
 "minMessage": 1,
-"maxMessage": 2772
+"maxMessage": 2773
 },
 {
 "name": "profimlm",
 "title": "Профи MLM | Станислав Санников",
 "image": "data/logo/profimlm.jpeg",
-"currentMessage": 2302,
+"currentMessage": 2303,
 "minMessage": 1,
-"maxMessage": 2302
+"maxMessage": 2303
 },
 {
 "name": "blogsmm",
@@ -1435,9 +1435,9 @@
 "name": "webware",
 "title": "Codeby.net - канал",
 "image": "data/logo/webware.jpeg",
-"currentMessage": 1810,
+"currentMessage": 1811,
 "minMessage": 1,
-"maxMessage": 1810
+"maxMessage": 1811
 },
 {
 "name": "phistory",
@@ -1451,9 +1451,9 @@
 "name": "designwrite",
 "title": "\"Записки Дизайнера\" (про дизайн и только про него)",
 "image": "data/logo/designwrite.jpeg",
-"currentMessage": 1653,
+"currentMessage": 1654,
 "minMessage": 1,
-"maxMessage": 1653
+"maxMessage": 1654
 },
 {
 "name": "stratmarketing",
@@ -1475,17 +1475,17 @@
 "name": "habr_com",
 "title": "habr.com",
 "image": "data/logo/habr_com.jpeg",
-"currentMessage": 25386,
+"currentMessage": 25400,
 "minMessage": 1,
-"maxMessage": 25386
+"maxMessage": 25400
 },
 {
 "name": "webstandards_ru",
 "title": "Веб-стандарты",
 "image": "data/logo/webstandards_ru.jpeg",
-"currentMessage": 4294,
+"currentMessage": 4295,
 "minMessage": 1,
-"maxMessage": 4294
+"maxMessage": 4295
 },
 {
 "name": "opendatascience",
@@ -1539,17 +1539,17 @@
 "name": "ultra_it",
 "title": "ULTRA",
 "image": "data/logo/ultra_it.jpeg",
-"currentMessage": 5216,
+"currentMessage": 5217,
 "minMessage": 1,
-"maxMessage": 5216
+"maxMessage": 5217
 },
 {
 "name": "progamedev",
 "title": "🍄Разработка игр",
 "image": "data/logo/progamedev.jpeg",
-"currentMessage": 1058,
+"currentMessage": 1065,
 "minMessage": 1,
-"maxMessage": 1058
+"maxMessage": 1065
 },
 {
 "name": "CreativeAdv",
@@ -1595,9 +1595,9 @@
 "name": "javascript_jobs",
 "title": "JavaScript Jobs — чат",
 "image": "data/logo/javascript_jobs.jpeg",
-"currentMessage": 248402,
+"currentMessage": 248843,
 "minMessage": 1,
-"maxMessage": 248402
+"maxMessage": 248843
 },
 {
 "name": "seohr",
@@ -1611,9 +1611,9 @@
 "name": "codeblog",
 "title": "CODE BLOG / Программирование",
 "image": "data/logo/codeblog.jpeg",
-"currentMessage": 510,
+"currentMessage": 511,
 "minMessage": 1,
-"maxMessage": 510
+"maxMessage": 511
 },
 {
 "name": "jobs_abroad",
@@ -1651,9 +1651,9 @@
 "name": "howdyho_official",
 "title": "Хауди Хо™",
 "image": "data/logo/howdyho_official.jpeg",
-"currentMessage": 323,
+"currentMessage": 337,
 "minMessage": 1,
-"maxMessage": 323
+"maxMessage": 337
 },
 {
 "name": "TED_Talks",
@@ -1667,9 +1667,9 @@
 "name": "pstips",
 "title": "Post.Scriptum.Tips",
 "image": "data/logo/pstips.jpeg",
-"currentMessage": 753,
+"currentMessage": 754,
 "minMessage": 1,
-"maxMessage": 753
+"maxMessage": 754
 },
 {
 "name": "guinnessworldsrecord",
@@ -1707,9 +1707,9 @@
 "name": "ithutru",
 "title": "ITHUT: новости IT",
 "image": "data/logo/ithutru.jpeg",
-"currentMessage": 710,
+"currentMessage": 711,
 "minMessage": 1,
-"maxMessage": 710
+"maxMessage": 711
 },
 {
 "name": "Brideshead_Revisited",
@@ -1723,9 +1723,9 @@
 "name": "HNews",
 "title": "Hacker News на русском",
 "image": "data/logo/hnews.jpeg",
-"currentMessage": 21055,
+"currentMessage": 21062,
 "minMessage": 1,
-"maxMessage": 21055
+"maxMessage": 21062
 },
 {
 "name": "ru_python",
@@ -1763,17 +1763,17 @@
 "name": "ilyabirman_channel",
 "title": "Канал Ильи Бирмана",
 "image": "data/logo/ilyabirman_channel.jpeg",
-"currentMessage": 3213,
+"currentMessage": 3220,
 "minMessage": 1,
-"maxMessage": 3213
+"maxMessage": 3220
 },
 {
 "name": "Relocats",
 "title": "IT Relocation (Inflow)",
 "image": "data/logo/relocats.jpeg",
-"currentMessage": 542,
+"currentMessage": 543,
 "minMessage": 1,
-"maxMessage": 542
+"maxMessage": 543
 },
 {
 "name": "mosinkru",
@@ -1803,9 +1803,9 @@
 "name": "artplanet",
 "title": "Art planet",
 "image": "data/logo/artplanet.jpeg",
-"currentMessage": 4395,
+"currentMessage": 4396,
 "minMessage": 1,
-"maxMessage": 4395
+"maxMessage": 4396
 },
 {
 "name": "damirkhalilov",
@@ -1819,9 +1819,9 @@
 "name": "netology_ru",
 "title": "Нетология",
 "image": "data/logo/netology_ru.jpeg",
-"currentMessage": 1092,
+"currentMessage": 1093,
 "minMessage": 1,
-"maxMessage": 1092
+"maxMessage": 1093
 },
 {
 "name": "cybershit",
@@ -1851,9 +1851,9 @@
 "name": "historygothy",
 "title": "История и истории",
 "image": "data/logo/historygothy.jpeg",
-"currentMessage": 831,
+"currentMessage": 834,
 "minMessage": 1,
-"maxMessage": 831
+"maxMessage": 834
 },
 {
 "name": "epicgrowth",
@@ -1907,9 +1907,9 @@
 "name": "libmustdie",
 "title": "∏ρØƒuñçτØρ Øπτµç∑ | 👁‍🗨››››",
 "image": "data/logo/libmustdie.jpeg",
-"currentMessage": 1243,
+"currentMessage": 1244,
 "minMessage": 1,
-"maxMessage": 1243
+"maxMessage": 1244
 },
 {
 "name": "hotshot_chat",
@@ -1963,17 +1963,17 @@
 "name": "sketchdesigner",
 "title": "Скетч-дизайнер",
 "image": "data/logo/sketchdesigner.jpeg",
-"currentMessage": 467,
+"currentMessage": 469,
 "minMessage": 1,
-"maxMessage": 467
+"maxMessage": 469
 },
 {
 "name": "dou_relocate",
 "title": "Трактор на DOU",
 "image": "data/logo/dou_relocate.jpeg",
-"currentMessage": 331,
+"currentMessage": 332,
 "minMessage": 1,
-"maxMessage": 331
+"maxMessage": 332
 },
 {
 "name": "react_js",
@@ -1995,9 +1995,9 @@
 "name": "alphacentaurichannel",
 "title": "Alpha Centauri | Космос",
 "image": "data/logo/alphacentaurichannel.jpeg",
-"currentMessage": 2057,
+"currentMessage": 2058,
 "minMessage": 1,
-"maxMessage": 2057
+"maxMessage": 2058
 },
 {
 "name": "mobile_jobs",
@@ -2027,9 +2027,9 @@
 "name": "theaftertimes",
 "title": "The After Times",
 "image": "data/logo/theaftertimes.jpeg",
-"currentMessage": 3297,
+"currentMessage": 3300,
 "minMessage": 1,
-"maxMessage": 3297
+"maxMessage": 3300
 },
 {
 "name": "AndroidResId",
@@ -2067,9 +2067,9 @@
 "name": "pro_imarketing",
 "title": "Маркетинг @ «без воды»",
 "image": "data/logo/pro_imarketing.jpeg",
-"currentMessage": 224,
+"currentMessage": 225,
 "minMessage": 1,
-"maxMessage": 224
+"maxMessage": 225
 },
 {
 "name": "b2bpipeline",
@@ -2083,25 +2083,25 @@
 "name": "designolog",
 "title": "Дизайнолог💥",
 "image": "data/logo/designolog.jpeg",
-"currentMessage": 291,
+"currentMessage": 292,
 "minMessage": 1,
-"maxMessage": 291
+"maxMessage": 292
 },
 {
 "name": "seolife",
 "title": "SEO life",
 "image": "data/logo/seolife.jpeg",
-"currentMessage": 5303,
+"currentMessage": 5305,
 "minMessage": 1,
-"maxMessage": 5303
+"maxMessage": 5305
 },
 {
 "name": "forgeeks",
 "title": "ForGeeks",
 "image": "data/logo/forgeeks.jpeg",
-"currentMessage": 471,
+"currentMessage": 472,
 "minMessage": 1,
-"maxMessage": 471
+"maxMessage": 472
 },
 {
 "name": "canadakaknado",
@@ -2123,17 +2123,17 @@
 "name": "fedevelopment",
 "title": "FrontEnd Development",
 "image": "data/logo/fedevelopment.jpeg",
-"currentMessage": 1626,
+"currentMessage": 1628,
 "minMessage": 1,
-"maxMessage": 1626
+"maxMessage": 1628
 },
 {
 "name": "passonboard",
 "title": "PassOnBoard - Путешествуем дешево! Авиабилеты, туры, отели",
 "image": "data/logo/passonboard.jpeg",
-"currentMessage": 5508,
+"currentMessage": 5512,
 "minMessage": 1,
-"maxMessage": 5508
+"maxMessage": 5512
 },
 {
 "name": "PkGoInfo",
@@ -2155,33 +2155,33 @@
 "name": "gamer",
 "title": "Геймер",
 "image": "data/logo/gamer.jpeg",
-"currentMessage": 2058,
+"currentMessage": 2061,
 "minMessage": 1,
-"maxMessage": 2058
+"maxMessage": 2061
 },
 {
 "name": "designlessons",
 "title": "Design Lessons",
 "image": "data/logo/designlessons.jpeg",
-"currentMessage": 450,
+"currentMessage": 452,
 "minMessage": 1,
-"maxMessage": 450
+"maxMessage": 452
 },
 {
 "name": "pressfeed",
 "title": "Pressfeed. Маркетинг без бюджета",
 "image": "data/logo/pressfeed.jpeg",
-"currentMessage": 873,
+"currentMessage": 874,
 "minMessage": 1,
-"maxMessage": 873
+"maxMessage": 874
 },
 {
 "name": "perspectiveix",
 "title": "🚀 Perspective IX",
 "image": "data/logo/perspectiveix.jpeg",
-"currentMessage": 1504,
+"currentMessage": 1505,
 "minMessage": 1,
-"maxMessage": 1504
+"maxMessage": 1505
 },
 {
 "name": "govorit_recruiter",
@@ -2307,9 +2307,9 @@
 "name": "zametkiobamerike",
 "title": "Заметки об Америке",
 "image": "data/logo/zametkiobamerike.jpeg",
-"currentMessage": 445,
+"currentMessage": 447,
 "minMessage": 1,
-"maxMessage": 445
+"maxMessage": 447
 },
 {
 "name": "webanalyst",
@@ -2347,9 +2347,9 @@
 "name": "loskomag",
 "title": "Losko",
 "image": "data/logo/loskomag.jpeg",
-"currentMessage": 3519,
+"currentMessage": 3524,
 "minMessage": 1,
-"maxMessage": 3519
+"maxMessage": 3524
 },
 {
 "name": "umarketer",
@@ -2363,9 +2363,9 @@
 "name": "surrealpics",
 "title": "Surrealism",
 "image": "data/logo/surrealpics.jpeg",
-"currentMessage": 3879,
+"currentMessage": 3880,
 "minMessage": 1,
-"maxMessage": 3879
+"maxMessage": 3880
 },
 {
 "name": "android_ru",
@@ -2395,9 +2395,9 @@
 "name": "polkast",
 "title": "Полка фрилансера",
 "image": "data/logo/polkast.jpeg",
-"currentMessage": 198,
+"currentMessage": 201,
 "minMessage": 1,
-"maxMessage": 198
+"maxMessage": 201
 },
 {
 "name": "ru_python_beginners",
@@ -2427,9 +2427,9 @@
 "name": "iosgr",
 "title": "iOS Good Reads – swift, разработка мобильных приложений, архитектура, блокчейн, VR, AR, карьера, IT",
 "image": "data/logo/iosgr.jpeg",
-"currentMessage": 1018,
+"currentMessage": 1019,
 "minMessage": 1,
-"maxMessage": 1018
+"maxMessage": 1019
 },
 {
 "name": "msdnru",
@@ -2451,17 +2451,17 @@
 "name": "redditpics",
 "title": "Reddit",
 "image": "data/logo/redditpics.jpeg",
-"currentMessage": 3737,
+"currentMessage": 3739,
 "minMessage": 1,
-"maxMessage": 3737
+"maxMessage": 3739
 },
 {
 "name": "graffitiworld",
 "title": "Graffiti World",
 "image": "data/logo/graffitiworld.jpeg",
-"currentMessage": 1120,
+"currentMessage": 1121,
 "minMessage": 1,
-"maxMessage": 1120
+"maxMessage": 1121
 },
 {
 "name": "netpeak",
@@ -2507,9 +2507,9 @@
 "name": "strangeart",
 "title": "Strange Art",
 "image": "data/logo/strangeart.jpeg",
-"currentMessage": 2174,
+"currentMessage": 2176,
 "minMessage": 1,
-"maxMessage": 2174
+"maxMessage": 2176
 },
 {
 "name": "vuejs_ru",
@@ -2523,17 +2523,17 @@
 "name": "bureaugorbunov",
 "title": "Бюро Горбунова",
 "image": "data/logo/bureaugorbunov.jpeg",
-"currentMessage": 717,
+"currentMessage": 718,
 "minMessage": 1,
-"maxMessage": 717
+"maxMessage": 718
 },
 {
 "name": "make_up",
 "title": "Make Up",
 "image": "data/logo/make_up.jpeg",
-"currentMessage": 1452,
+"currentMessage": 1453,
 "minMessage": 1,
-"maxMessage": 1452
+"maxMessage": 1453
 },
 {
 "name": "designerschannel",
@@ -2603,9 +2603,9 @@
 "name": "binance_premium_signals",
 "title": "Binance Premium Signals",
 "image": "data/logo/binance_premium_signals.jpeg",
-"currentMessage": 1629,
+"currentMessage": 1631,
 "minMessage": 1,
-"maxMessage": 1629
+"maxMessage": 1631
 },
 {
 "name": "itextrapolation",
@@ -2635,9 +2635,9 @@
 "name": "vertigo_com_ua",
 "title": "Vertigo",
 "image": "data/logo/vertigo_com_ua.jpeg",
-"currentMessage": 2319,
+"currentMessage": 2320,
 "minMessage": 1,
-"maxMessage": 2319
+"maxMessage": 2320
 },
 {
 "name": "tginfochat",
@@ -2667,9 +2667,9 @@
 "name": "hacker_news_feed",
 "title": "Hacker News",
 "image": "data/logo/hacker_news_feed.jpeg",
-"currentMessage": 33895,
+"currentMessage": 33921,
 "minMessage": 1,
-"maxMessage": 33895
+"maxMessage": 33921
 },
 {
 "name": "bizikovru",
@@ -2707,9 +2707,9 @@
 "name": "java_developer",
 "title": "Java Dev",
 "image": "data/logo/java_developer.jpeg",
-"currentMessage": 219,
+"currentMessage": 220,
 "minMessage": 1,
-"maxMessage": 219
+"maxMessage": 220
 },
 {
 "name": "myjobit",
@@ -2731,9 +2731,9 @@
 "name": "moikrug",
 "title": "Мой круг",
 "image": "data/logo/moikrug.jpeg",
-"currentMessage": 19082,
+"currentMessage": 19101,
 "minMessage": 1,
-"maxMessage": 19082
+"maxMessage": 19101
 },
 {
 "name": "MicrosoftRus",
@@ -2795,9 +2795,9 @@
 "name": "thefrontend",
 "title": "TheFrontEnd🔥",
 "image": "data/logo/thefrontend.jpeg",
-"currentMessage": 180,
+"currentMessage": 184,
 "minMessage": 1,
-"maxMessage": 180
+"maxMessage": 184
 },
 {
 "name": "digital_art_cg",
@@ -2939,9 +2939,9 @@
 "name": "front_end_first",
 "title": "Front End World",
 "image": "data/logo/front_end_first.jpeg",
-"currentMessage": 827,
+"currentMessage": 828,
 "minMessage": 1,
-"maxMessage": 827
+"maxMessage": 828
 },
 {
 "name": "TimurKan",
@@ -2955,9 +2955,9 @@
 "name": "comicsgeek",
 "title": "GeekCom / Comics art",
 "image": "data/logo/comicsgeek.jpeg",
-"currentMessage": 28442,
+"currentMessage": 28479,
 "minMessage": 1,
-"maxMessage": 28442
+"maxMessage": 28479
 },
 {
 "name": "analysts_hunter",
@@ -3075,9 +3075,9 @@
 "name": "interior_gorilla",
 "title": "Interior Gorilla",
 "image": "data/logo/interior_gorilla.jpeg",
-"currentMessage": 821,
+"currentMessage": 823,
 "minMessage": 1,
-"maxMessage": 821
+"maxMessage": 823
 },
 {
 "name": "bigdata_ru",
@@ -3115,17 +3115,17 @@
 "name": "logotypes",
 "title": "СПNЗЖУ LOGO",
 "image": "data/logo/logotypes.jpeg",
-"currentMessage": 1980,
+"currentMessage": 1982,
 "minMessage": 1,
-"maxMessage": 1980
+"maxMessage": 1982
 },
 {
 "name": "knossoslab",
 "title": "Очень Древняя Греция",
 "image": "data/logo/knossoslab.jpeg",
-"currentMessage": 405,
+"currentMessage": 407,
 "minMessage": 1,
-"maxMessage": 405
+"maxMessage": 407
 },
 {
 "name": "usadetails",
@@ -3211,17 +3211,17 @@
 "name": "postapocalypse",
 "title": "Postapocalypse",
 "image": "data/logo/postapocalypse.jpeg",
-"currentMessage": 2792,
+"currentMessage": 2797,
 "minMessage": 1,
-"maxMessage": 2792
+"maxMessage": 2797
 },
 {
 "name": "tmfeed",
 "title": "TM FEED",
 "image": "data/logo/tmfeed.jpeg",
-"currentMessage": 49373,
+"currentMessage": 49386,
 "minMessage": 1,
-"maxMessage": 49373
+"maxMessage": 49386
 },
 {
 "name": "forproducts",
@@ -3267,9 +3267,9 @@
 "name": "globchan",
 "title": "Glob (science news, новости науки)",
 "image": "data/logo/globchan.jpeg",
-"currentMessage": 1439,
+"currentMessage": 1441,
 "minMessage": 1,
-"maxMessage": 1439
+"maxMessage": 1441
 },
 {
 "name": "BestSignalsBTC",
@@ -3315,9 +3315,9 @@
 "name": "anonhownow",
 "title": "Well, Cinéma Times",
 "image": "data/logo/anonhownow.jpeg",
-"currentMessage": 536,
+"currentMessage": 537,
 "minMessage": 1,
-"maxMessage": 536
+"maxMessage": 537
 },
 {
 "name": "devchampions",
@@ -3331,9 +3331,9 @@
 "name": "budgetrip",
 "title": "БюджеТрип ✈️🚢🚂",
 "image": "data/logo/budgetrip.jpeg",
-"currentMessage": 67,
+"currentMessage": 70,
 "minMessage": 1,
-"maxMessage": 67
+"maxMessage": 70
 },
 {
 "name": "searchenginesru",
@@ -3347,9 +3347,9 @@
 "name": "yourcontext",
 "title": "Маркетинг|AdWords|Я.Директ|Analytica|Таргет",
 "image": "data/logo/yourcontext.jpeg",
-"currentMessage": 521,
+"currentMessage": 522,
 "minMessage": 1,
-"maxMessage": 521
+"maxMessage": 522
 },
 {
 "name": "tgTin",
@@ -3379,9 +3379,9 @@
 "name": "iamdreamer",
 "title": "Daydreamer",
 "image": "data/logo/iamdreamer.jpeg",
-"currentMessage": 5238,
+"currentMessage": 5241,
 "minMessage": 1,
-"maxMessage": 5238
+"maxMessage": 5241
 },
 {
 "name": "FootyNews",
@@ -3395,9 +3395,9 @@
 "name": "mobilenewsru",
 "title": "Mobile News",
 "image": "data/logo/mobilenewsru.jpeg",
-"currentMessage": 303,
+"currentMessage": 304,
 "minMessage": 1,
-"maxMessage": 303
+"maxMessage": 304
 },
 {
 "name": "TexterraBlog",
@@ -3451,9 +3451,9 @@
 "name": "dirtytractor",
 "title": "Грязный Трактор :: Бегите , глупцы!",
 "image": "data/logo/dirtytractor.jpeg",
-"currentMessage": 381418,
+"currentMessage": 381566,
 "minMessage": 1,
-"maxMessage": 381418
+"maxMessage": 381566
 },
 {
 "name": "iosdevio",
@@ -3467,25 +3467,25 @@
 "name": "freelancewayup",
 "title": "WAYUP Freelance",
 "image": "data/logo/freelancewayup.jpeg",
-"currentMessage": 747,
+"currentMessage": 748,
 "minMessage": 1,
-"maxMessage": 747
+"maxMessage": 748
 },
 {
 "name": "onecv8",
 "title": "1С:Предприятие 8",
 "image": "data/logo/onecv8.jpeg",
-"currentMessage": 962,
+"currentMessage": 963,
 "minMessage": 1,
-"maxMessage": 962
+"maxMessage": 963
 },
 {
 "name": "gamedevtalk",
 "title": "Говорим о разработке игр",
 "image": "data/logo/gamedevtalk.jpeg",
-"currentMessage": 542446,
+"currentMessage": 542510,
 "minMessage": 1,
-"maxMessage": 542446
+"maxMessage": 542510
 },
 {
 "name": "pgsql",
@@ -3507,9 +3507,9 @@
 "name": "AmericanoX",
 "title": "Американо X",
 "image": "data/logo/americanox.jpeg",
-"currentMessage": 202,
+"currentMessage": 205,
 "minMessage": 1,
-"maxMessage": 202
+"maxMessage": 205
 },
 {
 "name": "teknikdom",
@@ -3555,41 +3555,41 @@
 "name": "mflow",
 "title": "Маркетинг Сайта",
 "image": "data/logo/mflow.jpeg",
-"currentMessage": 170,
+"currentMessage": 171,
 "minMessage": 1,
-"maxMessage": 170
+"maxMessage": 171
 },
 {
 "name": "programmer_live",
 "title": "Developers Club",
 "image": "data/logo/programmer_live.jpeg",
-"currentMessage": 172,
+"currentMessage": 173,
 "minMessage": 1,
-"maxMessage": 172
+"maxMessage": 173
 },
 {
 "name": "designpub",
 "title": "Новости Дизайн-кабака",
 "image": "data/logo/designpub.jpeg",
-"currentMessage": 393,
+"currentMessage": 394,
 "minMessage": 1,
-"maxMessage": 393
+"maxMessage": 394
 },
 {
 "name": "uxhorn",
 "title": "UX Horn",
 "image": "data/logo/uxhorn.jpeg",
-"currentMessage": 628,
+"currentMessage": 630,
 "minMessage": 1,
-"maxMessage": 628
+"maxMessage": 630
 },
 {
 "name": "github_repos",
 "title": "GitHub repos",
 "image": "data/logo/github_repos.jpeg",
-"currentMessage": 1930,
+"currentMessage": 1932,
 "minMessage": 1,
-"maxMessage": 1930
+"maxMessage": 1932
 },
 {
 "name": "fortyD",
@@ -3683,17 +3683,17 @@
 "name": "jvmjobs",
 "title": "pro.JVM Jobs",
 "image": "data/logo/jvmjobs.jpeg",
-"currentMessage": 313,
+"currentMessage": 314,
 "minMessage": 1,
-"maxMessage": 313
+"maxMessage": 314
 },
 {
 "name": "MikrotikRu",
 "title": "MikrotikRu",
 "image": "data/logo/mikrotikru.jpeg",
-"currentMessage": 352523,
+"currentMessage": 352833,
 "minMessage": 1,
-"maxMessage": 352523
+"maxMessage": 352833
 },
 {
 "name": "steampunks",
@@ -3747,9 +3747,9 @@
 "name": "uwebdesign",
 "title": "uWebDesign.ru",
 "image": "data/logo/uwebdesign.jpeg",
-"currentMessage": 1161,
+"currentMessage": 1162,
 "minMessage": 1,
-"maxMessage": 1161
+"maxMessage": 1162
 },
 {
 "name": "dncuug",
@@ -3819,9 +3819,9 @@
 "name": "newhr",
 "title": "Job in IT&Digital",
 "image": "data/logo/newhr.jpeg",
-"currentMessage": 988,
+"currentMessage": 989,
 "minMessage": 1,
-"maxMessage": 988
+"maxMessage": 989
 },
 {
 "name": "clickhouse_ru",
@@ -3835,9 +3835,9 @@
 "name": "itfreelancers",
 "title": "IT freelance",
 "image": "data/logo/itfreelancers.jpeg",
-"currentMessage": 214,
+"currentMessage": 215,
 "minMessage": 1,
-"maxMessage": 214
+"maxMessage": 215
 },
 {
 "name": "proGO",
@@ -3875,9 +3875,9 @@
 "name": "nag_public",
 "title": "Nag.Ru",
 "image": "data/logo/nag_public.jpeg",
-"currentMessage": 356418,
+"currentMessage": 356587,
 "minMessage": 1,
-"maxMessage": 356418
+"maxMessage": 356587
 },
 {
 "name": "fedora",
@@ -3899,9 +3899,9 @@
 "name": "ain_ua_tg",
 "title": "AIN.UA",
 "image": "data/logo/ain_ua_tg.jpeg",
-"currentMessage": 4081,
+"currentMessage": 4083,
 "minMessage": 1,
-"maxMessage": 4081
+"maxMessage": 4083
 },
 {
 "name": "webpromoexperts",
@@ -4027,9 +4027,9 @@
 "name": "pydjango",
 "title": "Django",
 "image": "data/logo/pydjango.jpeg",
-"currentMessage": 163229,
+"currentMessage": 163424,
 "minMessage": 1,
-"maxMessage": 163229
+"maxMessage": 163424
 },
 {
 "name": "UnrealEngine4",
@@ -4059,17 +4059,17 @@
 "name": "worldzoo",
 "title": "World ZOO 🐿",
 "image": "data/logo/worldzoo.jpeg",
-"currentMessage": 4254,
+"currentMessage": 4256,
 "minMessage": 1,
-"maxMessage": 4254
+"maxMessage": 4256
 },
 {
 "name": "bamrus",
 "title": "Бизнес-анализ",
 "image": "data/logo/bamrus.jpeg",
-"currentMessage": 2708,
+"currentMessage": 2710,
 "minMessage": 1,
-"maxMessage": 2708
+"maxMessage": 2710
 },
 {
 "name": "silasveta_kitchen",
@@ -4091,9 +4091,9 @@
 "name": "gamedev_calendar",
 "title": "Календарь событий игровой индустрии",
 "image": "data/logo/gamedev_calendar.jpeg",
-"currentMessage": 217,
+"currentMessage": 218,
 "minMessage": 1,
-"maxMessage": 217
+"maxMessage": 218
 },
 {
 "name": "justtallinn",
@@ -4123,17 +4123,17 @@
 "name": "ai_life",
 "title": "AI / Искусственный Интеллект",
 "image": "data/logo/ai_life.jpeg",
-"currentMessage": 3030,
+"currentMessage": 3032,
 "minMessage": 1,
-"maxMessage": 3030
+"maxMessage": 3032
 },
 {
 "name": "javascriptjobs",
 "title": "JS Jobs",
 "image": "data/logo/javascriptjobs.jpeg",
-"currentMessage": 6772,
+"currentMessage": 6786,
 "minMessage": 1,
-"maxMessage": 6772
+"maxMessage": 6786
 },
 {
 "name": "la_vidaloca",
@@ -4147,9 +4147,9 @@
 "name": "mobidevices",
 "title": "MobiDevices | гаджеты, технологии, интернет",
 "image": "data/logo/mobidevices.jpeg",
-"currentMessage": 1382,
+"currentMessage": 1384,
 "minMessage": 1,
-"maxMessage": 1382
+"maxMessage": 1384
 },
 {
 "name": "gamedev_architecture",
@@ -4227,9 +4227,9 @@
 "name": "praima",
 "title": "Практика интернет-маркетинга — SEO, контекст, аналитика, юзабилити, маркетинг",
 "image": "data/logo/praima.jpeg",
-"currentMessage": 297,
+"currentMessage": 298,
 "minMessage": 1,
-"maxMessage": 297
+"maxMessage": 298
 },
 {
 "name": "ZabbixPro",
@@ -4259,9 +4259,9 @@
 "name": "scala_ru",
 "title": "Scala User Group",
 "image": "data/logo/scala_ru.jpeg",
-"currentMessage": 165992,
+"currentMessage": 166186,
 "minMessage": 1,
-"maxMessage": 165992
+"maxMessage": 166186
 },
 {
 "name": "Dota2Art",
@@ -4275,9 +4275,9 @@
 "name": "VR_Journal",
 "title": "VR Journal - Уютненько о VR/AR/MR/360-технологиях",
 "image": "data/logo/vr_journal.jpeg",
-"currentMessage": 2114,
+"currentMessage": 2116,
 "minMessage": 1,
-"maxMessage": 2114
+"maxMessage": 2116
 },
 {
 "name": "illustrationru",
@@ -4363,9 +4363,9 @@
 "name": "androiddeveu",
 "title": "Android Developers",
 "image": "data/logo/androiddeveu.jpeg",
-"currentMessage": 489,
+"currentMessage": 491,
 "minMessage": 1,
-"maxMessage": 489
+"maxMessage": 491
 },
 {
 "name": "chartomojka",
@@ -4411,9 +4411,9 @@
 "name": "rabota_sunone",
 "title": "🔸Sun One - Работа🔸",
 "image": "data/logo/rabota_sunone.jpeg",
-"currentMessage": 48,
+"currentMessage": 49,
 "minMessage": 1,
-"maxMessage": 48
+"maxMessage": 49
 },
 {
 "name": "seotrue",
@@ -4459,9 +4459,9 @@
 "name": "seospecialist",
 "title": "SEO-специалист",
 "image": "data/logo/seospecialist.jpeg",
-"currentMessage": 361,
+"currentMessage": 362,
 "minMessage": 1,
-"maxMessage": 361
+"maxMessage": 362
 },
 {
 "name": "worksterdam",
@@ -4507,9 +4507,9 @@
 "name": "ilyadzenski_channel",
 "title": "Канал Ильи Дзенски",
 "image": "data/logo/ilyadzenski_channel.jpeg",
-"currentMessage": 517,
+"currentMessage": 518,
 "minMessage": 1,
-"maxMessage": 517
+"maxMessage": 518
 },
 {
 "name": "USA_TUSA",
@@ -4523,17 +4523,17 @@
 "name": "seoaralov",
 "title": "Канал Аралова Евгения",
 "image": "data/logo/seoaralov.jpeg",
-"currentMessage": 415,
+"currentMessage": 416,
 "minMessage": 1,
-"maxMessage": 415
+"maxMessage": 416
 },
 {
 "name": "arsenkin_ru",
 "title": "arsenkin.RU - personal channel",
 "image": "data/logo/arsenkin_ru.jpeg",
-"currentMessage": 84,
+"currentMessage": 85,
 "minMessage": 1,
-"maxMessage": 84
+"maxMessage": 85
 },
 {
 "name": "dev_design",
@@ -4563,9 +4563,9 @@
 "name": "arduino_io",
 "title": "Arduino & robotics",
 "image": "data/logo/arduino_io.jpeg",
-"currentMessage": 127,
+"currentMessage": 129,
 "minMessage": 1,
-"maxMessage": 127
+"maxMessage": 129
 },
 {
 "name": "devschat",
@@ -4587,9 +4587,9 @@
 "name": "searchengines",
 "title": "Searchengines news channel",
 "image": "data/logo/searchengines.jpeg",
-"currentMessage": 5777,
+"currentMessage": 5780,
 "minMessage": 1,
-"maxMessage": 5777
+"maxMessage": 5780
 },
 {
 "name": "prophp7",
@@ -4643,9 +4643,9 @@
 "name": "mimimianimal",
 "title": "Mimimi animals",
 "image": "data/logo/mimimianimal.jpeg",
-"currentMessage": 2184,
+"currentMessage": 2186,
 "minMessage": 1,
-"maxMessage": 2184
+"maxMessage": 2186
 },
 {
 "name": "chat_interestingcalgary",
@@ -4707,17 +4707,17 @@
 "name": "oop_ru",
 "title": "Software Design and OOP",
 "image": "data/logo/oop_ru.jpeg",
-"currentMessage": 72553,
+"currentMessage": 72618,
 "minMessage": 1,
-"maxMessage": 72553
+"maxMessage": 72618
 },
 {
 "name": "Seoschnitsa",
 "title": "SEOшница",
 "image": "data/logo/seoschnitsa.jpeg",
-"currentMessage": 151,
+"currentMessage": 156,
 "minMessage": 1,
-"maxMessage": 151
+"maxMessage": 156
 },
 {
 "name": "sea_plus_plus",
@@ -4819,9 +4819,9 @@
 "name": "seodied",
 "title": "Уставший сеошник",
 "image": "data/logo/seodied.jpeg",
-"currentMessage": 274,
+"currentMessage": 275,
 "minMessage": 1,
-"maxMessage": 274
+"maxMessage": 275
 },
 {
 "name": "eng_for_rus",
@@ -4843,9 +4843,9 @@
 "name": "business_brands",
 "title": "НА БРЕНДЕ",
 "image": "data/logo/business_brands.jpeg",
-"currentMessage": 200,
+"currentMessage": 202,
 "minMessage": 1,
-"maxMessage": 200
+"maxMessage": 202
 },
 {
 "name": "drunktargetolog",
@@ -4907,9 +4907,9 @@
 "name": "smmtg",
 "title": "🗯 Костя шарит (запрещенный канал в 🇷🇺)",
 "image": "data/logo/smmtg.jpeg",
-"currentMessage": 6046,
+"currentMessage": 6052,
 "minMessage": 1,
-"maxMessage": 6046
+"maxMessage": 6052
 },
 {
 "name": "angular2",
@@ -5003,9 +5003,9 @@
 "name": "trashbar",
 "title": "TrashBar",
 "image": "data/logo/trashbar.jpeg",
-"currentMessage": 6007,
+"currentMessage": 6020,
 "minMessage": 1,
-"maxMessage": 6007
+"maxMessage": 6020
 },
 {
 "name": "rudepython",
@@ -5035,9 +5035,9 @@
 "name": "best_designer_ru",
 "title": "📌 Best Designer",
 "image": "data/logo/best_designer_ru.jpeg",
-"currentMessage": 494,
+"currentMessage": 495,
 "minMessage": 1,
-"maxMessage": 494
+"maxMessage": 495
 },
 {
 "name": "itradiostream",
@@ -5091,9 +5091,9 @@
 "name": "shitty_android",
 "title": "Android Дичь",
 "image": "data/logo/shitty_android.jpeg",
-"currentMessage": 365,
+"currentMessage": 367,
 "minMessage": 1,
-"maxMessage": 365
+"maxMessage": 367
 },
 {
 "name": "violachat",
@@ -5203,9 +5203,9 @@
 "name": "sysadmin_jobs",
 "title": "sysadmin_jobs",
 "image": "data/logo/sysadmin_jobs.jpeg",
-"currentMessage": 190,
+"currentMessage": 192,
 "minMessage": 1,
-"maxMessage": 190
+"maxMessage": 192
 },
 {
 "name": "DEFCON",
@@ -5219,17 +5219,17 @@
 "name": "opennews",
 "title": "opennet news",
 "image": "data/logo/opennews.jpeg",
-"currentMessage": 3926,
+"currentMessage": 3931,
 "minMessage": 1,
-"maxMessage": 3926
+"maxMessage": 3931
 },
 {
 "name": "golifehacks",
 "title": "Golifehacks.info",
 "image": "data/logo/golifehacks.jpeg",
-"currentMessage": 3851,
+"currentMessage": 3853,
 "minMessage": 1,
-"maxMessage": 3851
+"maxMessage": 3853
 },
 {
 "name": "hello_blogger",
@@ -5243,9 +5243,9 @@
 "name": "mysql_db",
 "title": "MySQL",
 "image": "data/logo/mysql_db.jpeg",
-"currentMessage": 27951,
+"currentMessage": 28175,
 "minMessage": 1,
-"maxMessage": 27951
+"maxMessage": 28175
 },
 {
 "name": "haskellru",
@@ -5275,9 +5275,9 @@
 "name": "planktonchallenge",
 "title": "Планктон челлендж",
 "image": "data/logo/planktonchallenge.jpeg",
-"currentMessage": 3215,
+"currentMessage": 3221,
 "minMessage": 1,
-"maxMessage": 3215
+"maxMessage": 3221
 },
 {
 "name": "phpclubru",
@@ -5339,9 +5339,9 @@
 "name": "jobs4all_ru",
 "title": "Dream jobs",
 "image": "data/logo/jobs4all_ru.jpeg",
-"currentMessage": 2017,
+"currentMessage": 2026,
 "minMessage": 1,
-"maxMessage": 2017
+"maxMessage": 2026
 },
 {
 "name": "dsgn_bear",
@@ -5387,9 +5387,9 @@
 "name": "web_stack",
 "title": "Web Stack — FrontEnd/BackEnd",
 "image": "data/logo/web_stack.jpeg",
-"currentMessage": 209,
+"currentMessage": 210,
 "minMessage": 1,
-"maxMessage": 209
+"maxMessage": 210
 },
 {
 "name": "rustlang_ru",
@@ -5403,9 +5403,9 @@
 "name": "russkydigital",
 "title": "Русский диджитал",
 "image": "data/logo/russkydigital.jpeg",
-"currentMessage": 718,
+"currentMessage": 725,
 "minMessage": 1,
-"maxMessage": 718
+"maxMessage": 725
 },
 {
 "name": "articall",
@@ -5419,9 +5419,9 @@
 "name": "kktcto",
 "title": "злой цтошник ©",
 "image": "data/logo/kktcto.jpeg",
-"currentMessage": 169,
+"currentMessage": 170,
 "minMessage": 1,
-"maxMessage": 169
+"maxMessage": 170
 },
 {
 "name": "projects_jobs",
@@ -5435,9 +5435,9 @@
 "name": "datascienceboom",
 "title": "Data Science Boom",
 "image": "data/logo/datascienceboom.jpeg",
-"currentMessage": 396,
+"currentMessage": 397,
 "minMessage": 1,
-"maxMessage": 396
+"maxMessage": 397
 },
 {
 "name": "springframeworkio",
@@ -5451,9 +5451,9 @@
 "name": "yellow1c",
 "title": "Люди в жёлтых халатах",
 "image": "data/logo/yellow1c.jpeg",
-"currentMessage": 742,
+"currentMessage": 749,
 "minMessage": 1,
-"maxMessage": 742
+"maxMessage": 749
 },
 {
 "name": "sky_arch",
@@ -5507,9 +5507,9 @@
 "name": "forfrontend",
 "title": "Job for Frontenders + Node.js",
 "image": "data/logo/forfrontend.jpeg",
-"currentMessage": 294,
+"currentMessage": 297,
 "minMessage": 1,
-"maxMessage": 294
+"maxMessage": 297
 },
 {
 "name": "tarantoolru",
@@ -5571,9 +5571,9 @@
 "name": "forallmedia",
 "title": "Job for Media & Content",
 "image": "data/logo/forallmedia.jpeg",
-"currentMessage": 249,
+"currentMessage": 253,
 "minMessage": 1,
-"maxMessage": 249
+"maxMessage": 253
 },
 {
 "name": "hadoopusers",
@@ -5627,9 +5627,9 @@
 "name": "uniblog",
 "title": "UniBlog",
 "image": "data/logo/uniblog.jpeg",
-"currentMessage": 347,
+"currentMessage": 348,
 "minMessage": 1,
-"maxMessage": 347
+"maxMessage": 348
 },
 {
 "name": "tolstoylive",
@@ -5643,9 +5643,9 @@
 "name": "OlimHadashim",
 "title": "🇮🇱 Новый Репатриант Израиль 🇮🇱",
 "image": "data/logo/olimhadashim.jpeg",
-"currentMessage": 12589,
+"currentMessage": 12668,
 "minMessage": 1,
-"maxMessage": 12589
+"maxMessage": 12668
 },
 {
 "name": "seoneo",
@@ -5691,9 +5691,9 @@
 "name": "forchiefs",
 "title": "Job for Chiefs (TOP vacancies)",
 "image": "data/logo/forchiefs.jpeg",
-"currentMessage": 267,
+"currentMessage": 269,
 "minMessage": 1,
-"maxMessage": 267
+"maxMessage": 269
 },
 {
 "name": "typescript_ru",
@@ -5755,41 +5755,41 @@
 "name": "YouTubek",
 "title": "YouTube Продвижение",
 "image": "data/logo/youtubek.jpeg",
-"currentMessage": 174,
+"currentMessage": 176,
 "minMessage": 1,
-"maxMessage": 174
+"maxMessage": 176
 },
 {
 "name": "GuerrainCielo",
 "title": "WAR IN HEAVEN",
 "image": "data/logo/guerraincielo.jpeg",
-"currentMessage": 5076,
+"currentMessage": 5081,
 "minMessage": 1,
-"maxMessage": 5076
+"maxMessage": 5081
 },
 {
 "name": "juliarderity",
 "title": "Juliarderity, nerdiness, geekery, travels, punk",
 "image": "data/logo/juliarderity.jpeg",
-"currentMessage": 61,
+"currentMessage": 64,
 "minMessage": 1,
-"maxMessage": 61
+"maxMessage": 64
 },
 {
 "name": "cultofwire",
 "title": "Cult Of Wire",
 "image": "data/logo/cultofwire.jpeg",
-"currentMessage": 717,
+"currentMessage": 718,
 "minMessage": 1,
-"maxMessage": 717
+"maxMessage": 718
 },
 {
 "name": "pro_hosting",
 "title": "Hosting and so on",
 "image": "data/logo/pro_hosting.jpeg",
-"currentMessage": 110178,
+"currentMessage": 110205,
 "minMessage": 1,
-"maxMessage": 110178
+"maxMessage": 110205
 },
 {
 "name": "beerjskyiv",
@@ -5811,9 +5811,9 @@
 "name": "maisdesigner",
 "title": "Mais Designer",
 "image": "data/logo/maisdesigner.jpeg",
-"currentMessage": 535,
+"currentMessage": 536,
 "minMessage": 1,
-"maxMessage": 535
+"maxMessage": 536
 },
 {
 "name": "bem_ru",
@@ -5907,9 +5907,9 @@
 "name": "forhr",
 "title": "Job for HR",
 "image": "data/logo/forhr.jpeg",
-"currentMessage": 213,
+"currentMessage": 214,
 "minMessage": 1,
-"maxMessage": 213
+"maxMessage": 214
 },
 {
 "name": "spb_frontend",
@@ -6027,9 +6027,9 @@
 "name": "NagNews",
 "title": "NagRuNews",
 "image": "data/logo/nagnews.jpeg",
-"currentMessage": 4020,
+"currentMessage": 4024,
 "minMessage": 1,
-"maxMessage": 4020
+"maxMessage": 4024
 },
 {
 "name": "ru_ipv6",
@@ -6067,9 +6067,9 @@
 "name": "lawlesstech",
 "title": "lawless.tech",
 "image": "data/logo/lawlesstech.jpeg",
-"currentMessage": 203,
+"currentMessage": 204,
 "minMessage": 1,
-"maxMessage": 203
+"maxMessage": 204
 },
 {
 "name": "casesmedia",
@@ -6203,9 +6203,9 @@
 "name": "dronenews",
 "title": "Drone news",
 "image": "data/logo/dronenews.jpeg",
-"currentMessage": 990,
+"currentMessage": 991,
 "minMessage": 1,
-"maxMessage": 990
+"maxMessage": 991
 },
 {
 "name": "mechmath",
@@ -6419,9 +6419,9 @@
 "name": "qazaqbiz",
 "title": "QAZAQBIZ🇰🇿 - блог о бизнесе в Казахстане",
 "image": "data/logo/qazaqbiz.jpeg",
-"currentMessage": 963,
+"currentMessage": 964,
 "minMessage": 1,
-"maxMessage": 963
+"maxMessage": 964
 },
 {
 "name": "google_spreadsheets_chat",
@@ -6435,9 +6435,9 @@
 "name": "thirdpin",
 "title": "Thirdpin",
 "image": "data/logo/thirdpin.jpeg",
-"currentMessage": 61,
+"currentMessage": 65,
 "minMessage": 1,
-"maxMessage": 61
+"maxMessage": 65
 },
 {
 "name": "mobileproglib",
@@ -6483,9 +6483,9 @@
 "name": "j_links",
 "title": "Just links",
 "image": "data/logo/j_links.jpeg",
-"currentMessage": 1707,
+"currentMessage": 1710,
 "minMessage": 1,
-"maxMessage": 1707
+"maxMessage": 1710
 },
 {
 "name": "highloadcup",
@@ -6507,9 +6507,9 @@
 "name": "nskoffice",
 "title": "Job Nsk it (Inflow)",
 "image": "data/logo/nskoffice.jpeg",
-"currentMessage": 240,
+"currentMessage": 242,
 "minMessage": 1,
-"maxMessage": 240
+"maxMessage": 242
 },
 {
 "name": "uxcraft",
@@ -6555,9 +6555,9 @@
 "name": "habrapub",
 "title": "ХабраХабр Pub.",
 "image": "data/logo/habrapub.jpeg",
-"currentMessage": 11365,
+"currentMessage": 11416,
 "minMessage": 1,
-"maxMessage": 11365
+"maxMessage": 11416
 },
 {
 "name": "chuvyr",
@@ -6707,9 +6707,9 @@
 "name": "VibrantWallpapers",
 "title": "Vibrant Walls",
 "image": "data/logo/vibrantwallpapers.jpeg",
-"currentMessage": 1406,
+"currentMessage": 1408,
 "minMessage": 1,
-"maxMessage": 1406
+"maxMessage": 1408
 },
 {
 "name": "zwook_chat",
@@ -6739,9 +6739,9 @@
 "name": "MFARussia",
 "title": "Russian MFA 🇷🇺",
 "image": "data/logo/mfarussia.jpeg",
-"currentMessage": 4957,
+"currentMessage": 4964,
 "minMessage": 1,
-"maxMessage": 4957
+"maxMessage": 4964
 },
 {
 "name": "vscode_ru",
@@ -6787,9 +6787,9 @@
 "name": "anotherpoint",
 "title": "POV",
 "image": "data/logo/anotherpoint.jpeg",
-"currentMessage": 145,
+"currentMessage": 146,
 "minMessage": 1,
-"maxMessage": 145
+"maxMessage": 146
 },
 {
 "name": "prostoydesign",
@@ -6803,9 +6803,9 @@
 "name": "fordesigner",
 "title": "Job for Designers",
 "image": "data/logo/fordesigner.jpeg",
-"currentMessage": 308,
+"currentMessage": 311,
 "minMessage": 1,
-"maxMessage": 308
+"maxMessage": 311
 },
 {
 "name": "ctfchat",
@@ -6939,9 +6939,9 @@
 "name": "spblug",
 "title": "SPbLUG News",
 "image": "data/logo/spblug.jpeg",
-"currentMessage": 187,
+"currentMessage": 188,
 "minMessage": 1,
-"maxMessage": 187
+"maxMessage": 188
 },
 {
 "name": "kuntashov_devnotes",
@@ -7003,9 +7003,9 @@
 "name": "gunshotairhornrewind",
 "title": "gunshot, airhorn & rewind",
 "image": "data/logo/gunshotairhornrewind.jpeg",
-"currentMessage": 566,
+"currentMessage": 571,
 "minMessage": 1,
-"maxMessage": 566
+"maxMessage": 571
 },
 {
 "name": "nuxtjs_ru",
@@ -7171,9 +7171,9 @@
 "name": "devbyall",
 "title": "DevBy",
 "image": "data/logo/devbyall.jpeg",
-"currentMessage": 3545,
+"currentMessage": 3546,
 "minMessage": 1,
-"maxMessage": 3545
+"maxMessage": 3546
 },
 {
 "name": "nipponchat",
@@ -7235,9 +7235,9 @@
 "name": "bzntm_events",
 "title": "BYZANTIUM | EVENTS",
 "image": "data/logo/bzntm_events.jpeg",
-"currentMessage": 523,
+"currentMessage": 524,
 "minMessage": 1,
-"maxMessage": 523
+"maxMessage": 524
 },
 {
 "name": "learning_xpresso",
@@ -7459,9 +7459,9 @@
 "name": "rabotaembedded",
 "title": "Work Embedded",
 "image": "data/logo/rabotaembedded.jpeg",
-"currentMessage": 82,
+"currentMessage": 83,
 "minMessage": 1,
-"maxMessage": 82
+"maxMessage": 83
 },
 {
 "name": "vms_blog",
@@ -7539,9 +7539,9 @@
 "name": "jobfortm",
 "title": "Job for IT-TOP (Technical Managers)",
 "image": "data/logo/jobfortm.jpeg",
-"currentMessage": 306,
+"currentMessage": 308,
 "minMessage": 1,
-"maxMessage": 306
+"maxMessage": 308
 },
 {
 "name": "DotNetChat",
@@ -7563,9 +7563,9 @@
 "name": "forallsales",
 "title": "Job for Sales & BizDev",
 "image": "data/logo/forallsales.jpeg",
-"currentMessage": 261,
+"currentMessage": 263,
 "minMessage": 1,
-"maxMessage": 261
+"maxMessage": 263
 },
 {
 "name": "cestlafrance",
@@ -7755,9 +7755,9 @@
 "name": "novosibirsktg",
 "title": "Новосибирск",
 "image": "data/logo/novosibirsktg.jpeg",
-"currentMessage": 2879,
+"currentMessage": 2881,
 "minMessage": 1,
-"maxMessage": 2879
+"maxMessage": 2881
 },
 {
 "name": "moscowrb",
@@ -7867,9 +7867,9 @@
 "name": "cotedazurchat",
 "title": "Ницца - Лазурный Берег",
 "image": "data/logo/cotedazurchat.jpeg",
-"currentMessage": 14652,
+"currentMessage": 14653,
 "minMessage": 1,
-"maxMessage": 14652
+"maxMessage": 14653
 },
 {
 "name": "waytonorway",
@@ -8011,9 +8011,9 @@
 "name": "proelixir_news",
 "title": "elixir_news",
 "image": "data/logo/proelixir_news.jpeg",
-"currentMessage": 3971,
+"currentMessage": 3974,
 "minMessage": 1,
-"maxMessage": 3971
+"maxMessage": 3974
 },
 {
 "name": "radioma",
@@ -8091,9 +8091,9 @@
 "name": "joomlafeed",
 "title": "Joomla Feed",
 "image": "data/logo/joomlafeed.jpeg",
-"currentMessage": 195,
+"currentMessage": 197,
 "minMessage": 1,
-"maxMessage": 195
+"maxMessage": 197
 },
 {
 "name": "proasterisk",
@@ -8251,9 +8251,9 @@
 "name": "fsharp_news",
 "title": "F# News",
 "image": "data/logo/fsharp_news.jpeg",
-"currentMessage": 428,
+"currentMessage": 429,
 "minMessage": 1,
-"maxMessage": 428
+"maxMessage": 429
 },
 {
 "name": "vuejs_news",
@@ -8387,9 +8387,9 @@
 "name": "forgamedev",
 "title": "Job for Gamedev",
 "image": "data/logo/forgamedev.jpeg",
-"currentMessage": 173,
+"currentMessage": 174,
 "minMessage": 1,
-"maxMessage": 173
+"maxMessage": 174
 },
 {
 "name": "chatanonhownow",
@@ -8443,9 +8443,9 @@
 "name": "pokashevarim",
 "title": "Покашеварим",
 "image": "data/logo/pokashevarim.jpeg",
-"currentMessage": 400,
+"currentMessage": 402,
 "minMessage": 1,
-"maxMessage": 400
+"maxMessage": 402
 },
 {
 "name": "crystal_ru",
@@ -8611,9 +8611,9 @@
 "name": "buhgalterYdalenka",
 "title": "SM Group Бухгалтерия на удаленке",
 "image": "data/logo/buhgalterydalenka.jpeg",
-"currentMessage": 41,
+"currentMessage": 43,
 "minMessage": 1,
-"maxMessage": 41
+"maxMessage": 43
 },
 {
 "name": "ru_openSUSE",
@@ -8635,9 +8635,9 @@
 "name": "golondon_info",
 "title": "GoLondon.info",
 "image": "data/logo/golondon_info.jpeg",
-"currentMessage": 2454,
+"currentMessage": 2458,
 "minMessage": 1,
-"maxMessage": 2454
+"maxMessage": 2458
 },
 {
 "name": "SingularityWitness",
@@ -8707,9 +8707,9 @@
 "name": "jobforpr",
 "title": "Job for PR",
 "image": "data/logo/jobforpr.jpeg",
-"currentMessage": 184,
+"currentMessage": 185,
 "minMessage": 1,
-"maxMessage": 184
+"maxMessage": 185
 },
 {
 "name": "nizamov_studio_1c",
@@ -8859,9 +8859,9 @@
 "name": "geekscontent",
 "title": "geeks content",
 "image": "data/logo/geekscontent.jpeg",
-"currentMessage": 200,
+"currentMessage": 202,
 "minMessage": 1,
-"maxMessage": 200
+"maxMessage": 202
 },
 {
 "name": "hwnrf",
@@ -8891,9 +8891,9 @@
 "name": "israelru",
 "title": "Еврейский Израиль",
 "image": "data/logo/israelru.jpeg",
-"currentMessage": 2968,
+"currentMessage": 2972,
 "minMessage": 1,
-"maxMessage": 2968
+"maxMessage": 2972
 },
 {
 "name": "productshmoduct",
@@ -8947,9 +8947,9 @@
 "name": "forallmobile",
 "title": "Job for Mobile Developers (iOS, Android)",
 "image": "data/logo/forallmobile.jpeg",
-"currentMessage": 201,
+"currentMessage": 204,
 "minMessage": 1,
-"maxMessage": 201
+"maxMessage": 204
 },
 {
 "name": "southkorean",
@@ -9075,9 +9075,9 @@
 "name": "forallqa",
 "title": "Job for QA",
 "image": "data/logo/forallqa.jpeg",
-"currentMessage": 194,
+"currentMessage": 195,
 "minMessage": 1,
-"maxMessage": 194
+"maxMessage": 195
 },
 {
 "name": "csharpchatru",
@@ -9163,9 +9163,9 @@
 "name": "ReduxAnotherDay",
 "title": "Абрамов Позвонит",
 "image": "data/logo/reduxanotherday.jpeg",
-"currentMessage": 180,
+"currentMessage": 181,
 "minMessage": 1,
-"maxMessage": 180
+"maxMessage": 181
 },
 {
 "name": "specialistoffnet",
@@ -9259,9 +9259,9 @@
 "name": "fordevops",
 "title": "Job for DevOps",
 "image": "data/logo/fordevops.jpeg",
-"currentMessage": 199,
+"currentMessage": 201,
 "minMessage": 1,
-"maxMessage": 199
+"maxMessage": 201
 },
 {
 "name": "tractorlv",
@@ -9323,9 +9323,9 @@
 "name": "csharp_1001_notes",
 "title": "C# 1001 notes",
 "image": "data/logo/csharp_1001_notes.jpeg",
-"currentMessage": 17,
+"currentMessage": 18,
 "minMessage": 1,
-"maxMessage": 17
+"maxMessage": 18
 },
 {
 "name": "netbeans_ru",
