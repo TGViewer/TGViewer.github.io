@@ -1,4 +1,4 @@
-[
+﻿[
 {
 "name": "Telegram",
 "title": "Telegram News",
@@ -5747,9 +5747,9 @@
 "name": "SuperDeals",
 "title": "SuperDeals",
 "image": "data/logo/superdeals.jpeg",
-"currentMessage": 613757,
-"minMessage": 510000,
-"maxMessage": 613757
+"currentMessage": 621874,
+"minMessage": 600762,
+"maxMessage": 621874
 },
 {
 "name": "MikrotikRu",
