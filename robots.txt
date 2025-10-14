@@ -1,2 +1,20 @@
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: BingAI
+Allow: /
+
+User-agent: OpenAI
+Allow: /
+
+User-agent: Anthropic
+Allow: /
+
+User-agent: *
+Allow: /
+
 Sitemap: https://tgviewer.github.io/sitemap.xml
 Sitemap: https://tgviewer.github.io/sitemap/sitemap-superdeals.xml
