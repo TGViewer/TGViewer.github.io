@@ -1,18 +1,3 @@
-User-agent: GPTBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: BingAI
-Allow: /
-
-User-agent: OpenAI
-Allow: /
-
-User-agent: Anthropic
-Allow: /
-
 User-agent: *
 Allow: /
 
